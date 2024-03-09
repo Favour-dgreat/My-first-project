@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html class="">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://telegram.org/blog","20230722223302","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1690065182");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <title>Telegram Blog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Telegram Blog">
+    <meta property="og:image" content="/web/20230722223302im_/https://telegram.org/blog">
+    <meta property="og:site_name" content="Telegram">
+    <meta property="og:description" content="">
+    
+    <meta property="fb:app_id" content="254098051407226">
+    <meta property="vk:app_id" content="3782569">
+    <meta name="apple-itunes-app" content="app-id=686449807">
+    <meta name="telegram:channel" content="@telegram">
+    
+    <link rel="icon" type="image/svg+xml" href="/web/20230722223302im_/https://telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="/web/20230722223302im_/https://telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/web/20230722223302im_/https://telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/web/20230722223302im_/https://telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon"/>
+    <link href="/web/20230722223302cs_/https://telegram.org/css/bootstrap.min.css?3" rel="stylesheet">
+    <link href="/web/20230722223302cs_/https://telegram.org/css/bootstrap-extra.css?2" rel="stylesheet">
+    <link href="/web/20230722223302cs_/https://telegram.org/css/telegram.css?236" rel="stylesheet" media="screen">
+  </head>
+  <body class="preload">
+    <div id="fb-root"></div>
+    <div class="tl_page_wrap">
+      <div class="tl_page_head navbar navbar-static-top navbar navbar-tg">
+        <div class="navbar-inner">
+          <div class="container clearfix">
+            <ul class="nav navbar-nav navbar-right"><li class="navbar-twitter hidden-xs"><a href="https://web.archive.org/web/20230722223302/https://twitter.com/telegram" target="_blank" data-track="Follow/Twitter" onclick="trackDlClick(this, event)"><i class="icon icon-twitter"></i> Twitter</a></li></ul>
+<ul class="nav navbar-nav">
+  <li class=""><a href="/web/20230722223302/https://telegram.org/">Home</a></li>
+  <li class=""><a href="/web/20230722223302/https://telegram.org/faq">FAQ</a></li>
+  <li class=""><a href="/web/20230722223302/https://telegram.org/apps">Apps</a></li>
+  <li class="hidden-xs "><a href="//web.archive.org/web/20230722223302/https://core.telegram.org/api">API</a></li>
+  <li class="hidden-xs "><a href="//web.archive.org/web/20230722223302/https://core.telegram.org/mtproto">Protocol</a></li>
+</ul>
+          </div>
+        </div>
+      </div>
+      <div class="container clearfix tl_page_container ">
+        <div class="tl_page">
+          <div class="tl_blog_list_page_wrap">
+  <h2 class="tl_blog_list_header">Telegram News</h2>
+  <div class="tl_blog_list_cards_wrap">
+    <a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/shareable-folders-custom-wallpapers"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001391/12a08/mxuFQFqs9ig.226529/b33244c17e8def5591"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Shareable Chat Folders, Custom Wallpapers and More</h4>
+    <div class="dev_blog_card_lead">This update lets users share entire chat folders with one link, create custom wallpapers for individual chats, use web apps in any chat…</div>
+  </div>
+  <div class="dev_blog_card_date">Apr 21, 2023</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/power-saving"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001102/1249e/myZil1nQBVo.279291/44cdbec9ff40e887d5"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Power Saving Mode and More</h4>
+    <div class="dev_blog_card_lead">This update brings a new power saving mode, optimizes Telegram for lower-end Android devices, adds even more playback speed options, and much more.</div>
+  </div>
+  <div class="dev_blog_card_date">Mar 8, 2023</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/profile-pics-emoji-translations"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001685/121ea/HyZSx51MXnw.259992/06800efa6899f9ee32"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Profile Photo Maker, Translating Entire Chats, Emoji Categories and More</h4>
+    <div class="dev_blog_card_lead">Telegram&#39;s first update of the year adds 10 major features by way of a warm-up exercise.</div>
+  </div>
+  <div class="dev_blog_card_date">Feb 3, 2023</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/hidden-media-zero-storage-profile-pics"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001670/fd0c/QD6RWeUTAIs.301579/e818a6df64543c1ad1"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Hidden Media, Zero Storage Usage, New Drawing Tools, Profile Pictures for Your Contacts, and More</h4>
+    <div class="dev_blog_card_lead">Sending media with spoiler effects, new ways to save space on your device, new drawing tools…</div>
+  </div>
+  <div class="dev_blog_card_date">Dec 30, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/ultimate-privacy-topics-2-0"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001668/fd89/UBuBIo3AwaM.254718/99f5aa87b728abadf1"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and More</h4>
+    <div class="dev_blog_card_lead">With this update, you can have a Telegram account without a SIM card and set up a global timer to automatically delete messages in all…</div>
+  </div>
+  <div class="dev_blog_card_date">Dec 6, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/topics-in-groups-collectible-usernames"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001245/11728/VDo2rwNfZ8Y.264840/cbc986292284a428e2"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Topics in Groups, Collectible Usernames, Voice-to-Text for Video Messages and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update adds topics to organize discussions in large groups, a new form of collectible…</div>
+  </div>
+  <div class="dev_blog_card_date">Nov 5, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/infinite-reactions-statuses"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001851/10bd6/sDwj4p_0m-0.293264/66eebb00fd46acb1ce"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Infinite Reactions, Emoji Statuses and Much More</h4>
+    <div class="dev_blog_card_lead">Telegram&#39;s previous update revolutionized emoji, adding an open platform for creating custom animated emoji. This update gives you even…</div>
+  </div>
+  <div class="dev_blog_card_date">Sep 16, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/custom-emoji"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001738/111e0/RVvmuGtCK0A.285280/6148669b1197e199ff"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Telegram Emoji Platform, Custom Animated Emoji Packs, Gifting Telegram Premium, and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update introduces the Telegram Emoji Platform, animated emoji in messages and captions…</div>
+  </div>
+  <div class="dev_blog_card_date">Aug 12, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/700-million-and-premium"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001006/1044e/ZDyna5YyQwE.51909/a7532c511d9bab9ea9"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">700 Million Users and Telegram Premium</h4>
+    <div class="dev_blog_card_lead">Telegram now has over 700 million monthly active users. Today we&#39;re launching Telegram Premium – a subscription that lets you support Telegram&#39;s continued development and gives access…</div>
+  </div>
+  <div class="dev_blog_card_date">Jun 21, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/notifications-bots"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001531/fb90/y871yZUW70Y.372928/9fdf3a084a04b47ec8"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Notification Sounds, Bot Revolution and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update adds creating your own notification tones, setting custom durations for muting chats or auto-deleting messages, as well…</div>
+  </div>
+  <div class="dev_blog_card_date">Apr 16, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/downloads-attachments-streaming"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001418/12513/cF-RXvZE-6U.103646/9abb402fe4e74b126f"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Download Manager, New Attachment Menu, Live Streaming With Other Apps and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update brings tools to help you control your downloads, send documents with a tap, re-arrange media albums before sending, turn…</div>
+  </div>
+  <div class="dev_blog_card_date">Mar 11, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/video-stickers-better-reactions"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001234/e805/Z0pNrCJET-E.104373/a38ce74977bc53b064"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Video Stickers, Better Reactions and More</h4>
+    <div class="dev_blog_card_lead">This update brings easy-to-make video stickers, better reactions with more compact animations and extra emoji, a button to review unseen…</div>
+  </div>
+  <div class="dev_blog_card_date">Jan 31, 2022</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/reactions-spoilers-translations"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001488/d35b/oNi_rR0In0o.124097/c74f7d759893b78bfb"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Reactions, Spoilers, Translation and QR Codes</h4>
+    <div class="dev_blog_card_lead">Telegram&#39;s 12th update of the year introduces reactions, message translation, themed QR codes, hidden text (spoilers), and more.</div>
+  </div>
+  <div class="dev_blog_card_date">Dec 30, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/protected-content-delete-by-date-and-more"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001572/2/u_lvhH-CjJ0.99595/a7fca60f9c9e6e193c"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Protected Content, Delete by Date, Device Management and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update brings tools to prevent others from saving content from groups and channels, the ability to delete messages for specific…</div>
+  </div>
+  <div class="dev_blog_card_date">Dec 7, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001930/3/yPTwxfusWZg.174275/3f847742c263cdae99"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Hyper-Speed Scrolling and Calendar View for Shared Media, Join Requests, Global Chat Themes on iOS and More</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update brings new ways to find memories in shared media with accelerated scrolling…</div>
+  </div>
+  <div class="dev_blog_card_date">Nov 3, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/chat-themes-interactive-emoji-read-receipts"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001155/2/kLfFr4UDBdo.74223/58bec6bc2a18455c5f"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Chat Themes, Interactive Emoji, Read Receipts in Groups and Live Stream Recording</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update lets you set different themes for individual chats, share your feelings with…</div>
+  </div>
+  <div class="dev_blog_card_date">Sep 19, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/live-streams-forwarding-next-channel"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001784/4/IlXX31YWz5U.92729/eabf233f3635354560"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Live Streams, Flexible Forwarding, Jump to Next Channel, Trending Stickers and More</h4>
+    <div class="dev_blog_card_lead">Telegram 8.0 brings live streams with unlimited viewers to groups and channels, options to…</div>
+  </div>
+  <div class="dev_blog_card_date">Aug 31, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/video-1000"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001574/3/Pqda66P2qCA.71942/56366f0bdd3630cab8"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Video Calls with up to 1000 Viewers, Video Messages 2.0, Video Playback Speed and More</h4>
+    <div class="dev_blog_card_lead">This update takes video to the next level. Group video calls now have up to 1000 viewers,…</div>
+  </div>
+  <div class="dev_blog_card_date">Jul 30, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/group-video-calls"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001231/2/Q0OFpRBNruI.71986/42d2a05bd0d1bd091b"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title">Group Video Calls</h4>
+    <div class="dev_blog_card_lead">Today&#39;s update lets you turn on your camera or share your screen during Voice Chats in groups – on all devices, including tablets and desktops. This brings voice chats to a whole new…</div>
+  </div>
+  <div class="dev_blog_card_date">Jun 25, 2021</div>
+</div></a><a class="dev_blog_card_link_wrap" href="/web/20230722223302/https://telegram.org/blog/animated-backgrounds"><div class="dev_blog_card_wrap">
+  <img class="dev_blog_card_image" src="https://web.archive.org/web/20230722223302im_/https://telegram.org/file/464001689/5/LAdUj8JXG_c.61616/b196801953bc54ecd5"/>
+  <div class="dev_blog_card_alltext_wrap">
+    <h4 class="dev_blog_card_title"> Animated Backgrounds</h4>
+    <div class="dev_blog_card_lead">In addition to Group Video Calls, this update adds animated backgrounds and message sending animations, as well as a new menu button for bots, new ways to import stickers, reminders…</div>
+  </div>
+  <div class="dev_blog_card_date">Jun 25, 2021</div>
+</div></a>
+  </div>
+    <nav class="pager_wrap clearfix" aria-label="...">
+    <ul class="pager">
+      
+      <li class="next"><a href="?offset=20">Older <span aria-hidden="true">&rarr;</span></a></li>
+    </ul>
+  </nav>
+</div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="footer_wrap">
+  <div class="footer_columns_wrap footer_desktop">
+    <div class="footer_column footer_column_telegram">
+      <h5>Telegram</h5>
+      <div class="footer_telegram_description"></div>
+      Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
+    </div>
+
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/faq">About</a></h5>
+      <ul>
+        <li><a href="/web/20230722223302/https://telegram.org/faq">FAQ</a></li>
+        <li><a href="/web/20230722223302/https://telegram.org/privacy">Privacy</a></li>
+        <li><a href="/web/20230722223302/https://telegram.org/press">Press</a></li>
+      </ul>
+    </div>
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/apps#mobile-apps">Mobile Apps</a></h5>
+      <ul>
+        <li><a href="/web/20230722223302/https://telegram.org/dl/ios">iPhone/iPad</a></li>
+        <li><a href="/web/20230722223302/https://telegram.org/android">Android</a></li>
+        <li><a href="/web/20230722223302/https://telegram.org/dl/web">Mobile Web</a></li>
+      </ul>
+    </div>
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/apps#desktop-apps">Desktop Apps</a></h5>
+      <ul>
+        <li><a href="//web.archive.org/web/20230722223302/https://desktop.telegram.org/">PC/Mac/Linux</a></li>
+        <li><a href="//web.archive.org/web/20230722223302/https://macos.telegram.org/">macOS</a></li>
+        <li><a href="/web/20230722223302/https://telegram.org/dl/web">Web-browser</a></li>
+      </ul>
+    </div>
+    <div class="footer_column footer_column_platform">
+      <h5><a href="//web.archive.org/web/20230722223302/https://core.telegram.org/">Platform</a></h5>
+      <ul>
+        <li><a href="//web.archive.org/web/20230722223302/https://core.telegram.org/api">API</a></li>
+        <li><a href="//web.archive.org/web/20230722223302/https://translations.telegram.org/">Translations</a></li>
+        <li><a href="//web.archive.org/web/20230722223302/https://instantview.telegram.org/">Instant View</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer_columns_wrap footer_mobile">
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/faq">About</a></h5>
+    </div>
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/blog">Blog</a></h5>
+    </div>
+    <div class="footer_column">
+      <h5><a href="/web/20230722223302/https://telegram.org/apps">Apps</a></h5>
+    </div>
+    <div class="footer_column">
+      <h5><a href="//web.archive.org/web/20230722223302/https://core.telegram.org/">Platform</a></h5>
+    </div>
+    <div class="footer_column">
+      <h5><a href="https://web.archive.org/web/20230722223302/https://twitter.com/telegram" target="_blank" data-track="Follow/Twitter" onclick="trackDlClick(this, event)">Twitter</a></h5>
+    </div>
+  </div>
+</div>
+    <script src="/web/20230722223302js_/https://telegram.org/js/main.js?47"></script>
+    
+    <script>twitterCustomShareInit();
+blogSideImageInit();
+backToTopInit("Go up");
+removePreloadInit();
+</script>
+  </body>
+</html>
+<!-- page generated in 41.45ms -->
+<!--
+     FILE ARCHIVED ON 22:33:02 Jul 22, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:32:45 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.115
+  exclusion.robots.policy: 0.097
+  cdx.remote: 0.176
+  esindex: 0.015
+  LoadShardBlock: 227.881 (6)
+  PetaboxLoader3.datanode: 81.271 (7)
+  PetaboxLoader3.resolve: 111.906 (3)
+  load_resource: 91.075
+-->

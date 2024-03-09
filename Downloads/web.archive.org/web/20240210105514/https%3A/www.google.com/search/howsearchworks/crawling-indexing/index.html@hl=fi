@@ -1,0 +1,1356 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.google.com/search/howsearchworks/how-search-works/organizing-information/?hl=fi","20221212064432","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1670827472");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tietojen järjestäminen – Miten Google Haku toimii</title>
+    <meta name="description" content="Kun teet haun, Google käy läpi satoja miljardeja verkkosivuja ja muuta sisältöä Haun hakemistossa löytääkseen hyödyllisiä tietoja — se sisältää enemmän tietoa kuin kaikki maailman kirjastot yhteensä.">
+    <link rel="canonical" href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/fi/search/howsearchworks/how-search-works/organizing-information/">
+    <meta name="referrer" content="no-referrer">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ar/search/howsearchworks/how-search-works/organizing-information/" hreflang="ar" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/bg/search/howsearchworks/how-search-works/organizing-information/" hreflang="bg" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ca-FR/search/howsearchworks/how-search-works/organizing-information/" hreflang="ca-fr" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/cs/search/howsearchworks/how-search-works/organizing-information/" hreflang="cs" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/da/search/howsearchworks/how-search-works/organizing-information/" hreflang="da" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/de/search/howsearchworks/how-search-works/organizing-information/" hreflang="de" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/el/search/howsearchworks/how-search-works/organizing-information/" hreflang="el" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/en_au/search/howsearchworks/how-search-works/organizing-information/" hreflang="en-au" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/en_uk/search/howsearchworks/how-search-works/organizing-information/" hreflang="en-gb" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/en_in/search/howsearchworks/how-search-works/organizing-information/" hreflang="en-in" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/search/howsearchworks/how-search-works/organizing-information/" hreflang="x-default" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/search/howsearchworks/how-search-works/organizing-information/" hreflang="en" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/es-419/search/howsearchworks/how-search-works/organizing-information/" hreflang="es-419" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/es/search/howsearchworks/how-search-works/organizing-information/" hreflang="es" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/fi/search/howsearchworks/how-search-works/organizing-information/" hreflang="fi" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/fr/search/howsearchworks/how-search-works/organizing-information/" hreflang="fr" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/hi/search/howsearchworks/how-search-works/organizing-information/" hreflang="hi" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/hr/search/howsearchworks/how-search-works/organizing-information/" hreflang="hr" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/hu/search/howsearchworks/how-search-works/organizing-information/" hreflang="hu" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/id/search/howsearchworks/how-search-works/organizing-information/" hreflang="id" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/it/search/howsearchworks/how-search-works/organizing-information/" hreflang="it" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/iw/search/howsearchworks/how-search-works/organizing-information/" hreflang="iw" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ja/search/howsearchworks/how-search-works/organizing-information/" hreflang="ja" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ko/search/howsearchworks/how-search-works/organizing-information/" hreflang="ko" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/lt/search/howsearchworks/how-search-works/organizing-information/" hreflang="lt" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/nl/search/howsearchworks/how-search-works/organizing-information/" hreflang="nl" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/no/search/howsearchworks/how-search-works/organizing-information/" hreflang="no" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/pl/search/howsearchworks/how-search-works/organizing-information/" hreflang="pl" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/pt-BR/search/howsearchworks/how-search-works/organizing-information/" hreflang="pt-br" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/pt/search/howsearchworks/how-search-works/organizing-information/" hreflang="pt" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ro/search/howsearchworks/how-search-works/organizing-information/" hreflang="ro" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/ru/search/howsearchworks/how-search-works/organizing-information/" hreflang="ru" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/sk/search/howsearchworks/how-search-works/organizing-information/" hreflang="sk" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/sv/search/howsearchworks/how-search-works/organizing-information/" hreflang="sv" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/th/search/howsearchworks/how-search-works/organizing-information/" hreflang="th" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/tr/search/howsearchworks/how-search-works/organizing-information/" hreflang="tr" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/uk/search/howsearchworks/how-search-works/organizing-information/" hreflang="uk" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/vi/search/howsearchworks/how-search-works/organizing-information/" hreflang="vi" rel="alternate">
+    <link href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/zh-TW/search/howsearchworks/how-search-works/organizing-information/" hreflang="zh-tw" rel="alternate">
+    <meta property="og:url" content="https://web.archive.org/web/20221212064432/https://www.google.com/intl/fi/search/howsearchworks/how-search-works/organizing-information/">
+    <meta property="og:title" content="Tietojen järjestäminen – Miten Google Haku toimii">
+    <meta property="og:description" content="Kun teet haun, Google käy läpi satoja miljardeja verkkosivuja ja muuta sisältöä Haun hakemistossa löytääkseen hyödyllisiä tietoja — se sisältää enemmän tietoa kuin kaikki maailman kirjastot yhteensä.">
+    <meta property="og:site_name" content="Google Haku – Tutustu Google Haun toimintaan">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="fi">
+    <meta property="og:image:secure_url" content="https://lh3.googleusercontent.com/dnpoiu9aopdadx61b_R8SlKyCHQIBNSTlYKOqUdZ1J8RPl3dGu1i57tmb7KzVEgpjdD_wc-CFirNtxU3wDiS9b1ZNAYxqq4tyojt5X4Q">
+    <meta property="og:image" content="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/dnpoiu9aopdadx61b_R8SlKyCHQIBNSTlYKOqUdZ1J8RPl3dGu1i57tmb7KzVEgpjdD_wc-CFirNtxU3wDiS9b1ZNAYxqq4tyojt5X4Q">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="Kun teet haun, Google käy läpi satoja miljardeja verkkosivuja ja muuta sisältöä Haun hakemistossa löytääkseen hyödyllisiä tietoja — se sisältää enemmän tietoa kuin kaikki maailman kirjastot yhteensä.">
+    <meta name="twitter:title" content="Tietojen järjestäminen – Miten Google Haku toimii">
+    <meta name="twitter:image" content="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/dnpoiu9aopdadx61b_R8SlKyCHQIBNSTlYKOqUdZ1J8RPl3dGu1i57tmb7KzVEgpjdD_wc-CFirNtxU3wDiS9b1ZNAYxqq4tyojt5X4Q">
+
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon-16x16.png">
+    <link rel="shortcut icon" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon.ico">
+
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon-16x16.png">
+    <link rel="shortcut icon" href="https://web.archive.org/web/20221212064432im_/https://storage.googleapis.com/operating-anagram-8280/favicon.ico">
+    <link rel="preconnect" href="https://web.archive.org/web/20221212064432/https://fonts.gstatic.com/" crossorigin>
+    <link rel="stylesheet" href="https://web.archive.org/web/20221212064432cs_/https://fonts.googleapis.com/css?family=Google+Sans+Display|Google+Sans:400,500|Google+Sans+Text:400,500&amp;display=swap" as="stylesheet" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    <link rel="stylesheet" href="https://web.archive.org/web/20221212064432cs_/https://fonts.googleapis.com/icon?family=Material+Icons&amp;display=swap" as="stylesheet" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/main.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    <script src="/web/20221212064432js_/https://www.google.com/search/howsearchworks/static/js/main.min.js?fingerprint=1c9e0fe3442e219eda05662b8b519de2" defer nonce="CLrtz8lylxkuKMDvm4f1Jw"></script>
+
+    
+    
+    
+
+    <!-- Google Tag Manager -->
+    <script nonce="CLrtz8lylxkuKMDvm4f1Jw">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://web.archive.org/web/20221212064432/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WXBX8JC');</script>
+    <!-- End Google Tag Manager -->
+
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://web.archive.org/web/20221212064432if_/https://www.googletagmanager.com/ns.html?id=GTM-WXBX8JC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<div class="main main--subnav">
+    
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/header.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    
+
+
+
+
+
+<header class="header
+    
+    
+    " mobile-nav-component header-scroll-component>
+    <div class="header__container">
+        <div class="header__content">
+            <button class="header__menu-button" menu-button aria-label="Open the navigation drawer">
+              <img src="/web/20221212064432im_/https://www.google.com/search/howsearchworks/static/images/icons/menu.svg?fingerprint=70797f2a4c042932241ad2f34e1c63e7" width="18" height="12" alt="">
+            </button>
+            <div class="header__logo">
+                <a href="./../../">
+                    <img class="header__logo__image" src="https://web.archive.org/web/20221212064432im_/https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="Google">
+                </a>
+            </div>
+            <div class="header__title">
+                <a href="./../../">
+    
+      Search
+    
+  </a>
+            </div>
+            <div class="header__navbar">
+                <nav role="navigation">
+                    <ul class="header__nav-items">
+                        
+                          
+                          
+                            <li class="header__nav-item
+                              ">
+                                <a href="./../../">
+                                    
+    
+      Yleiskatsaus
+    
+  
+                                </a>
+                            </li>
+                          
+                        
+                          
+                          
+                            <li class="header__nav-item
+                              ">
+                                <a href="./../../our-approach/">
+                                    
+    
+      Periaatteemme
+    
+  
+                                </a>
+                            </li>
+                          
+                        
+                          
+                          
+                            <li class="header__nav-item
+                              
+                                header__nav-item--active
+                              ">
+                                <a href="./../">
+                                    
+    
+      Näin Haku toimii
+    
+  
+                                </a>
+                            </li>
+                          
+                        
+                          
+                          
+                            <li class="header__nav-item
+                              ">
+                                <a href="./../../features/">
+                                    
+    
+      Ominaisuudet 
+    
+  
+                                </a>
+                            </li>
+                          
+                        
+                          
+                          
+                        
+                    </ul>
+                </nav>
+            </div>
+
+            
+
+            
+                
+                    <ul class="header__page-nav">
+                        
+                            <li class="header__page-nav-item
+                              
+                                header__page-nav-item--active
+                              "><a href="./">
+    
+      Tietojen järjestäminen
+    
+  </a></li>
+                        
+                            <li class="header__page-nav-item
+                              "><a href="./../ranking-results/">
+    
+      Tulosten sijoitus
+    
+  </a></li>
+                        
+                            <li class="header__page-nav-item
+                              "><a href="./../rigorous-testing/">
+    
+      Perusteellinen testaus
+    
+  </a></li>
+                        
+                            <li class="header__page-nav-item
+                              "><a href="./../detecting-spam/">
+    
+      Roskasisällön havaitseminen
+    
+  </a></li>
+                        
+                    </ul>
+                
+            
+        </div>
+    </div>
+</header>
+
+<div class="header__nav-menu" menu-nav>
+  <div class="header__nav-menu-drawer">
+    <div class="header__logo">
+      <div><a href="./../../"><img src="https://web.archive.org/web/20221212064432im_/https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="Google" width="74" height="24"></a></div>
+      <div class="header__title">
+        <a href="./../../">
+    
+      Search
+    
+  </a>
+      </div>
+      <button class="header__nav-menu-close" menu-close>
+        <img alt="Close" src="/web/20221212064432im_/https://www.google.com/search/howsearchworks/static/images/icons/menu_close.svg">
+      </button>
+    </div>
+    <nav role="navigation">
+      <ul class="header__nav-items">
+        
+          
+          
+            <li class="header__nav-item
+                ">
+              <a href="./../../">
+                
+    
+      Yleiskatsaus
+    
+  
+              </a>
+              
+              
+            </li>
+          
+        
+          
+          
+            <li class="header__nav-item
+                ">
+              <a href="./../../our-approach/">
+                
+    
+      Periaatteemme
+    
+  
+              </a>
+              
+              
+            </li>
+          
+        
+          
+          
+            <li class="header__nav-item
+                
+                  header__nav-item--active
+                ">
+              <a href="./../">
+                
+    
+      Näin Haku toimii
+    
+  
+              </a>
+              
+              
+                <ul class="header__page-nav">
+                  
+                      <li class="header__page-nav-item
+                        
+                          header__page-nav-item--active
+                        "><a href="./">
+    
+      Tietojen järjestäminen
+    
+  </a></li>
+                  
+                      <li class="header__page-nav-item
+                        "><a href="./../ranking-results/">
+    
+      Tulosten sijoitus
+    
+  </a></li>
+                  
+                      <li class="header__page-nav-item
+                        "><a href="./../rigorous-testing/">
+    
+      Perusteellinen testaus
+    
+  </a></li>
+                  
+                      <li class="header__page-nav-item
+                        "><a href="./../detecting-spam/">
+    
+      Roskasisällön havaitseminen
+    
+  </a></li>
+                  
+                </ul>
+              
+            </li>
+          
+        
+          
+          
+            <li class="header__nav-item
+                ">
+              <a href="./../../features/">
+                
+    
+      Ominaisuudet 
+    
+  
+              </a>
+              
+              
+            </li>
+          
+        
+          
+          
+        
+      </ul>
+    </nav>
+
+  </div>
+</div>
+
+<div class="header__backdrop" menu-backdrop></div>
+
+
+    <div class="main__body">
+        
+            
+                
+                            <div class="section " id="hero">
+                                
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/secondary-hero.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    <div class="secondary-hero ">
+    <div class="secondary-hero__grid" inview>
+        <div class="secondary-hero__content">
+            
+                <div class="secondary-hero__content__title" in-effect delay-desktop-1 delay-mobile-1 role="heading" aria-level="1">
+                   Miten Google<br mobile> Haku järjestää tietoja
+                </div>
+            
+            
+                <div class="secondary-hero__content__body" in-effect delay-desktop-2 delay-mobile-2>
+                    
+    
+  
+  <div class="html-content">Kun teet haun, Google käy läpi satoja miljardeja verkkosivuja ja muuta sisältöä Haun hakemistossa löytääkseen hyödyllisiä tietoja — se sisältää enemmän tietoa kuin kaikki maailman kirjastot yhteensä.</div>
+                </div>
+            
+            
+        </div>
+        <div class="secondary-hero__media" in-effect delay-desktop-3>
+        
+            <div class="secondary-hero__media__images">
+                
+                    
+
+
+  
+  
+    
+  
+
+  
+
+  
+    
+    
+  
+
+
+  
+
+
+  <div class="asset-wrapper"><picture><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w1440" media="(min-width: 0px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w1536" media="(min-width: 460px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w2048" media="(min-width: 768px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w2880" media="(min-width: 1024px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w5760" media="(min-width: 1440px)"></picture><img loading="lazy" decoding="async" src="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/m5AyaIV1ks9c7Y7iOsoakgU5TyEEyWZjUdXPvZ0xwrOSJcEwrIyVCqRmiqKNdRJ_PxOzRVXNAUY1GoK2JmNc8Y9K1qH8lI9IFrGIInI=rw-e365-w1440" alt="Kolme ihmistä järjestämässä tietoja sisältäviä kortteja" width="950px" height="839px"></div>
+
+
+                
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+                            </div>
+                
+            
+                
+                            <div class="section " id="crawling">
+                                
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/two-column-article.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    <div class="two-column-article ">
+    <div class="two-column-article__grid" inview>
+        <div class="two-column-article__column1">
+            
+                <div class="two-column-article__title" in-effect delay-desktop-1 delay-mobile-1>
+                    
+    
+  
+  <div class="html-content">Tietojen etsiminen indeksoimalla</div>
+                </div>
+            
+        </div>
+        <div class="two-column-article__column2">
+            
+                <div class="two-column-article__body" in-effect delay-desktop-2 delay-mobile-2>
+                    
+    
+  
+  <div class="html-content"><p>Suurin osa Haun hakemistostamme on rakennettu indeksointirobotteina tunnettujen ohjelmistojen työllä. Ne käyvät julkisesti saatavilla olevilla verkkosivuilla ja seuraavat näiden sivujen linkkejä varsin samalla tavalla kuin käyttäjät selaavat verkkosisältöä. Ne siirtyvät sivulta sivulle ja tallentavat Googlen Haun hakemistoon tietoja siitä, mitä löytävät näiltä sivuilta ja muusta julkisesti saatavilla olevasta sisällöstä.</p>
+<div class="asset-wrapper"><picture><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w1440" media="(min-width: 0px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w1536" media="(min-width: 460px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w2048" media="(min-width: 768px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w2880" media="(min-width: 1024px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w5760" media="(min-width: 1440px)"></picture><img loading="lazy" decoding="async" src="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/1nBAPS-LqrDmMVULeSFRyEMS6UF_h8AEfJ3H3QdAqsRZXllHYw_5SMqlLzKjQt1nectzvrKhyt77cZwHmUw6DwCrwRlWRRfomtk4JMMN=rw-e365-w1440" alt="Sivusto, jossa on polkupyörä "></div></div>
+                </div>
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+                
+            
+                
+                            <div class="section ">
+                                
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/spacer.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    <div class="spacer
+     spacer--desktop-120
+     spacer--mobile-120
+">
+</div>
+
+                            </div>
+                
+            
+                
+                            <div class="section " id="indexing">
+                                
+    
+    
+    
+    
+    <div class="two-column-article ">
+    <div class="two-column-article__grid" inview>
+        <div class="two-column-article__column1">
+            
+                <div class="two-column-article__title" in-effect delay-desktop-1 delay-mobile-1>
+                    
+    
+  
+  <div class="html-content">Tietojen järjestäminen indeksoimalla</div>
+                </div>
+            
+        </div>
+        <div class="two-column-article__column2">
+            
+                <div class="two-column-article__body" in-effect delay-desktop-2 delay-mobile-2>
+                    
+    
+  
+  <div class="html-content"><p>Kun indeksointirobotti löytää verkkosivun, järjestelmämme tulkitsevat sivun sisällön samalla tavoin kuin selain. Huomioimme tärkeitä seikkoja, esimerkiksi avainsanat ja sivun tuoreuden, ja lisäämme kaikki sivun tiedot Haun hakemistoon.</p>
+<div class="asset-wrapper"><picture><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w1440" media="(min-width: 0px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w1536" media="(min-width: 460px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w2048" media="(min-width: 768px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w2880" media="(min-width: 1024px)"><source type="image/webp" srcset="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w5760" media="(min-width: 1440px)"></picture><img loading="lazy" decoding="async" src="https://web.archive.org/web/20221212064432im_/https://lh3.googleusercontent.com/z3OfufPk-Q5Ydq4mrpPFIeh0uG0b7uLq6z3rMxmy7vs2gr8JaBwAVq6zKqsEDWXZqRNOj-HbY8RgP0lJSXCGQIEkS6zvpwtNPyVUrG0-=rw-e365-w1440" alt="Kolme verkkosivustoa"></div>
+
+<p>Google Haun hakemistossa on satoja miljardeja verkkosivuja ja kooltaan se on yli sata miljoonaa gigabittiä. Se vastaa kirjan hakemistoa, jossa luetellaan hakemiston kaikkien verkkosivujen kaikki sanat. Kun indeksoimme verkkosivun, se lisätään kaikkien sivulla olevien sanojen kohtiin.</p></div>
+                </div>
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+                
+            
+                
+                            <div class="section ">
+                                
+    
+    
+    
+    
+    <div class="spacer
+     spacer--desktop-120
+     spacer--mobile-120
+">
+</div>
+
+                            </div>
+                
+            
+                
+                            <div class="section " id="constantCrawling">
+                                
+    
+    
+    
+    
+    <div class="two-column-article ">
+    <div class="two-column-article__grid" inview>
+        <div class="two-column-article__column1">
+            
+                <div class="two-column-article__title" in-effect delay-desktop-1 delay-mobile-1>
+                    
+    
+  
+  <div class="html-content">Jatkuva uuden tiedon indeksointi</div>
+                </div>
+            
+        </div>
+        <div class="two-column-article__column2">
+            
+                <div class="two-column-article__body" in-effect delay-desktop-2 delay-mobile-2>
+                    
+    
+  
+  <div class="html-content"><p>Koska verkko ja muu sisältö muuttuu jatkuvasti, indeksointiprosessimme ovat aina käynnissä pysyäkseen ajan tasalla. Ne oppivat, miten usein niiden aiemmin kohtaama sisältö näyttää muuttuvan, ja käyvät sivulla uudestaan tarpeen mukaan. Ne myös löytävät uutta sisältöä, kun kyseisille sivuille johtavia uusia linkkejä tai uutta tietoa tulee esiin.</p>
+
+<p>Google tarjoaa myös maksuttoman työkalupaketin nimeltä <a href="https://web.archive.org/web/20221212064432/https://support.google.com/webmasters/answer/9128668?hl=en">Search Console</a>. Sen avulla sisällöntuottajat voivat auttaa Googlea indeksoimaan sisältöä paremmin. He voivat myös käyttää tuttuja standardeja, kuten <a href="https://web.archive.org/web/20221212064432/https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=en&amp;visit_id=637533703645569991-3393536445&amp;rd=1">sivustokarttoja</a> tai <a href="https://web.archive.org/web/20221212064432/https://developers.google.com/search/docs/advanced/robots/robots_meta_tag?hl=en">robots.txt</a>-tiedostoa, ilmaistakseen, miten usein sisältöä pitäisi käydä katsomassa tai jos sitä ei pitäisi sisällyttää Haun hakemistoon ollenkaan.</p>
+
+<p>Googlelta ei voi ostaa lisää indeksointia – kaikilla sivustoilla on käytössään samat työkalut, joilla varmistetaan parhaat mahdolliset tulokset käyttäjillemme.</p></div>
+                </div>
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+                
+            
+                
+                            <div class="section ">
+                                
+    
+    
+    
+    
+    <div class="spacer
+     spacer--desktop-120
+     spacer--mobile-120
+">
+</div>
+
+                            </div>
+                
+            
+                
+                            <div class="section " id="goingBeyond">
+                                
+    
+    
+    
+    
+    <div class="two-column-article ">
+    <div class="two-column-article__grid" inview>
+        <div class="two-column-article__column1">
+            
+                <div class="two-column-article__title" in-effect delay-desktop-1 delay-mobile-1>
+                    
+    
+  
+  <div class="html-content">Muutakin kuin verkkosivuja </div>
+                </div>
+            
+        </div>
+        <div class="two-column-article__column2">
+            
+                <div class="two-column-article__body" in-effect delay-desktop-2 delay-mobile-2>
+                    
+    
+  
+  <div class="html-content"><p>Haun hakemistomme sisältää muutakin kuin verkosta löytyvää sisältöä, koska hyödyllistä tietoa voi löytyä myös muista lähteistä.
+
+</p><p>Itse asiassa meillä on useita hakemistoja, jotka sisältävät erityyppisiä tietoja. Nämä kerätään indeksoimalla, yhteistyön kautta, meille lähetettyjen datafiidien kautta ja oman faktapankkimme, <a href="https://web.archive.org/web/20221212064432/https://support.google.com/knowledgepanel/answer/9787176">Tietograafin</a>, kautta.
+
+</p><p>Näin moni hakemisto tarkoittaa, että voit hakea <a href="https://web.archive.org/web/20221212064432/https://www.google.com/intl/en/googlebooks/about/index.html">suurten kirjastojen miljoonista kirjoista</a>, löytää <a href="https://web.archive.org/web/20221212064432/https://support.google.com/transitpartners/#topic=3521043">paikallisen julkisen liikenteen</a> matka-aikoja tai löytää dataa julkisista lähteistä, kuten <a href="https://web.archive.org/web/20221212064432/https://data.worldbank.org/">Maailmanpankista</a>.</p></div>
+                </div>
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+
+                            </div>
+                
+            
+                
+                            <div class="section ">
+                                
+    
+    
+    
+    
+    <div class="spacer
+     spacer--desktop-120
+     spacer--mobile-120
+">
+</div>
+
+                            </div>
+                
+            
+                
+                            <div class="section ">
+                                
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/explore-cards.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    <div class="explore-cards ">
+    <div class="explore-cards__grid">
+        <div class="explore-cards__content">
+            
+                <div class="explore-cards__content__title">
+                    
+    
+      Katso lisää
+    
+  
+                </div>
+            
+        </div>
+    </div>
+    <div class="explore-cards__grid">
+       <div class="explore-cards__cards">
+            
+              <a href="./../ranking-results/" class="explore-cards__cards__item">
+                  
+                      <div class="explore-cards__item__title">
+                          
+    
+      Tulosten sijoitus
+    
+  
+                      </div>
+                  
+                  
+                      <div class="explore-cards__item__body">
+                          
+    
+  
+  <div class="html-content">Lue, miten hakutulosten järjestys määräytyy.</div>
+                      </div>
+                  
+                  <div class="explore-cards__item__icon">
+                        <svg width="17" height="16" viewbox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.51013 0L7.10013 1.41L12.6801 7H0.510132V9H12.6801L7.10013 14.59L8.51013 16L16.5101 8L8.51013 0Z" fill="#1A73E8"/>
+                        </svg>
+                  </div>
+              </a>
+            
+              <a href="./../rigorous-testing/" class="explore-cards__cards__item">
+                  
+                      <div class="explore-cards__item__title">
+                          
+    
+      Perusteellinen testaus
+    
+  
+                      </div>
+                  
+                  
+                      <div class="explore-cards__item__body">
+                          
+    
+  
+  <div class="html-content">Lue lisää Googlen prosesseista ja työkaluista, jotka tunnistavat hyödyllisen, osuvan tiedon.</div>
+                      </div>
+                  
+                  <div class="explore-cards__item__icon">
+                        <svg width="17" height="16" viewbox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.51013 0L7.10013 1.41L12.6801 7H0.510132V9H12.6801L7.10013 14.59L8.51013 16L16.5101 8L8.51013 0Z" fill="#1A73E8"/>
+                        </svg>
+                  </div>
+              </a>
+            
+              <a href="./../detecting-spam/" class="explore-cards__cards__item">
+                  
+                      <div class="explore-cards__item__title">
+                          
+    
+      Roskasisällön havaitseminen
+    
+  
+                      </div>
+                  
+                  
+                      <div class="explore-cards__item__body">
+                          
+    
+  
+  <div class="html-content">Lue, mitä Google tekee suojatakseen hakusi.</div>
+                      </div>
+                  
+                  <div class="explore-cards__item__icon">
+                        <svg width="17" height="16" viewbox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.51013 0L7.10013 1.41L12.6801 7H0.510132V9H12.6801L7.10013 14.59L8.51013 16L16.5101 8L8.51013 0Z" fill="#1A73E8"/>
+                        </svg>
+                  </div>
+              </a>
+            
+       </div>
+    </div>
+</div>
+
+                            </div>
+                
+            
+        
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/web/20221212064432cs_/https://www.google.com/search/howsearchworks/static/css/partials/footer.css" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+    
+    
+    
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<footer class="footer">
+  <div class="footer__container">
+    <div class="footer__content">
+      <div class="footer__links">
+        <div class="footer__links-content">
+          <div class="footer__logo">
+            <a href="https://web.archive.org/web/20221212064432/https://www.google.com/" target="_blank" rel="noopener"><img src="https://web.archive.org/web/20221212064432im_/https://gstatic.com/images/branding/googlelogo/svg/googlelogo_dark54_clr_84x28px.svg" alt="Google" width="84" height="28"></a>
+          </div>
+          <div class="footer__links-list" role="navigation" aria-label="Footer links">
+            
+              <div class="footer__nav-item">
+                
+                  <a href="https://web.archive.org/web/20221212064432/https://policies.google.com/privacy" rel="noopener" target="_blank">
+                    
+    
+      Yksityisyys
+    
+  
+                  </a>
+                
+              </div>
+            
+              <div class="footer__nav-item">
+                
+                  <a href="https://web.archive.org/web/20221212064432/https://policies.google.com/terms" rel="noopener" target="_blank">
+                    
+    
+      Ehdot
+    
+  
+                  </a>
+                
+              </div>
+            
+              <div class="footer__nav-item">
+                
+                  <a href="https://web.archive.org/web/20221212064432/https://about.google/" rel="noopener" target="_blank">
+                    
+    
+      Tietoja Googlesta
+    
+  
+                  </a>
+                
+              </div>
+            
+              <div class="footer__nav-item">
+                
+                  <a href="https://web.archive.org/web/20221212064432/https://about.google/products/" rel="noopener" target="_blank">
+                    
+    
+      Googlen tuotteet
+    
+  
+                  </a>
+                
+              </div>
+            
+          </div>
+          <div class="footer__aside">
+
+            <a href="https://web.archive.org/web/20221212064432/https://support.google.com/" class="footer__content__aside footer__aside__help">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewbox="0 0 24 24" fill="#5f6368">
+                <path d="M0 0h24v24H0z" fill="none"></path>
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"></path>
+              </svg>
+              <span class="footer__aside__help__text">
+    
+      Ohje
+    
+  </span>
+            </a>
+
+            
+              <div class="footer__content__aside footer__aside__language">
+                
+  
+  <form autocomplete="off" class="language-selector">
+    <select onchange="window.location.href = this.value">
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ar/search/howsearchworks/how-search-works/organizing-information/">
+            العربية
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/bg/search/howsearchworks/how-search-works/organizing-information/">
+            български
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ca-FR/search/howsearchworks/how-search-works/organizing-information/">
+            català (França)
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/cs/search/howsearchworks/how-search-works/organizing-information/">
+            čeština
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/da/search/howsearchworks/how-search-works/organizing-information/">
+            dansk
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/de/search/howsearchworks/how-search-works/organizing-information/">
+            Deutsch
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/el/search/howsearchworks/how-search-works/organizing-information/">
+            Ελληνικά
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/en_au/search/howsearchworks/how-search-works/organizing-information/">
+            Australian English
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/en_uk/search/howsearchworks/how-search-works/organizing-information/">
+            British English
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/en_in/search/howsearchworks/how-search-works/organizing-information/">
+            English (India)
+          </option>
+        
+      
+        
+        
+          
+          
+          
+            
+          
+          <option value="/intl/en_us/search/howsearchworks/how-search-works/organizing-information/">
+            English
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/es-419/search/howsearchworks/how-search-works/organizing-information/">
+            español latinoamericano
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/es/search/howsearchworks/how-search-works/organizing-information/">
+            español
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/fi/search/howsearchworks/how-search-works/organizing-information/" selected>
+            suomi
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/fr/search/howsearchworks/how-search-works/organizing-information/">
+            français
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/hi/search/howsearchworks/how-search-works/organizing-information/">
+            हिन्दी
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/hr/search/howsearchworks/how-search-works/organizing-information/">
+            hrvatski
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/hu/search/howsearchworks/how-search-works/organizing-information/">
+            magyar
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/id/search/howsearchworks/how-search-works/organizing-information/">
+            Indonesia
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/it/search/howsearchworks/how-search-works/organizing-information/">
+            italiano
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/iw/search/howsearchworks/how-search-works/organizing-information/">
+            עברית
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ja/search/howsearchworks/how-search-works/organizing-information/">
+            日本語
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ko/search/howsearchworks/how-search-works/organizing-information/">
+            한국어
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/lt/search/howsearchworks/how-search-works/organizing-information/">
+            lietuvių
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/nl/search/howsearchworks/how-search-works/organizing-information/">
+            Nederlands
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/no/search/howsearchworks/how-search-works/organizing-information/">
+            norsk
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/pl/search/howsearchworks/how-search-works/organizing-information/">
+            polski
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/pt-BR/search/howsearchworks/how-search-works/organizing-information/">
+            português (Brasil)
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/pt/search/howsearchworks/how-search-works/organizing-information/">
+            português
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ro/search/howsearchworks/how-search-works/organizing-information/">
+            română
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/ru/search/howsearchworks/how-search-works/organizing-information/">
+            русский
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/sk/search/howsearchworks/how-search-works/organizing-information/">
+            slovenčina
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/sv/search/howsearchworks/how-search-works/organizing-information/">
+            svenska
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/th/search/howsearchworks/how-search-works/organizing-information/">
+            ไทย
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/tr/search/howsearchworks/how-search-works/organizing-information/">
+            Türkiye
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/uk/search/howsearchworks/how-search-works/organizing-information/">
+            українська
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/vi/search/howsearchworks/how-search-works/organizing-information/">
+            Tiếng Việt
+          </option>
+        
+      
+        
+        
+          
+          
+          
+          <option value="/intl/zh-TW/search/howsearchworks/how-search-works/organizing-information/">
+            中文（台灣）
+          </option>
+        
+      
+    </select>
+  </form>
+
+              </div>
+            
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+</div>
+<script data-autoload-cookie-consent-bar="true" data-autoload-cookie-consent-bar-intl-code="" src="https://web.archive.org/web/20221212064432js_/https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js" nonce="CLrtz8lylxkuKMDvm4f1Jw">
+</script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 06:44:32 Dec 12, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:35:59 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.086
+  exclusion.robots.policy: 0.07
+  cdx.remote: 0.136
+  esindex: 0.013
+  LoadShardBlock: 377.148 (6)
+  PetaboxLoader3.datanode: 206.664 (8)
+  load_resource: 140.833
+  PetaboxLoader3.resolve: 75.179
+  loaddict: 33.296
+-->

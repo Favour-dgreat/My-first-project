@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html class="">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://desktop.telegram.org/?setln=ko","20230714163448","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1689352488");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <title>텔레그램 데스크톱</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="텔레그램 데스크톱">
+    <meta property="og:image" content="/web/20230714163448im_/https://desktop.telegram.org/?setln=ko">
+    <meta property="og:site_name" content="Telegram">
+    <meta property="og:description" content="컴퓨터에서 빠르고 끊킴없는 텔레그램을 경험해보세요.">
+    
+    <meta property="fb:app_id" content="254098051407226">
+    <meta property="vk:app_id" content="3782569">
+    <meta name="apple-itunes-app" content="app-id=686449807">
+    <meta name="telegram:channel" content="@telegram">
+    
+    <link rel="icon" type="image/svg+xml" href="/web/20230714163448im_/https://desktop.telegram.org/img/website_icon.svg?4">
+<link rel="apple-touch-icon" sizes="180x180" href="/web/20230714163448im_/https://desktop.telegram.org/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/web/20230714163448im_/https://desktop.telegram.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/web/20230714163448im_/https://desktop.telegram.org/img/favicon-16x16.png">
+<link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon"/>
+    <link href="/web/20230714163448cs_/https://desktop.telegram.org/css/bootstrap.min.css?3" rel="stylesheet">
+    
+    <link href="/web/20230714163448cs_/https://desktop.telegram.org/css/telegram.css?236" rel="stylesheet" media="screen">
+  </head>
+  <body class="preload">
+    <div id="fb-root"></div>
+    <div class="tl_page_wrap">
+      <div class="tl_page_head navbar navbar-static-top navbar navbar-tg">
+        <div class="navbar-inner">
+          <div class="container clearfix">
+            <ul class="nav navbar-nav navbar-right"><li class="dropdown top_lang_select"><a class="dropdown-toggle" onclick="return dropdownClick(this, event)" href="#"><i class="dev_top_lang_icon"></i>KO <b class="minicaret"></b></a>
+<ul class="dropdown-menu"><li class=""><a href="?setln=en">English</a></li><li class="long "><a href="?setln=id">Bahasa Indonesia</a></li><li class="long "><a href="?setln=ms">Bahasa Melayu</a></li><li class=""><a href="?setln=de">Deutsch</a></li><li class=""><a href="?setln=es">Español</a></li><li class=""><a href="?setln=fr">Français</a></li><li class=""><a href="?setln=it">Italiano</a></li><li class=""><a href="?setln=nl">Nederlands</a></li><li class=""><a href="?setln=uz">O‘zbek</a></li><li class=""><a href="?setln=pl">Polski</a></li><li class="long "><a href="?setln=pt-br">Português (Brasil)</a></li><li class=""><a href="?setln=tr">Türkçe</a></li><li class=""><a href="?setln=be">Беларуская</a></li><li class=""><a href="?setln=ru">Русский</a></li><li class=""><a href="?setln=uk">Українська</a></li><li class=""><a href="?setln=ar">العربية</a></li><li class=""><a href="?setln=fa">فارسی</a></li><li class="chosen "><a href="?setln=ko">한국어</a></li></ul></li><li class="navbar-twitter hidden-xs"><a href="https://web.archive.org/web/20230714163448/https://twitter.com/telegram" target="_blank" data-track="Follow/Twitter" onclick="trackDlClick(this, event)"><i class="icon icon-twitter"></i> 트위터</a></li></ul>
+<ul class="nav navbar-nav">
+  <li class=""><a href="//web.archive.org/web/20230714163448/https://telegram.org/">홈</a></li>
+  <li class=""><a href="//web.archive.org/web/20230714163448/https://telegram.org/faq">자주묻는질문</a></li>
+  <li class="active"><a href="//web.archive.org/web/20230714163448/https://telegram.org/apps">앱</a></li>
+  <li class="hidden-xs "><a href="//web.archive.org/web/20230714163448/https://core.telegram.org/api">API</a></li>
+  <li class="hidden-xs "><a href="//web.archive.org/web/20230714163448/https://core.telegram.org/mtproto">프로토콜</a></li>
+</ul>
+          </div>
+        </div>
+      </div>
+      <div class="container clearfix tl_page_container  tl_main_page_container">
+        <div class="tl_page">
+          <div class="td_content_wrap clearfix  td_all_shown">
+
+  <div class="td_screenshot"></div>
+
+  <a href="/web/20230714163448/https://desktop.telegram.org/" class="tl_content_title_link">
+    <h1 class="td_content_title">텔레그램 데스크톱</h1>
+  </a>
+  <div id="td_about_tdesktop">빠르고 안전한 데스크톱 앱이며, 휴대 기기와 완벽하게 동기화 됩니다.</div>
+
+  <div class="td_download_wrap td_btn_hidden"><span class="td_download_btn_wrap"><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/win64" class="td_download_btn"><i class="download_icon"></i> <b>윈도우</b> x64 텔레그램 받기</a><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/win64_portable" class="td_download_add">무설치 버전</a></span><span class="td_download_btn_wrap"><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/mac" class="td_download_btn td_osx"><i class="download_icon"></i> <b>macOS</b>용 텔레그램 받기</a><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/mac_store" class="td_download_add">맥 앱스토어</a></span></div>
+  <div class="td_download_add_wrap td_btn_hidden"></div>
+  <div class="td_download_wrap_low td_btn_hidden"><span class="td_download_btn_wrap"><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/linux" class="td_download_btn td_linux"><i class="download_icon"></i> <b>리눅스</b> x64 텔레그램 받기</a><div class="td_download_add"><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/flatpak">Flatpak</a> <span class="td_download_divider">&bull;</span> <a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/snap">Snap</a></div></span><span class="td_download_btn_wrap"><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/win" class="td_download_btn"><i class="download_icon"></i> <b>Windows</b>용 텔레그램 받기</a><a href="//web.archive.org/web/20230714163448/https://telegram.org/dl/desktop/win_portable" class="td_download_add">무설치 버전</a></span>
+      </div>
+  <div class="td_download_add_wrap td_show_all_platforms"><a onclick="document.body.className = 'td_all_shown'; void(0);" class="td_download_add">모든 플랫폼 보기</a></div>
+
+  <div id="td_versions">
+  <div class="td_about_license">이 소프트웨어는 <a href="https://web.archive.org/web/20230714163448/https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE">GPL v3</a> 라이센스를 적용하여 제공하고 있습니다.<br/><br/>소스코드는 <a href="https://web.archive.org/web/20230714163448/https://github.com/telegramdesktop/tdesktop">GitHub</a>에서 제공하고 있습니다.<br/><br/><a href="https://web.archive.org/web/20230714163448/https://twitter.com/telegram">트위터에서 팔로우하세요</a> – <a href="https://web.archive.org/web/20230714163448/https://desktop.telegram.org/changelog#beta-version">베타 버전</a></div>
+</div>
+</div>
+          
+        </div>
+      </div>
+    </div>
+    
+    <script src="/web/20230714163448js_/https://desktop.telegram.org/js/main.js?47"></script>
+    
+    <script>backToTopInit("\uc704\ub85c");
+removePreloadInit();
+</script>
+  </body>
+</html>
+<!-- page generated in 8.61ms -->
+<!--
+     FILE ARCHIVED ON 16:34:48 Jul 14, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:18:13 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.108
+  exclusion.robots.policy: 0.091
+  cdx.remote: 0.15
+  esindex: 0.019
+  LoadShardBlock: 371.715 (6)
+  PetaboxLoader3.resolve: 686.97 (4)
+  PetaboxLoader3.datanode: 210.186 (7)
+  load_resource: 700.318
+-->

@@ -1,0 +1,1863 @@
+<!doctype html>
+<html lang="en">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://snapcraft.io/telegram-desktop","20230612175112","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1686592272");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Install Telegram Desktop on Linux | Snap Store</title>
+
+    <!-- Preconnect to establish early connections to important third-party origins -->
+    <link rel="preconnect" href="https://web.archive.org/web/20230612175112/https://www.google-analytics.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20230612175112/https://assets.ubuntu.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20230612175112/https://munchkin.marketo.net/">
+
+    <link rel="preload" href="https://web.archive.org/web/20230612175112/https://assets.ubuntu.com/v1/9689339a-snapcraft-hero-background--light.png" as="image">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://web.archive.org/web/20230612175112/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KCGXHQS');</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="stylesheet" href="/web/20230612175112cs_/https://snapcraft.io/static/css/styles.css?v=6a454d7"/>
+
+    
+    <script src="/web/20230612175112js_/https://snapcraft.io/static/js/modules/raven.min.js?v=daf037c" defer></script>
+    <script>
+      window.addEventListener("DOMContentLoaded", function() {
+        Raven.config('https://web.archive.org/web/20230612175112/https://1e82fd54e08142c9978f623cb746b965@sentry.is.canonical.com//3', {
+          whitelistUrls: ['staging.snapcraft.io/static/js', 'snapcraft.io/static/js/'],
+          ignoreUrls: ['staging.snapcraft.io/static/js/modules', 'snapcraft.io/static/js/modules'],
+          ignoreErrors: ['AbortError'],
+          release: 'commit_id',
+          environment: 'production'
+        }).install();
+      });
+    </script>
+
+    <script src="/web/20230612175112js_/https://snapcraft.io/static/js/dist/base.js?v=5665f9a" defer></script>
+    
+  <script src="/web/20230612175112js_/https://snapcraft.io/static/js/dist/store-details.js?v=6a97069" defer></script>
+  
+
+    <script src="https://web.archive.org/web/20230612175112js_/https://assets.ubuntu.com/v1/703e23c9-lazysizes+noscript+native-loading.5.1.2.min.js" defer></script>
+
+    <meta name="description" content="Get the latest version of Telegram Desktop for Linux - Fast. Secure. Powerful.">
+    <meta name="copydoc" content="">
+    <meta name="google-site-verification" content="Y1JayrP2iS6jS6Rd7uGX3Kzgm0oD8rV5R6TkzteLbQg"/>
+
+    
+      <meta property="og:title" content="Install Telegram Desktop on Linux | Snap Store"/>
+      <meta property="og:site_name" content="Snapcraft"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:description" content="Get the latest version of Telegram Desktop for Linux - Fast. Secure. Powerful."/>
+      <meta property="og:image" content="https://web.archive.org/web/20230612175112im_/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png"/>
+      <meta property="og:image:width" content="200"/>
+      <meta property="og:image:height" content="200"/>
+      <meta property="og:image:alt" content="Telegram Desktop snap logo"/>
+      <meta property="og:url" content="https://web.archive.org/web/20230612175112/https://snapcraft.io/telegram-desktop"/>
+      <meta property="twitter:card" content="summary"/>
+      <meta property="twitter:site" content="@snapcraftio"/>
+      <meta property="twitter:creator" content="@snapcraftio"/>
+      <meta property="twitter:image" content="https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png"/>
+      <meta property="twitter:url" content="https://snapcraft.io/telegram-desktop"/>
+    
+
+    
+  
+
+    <link rel="canonical" href="https://web.archive.org/web/20230612175112/https://snapcraft.io/telegram-desktop"/>
+
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20230612175112im_/https://assets.ubuntu.com/v1/d4ca039f-favicon_16px.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20230612175112im_/https://assets.ubuntu.com/v1/841d0bcf-favicon_32px.png" sizes="32x32"/>
+    <link rel="author" href="/humans.txt"/>
+  </head>
+
+  <body class="has-sticky-footer">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://web.archive.org/web/20230612175112if_/https://www.googletagmanager.com/ns.html?id=GTM-KCGXHQS" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+    <!-- JS that is needed right away -->
+    <script src="/web/20230612175112js_/https://snapcraft.io/static/js/dist/cookie-policy.js?v=4853724"></script>
+
+    <header id="navigation" class="p-navigation is-dark">
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__tagged-logo">
+        <a class="p-navigation__link" href="/web/20230612175112/https://snapcraft.io/">
+          <div class="p-navigation__logo-tag">
+            <img class="p-navigation__logo-icon" src="https://web.archive.org/web/20230612175112im_/https://assets.ubuntu.com/v1/11ff571b-snapcraft.svg" alt="">
+          </div>
+          <span class="p-navigation__logo-title">Canonical Snapcraft</span>
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav">
+      <ul class="p-navigation__items" role="menu">
+        <li class="p-navigation__item is-selected" role="menuitem">
+          <a class="p-navigation__link" href="/web/20230612175112/https://snapcraft.io/store">
+            Snap Store
+          </a>
+        </li>
+        <li class="p-navigation__item- " role="menuitem">
+          <a class="p-navigation__link" href="/web/20230612175112/https://snapcraft.io/about">
+            About
+          </a>
+        </li>
+        <li class="p-navigation__item--dropdown-toggle " id="learn-link" role="menuitem">
+          <a class="p-navigation__link" href="#learn-menu" aria-controls="learn-menu">
+            Learn
+          </a>
+          <ul class="p-navigation__dropdown" id="learn-menu" aria-hidden="true">
+            <li>
+              <a class="p-navigation__dropdown-item" href="/web/20230612175112/https://snapcraft.io/blog">
+                Blog
+              </a>
+            </li>
+            <li>
+              <a class="p-navigation__dropdown-item" href="/web/20230612175112/https://snapcraft.io/build">
+                Build
+              </a>
+            </li>
+            <li>
+              <a class="p-navigation__dropdown-item" href="/web/20230612175112/https://snapcraft.io/docs/">
+                Docs
+              </a>
+            </li>
+            <li>
+              <a class="p-navigation__dropdown-item" href="/web/20230612175112/https://snapcraft.io/docs/snap-tutorials">
+                Tutorials
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="p-navigation__item " role="menuitem">
+          <a class="p-navigation__link" href="/web/20230612175112/https://snapcraft.io/iot">
+            IoT
+          </a>
+        </li>
+        <li class="p-navigation__item" role="menuitem">
+          <a class="p-navigation__link " href="https://web.archive.org/web/20230612175112/https://forum.snapcraft.io/">Forum</a>
+        </li>
+      </ul>
+
+      <ul class="p-navigation__items js-nav-account global-nav" role="menu">
+        
+        <li class="p-navigation__item--dropdown-toggle js-nav-account--authenticated u-hide" role="menuitem" id="link-1">
+          <a class="p-subnav__toggle p-navigation__link js-account--name" aria-controls="account-menu" aria-expanded="false">
+            My account
+          </a>
+          <ul class="p-navigation__dropdown--right" id="account-menu" aria-hidden="true">
+            <li>
+              <a href="/web/20230612175112/https://snapcraft.io/account/snaps" class="p-navigation__dropdown-item">My published snaps</a>
+            </li>
+            <li class="js-nav-account--stores u-hide">
+              <a href="/web/20230612175112/https://snapcraft.io/admin" class="p-navigation__dropdown-item">My stores</a>
+            </li>
+            <li>
+              <a href="/web/20230612175112/https://snapcraft.io/account/details" class="p-navigation__dropdown-item">Account details</a>
+            </li>
+            <li>
+              <a href="/web/20230612175112/https://snapcraft.io/logout" class="p-navigation__dropdown-item">Sign out</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="p-navigation__item js-nav-account--notauthenticated u-hide" role="menuitem">
+          <a class="p-navigation__link" href="/web/20230612175112/https://snapcraft.io/snaps">
+            Sign in
+            <i class="p-icon--user is-light"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+    
+
+    
+  
+  
+  <div class="p-strip--light is-shallow snapcraft-banner-background">
+    
+    <div class="row">
+
+      <div class="p-snap-heading">
+        
+  
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png 2x" alt="Telegram Desktop" width="60" height="60" loading="eager" class="p-snap-heading__icon" data-live="icon"/>
+
+<div class="p-snap-heading__title">
+  <h1 class="p-heading--2 p-snap-heading__name" data-live="title">Telegram Desktop</h1>
+  <div class="u-hide--medium u-hide--large">
+    
+    <span class="p-tooltip--top-center">
+  <a href="/web/20230612175112/https://snapcraft.io/publisher/telegram-desktop" title="View all snaps from Telegram FZ-LLC (telegram-desktop)">
+    Telegram FZ-LLC (telegram-desktop)
+  </a>
+  <span class="p-tooltip__message">Publisher</span>
+</span>
+
+
+  
+    <span class="p-verified p-tooltip p-tooltip--top-center">
+    <img src="https://web.archive.org/web/20230612175112im_/https://assets.ubuntu.com/v1/ba8a4b7b-Verified.svg" width="12" height="12" alt="Verified account"/>
+    <span class="p-tooltip__message u-align--center" role="tooltip" id="telegram-desktop-tooltip">Verified account</span>
+</span>
+  
+
+  
+
+  </div>
+  <ul class="p-inline-list--middot">
+    
+    <li class="p-inline-list__item u-hide--small">
+      <span class="p-tooltip--top-center">
+  <a href="/web/20230612175112/https://snapcraft.io/publisher/telegram-desktop" title="View all snaps from Telegram FZ-LLC (telegram-desktop)">
+    Telegram FZ-LLC (telegram-desktop)
+  </a>
+  <span class="p-tooltip__message">Publisher</span>
+</span>
+
+
+  
+    <span class="p-verified p-tooltip p-tooltip--top-center">
+    <img src="https://web.archive.org/web/20230612175112im_/https://assets.ubuntu.com/v1/ba8a4b7b-Verified.svg" width="12" height="12" alt="Verified account"/>
+    <span class="p-tooltip__message u-align--center" role="tooltip" id="telegram-desktop-tooltip">Verified account</span>
+</span>
+  
+
+  
+
+    </li>
+    <li class="p-inline-list__item">
+      <a href="/web/20230612175112/https://snapcraft.io/search?category=productivity">Productivity</a>
+    </li><li class="p-inline-list__item">
+      <a href="/web/20230612175112/https://snapcraft.io/search?category=social">Social</a>
+    </li>
+  </ul>
+</div>
+        
+        <div class="p-snap-install-buttons">
+          <button class="p-button p-snap-install-buttons__versions" data-js="open-channel-map" data-controls="channel-map-versions" aria-controls="channel-map-versions">
+            latest/stable 4.8.3&nbsp;&nbsp;<i class="p-icon--chevron-down"></i>
+            
+          </button>
+          
+            <button class="p-button--positive p-snap-install-buttons__install" data-js="open-channel-map" data-controls="channel-map-install" aria-controls="channel-map-install">
+                Install
+                
+            </button>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="js-channel-map" class="p-channel-map is-closed">
+  <div id="channel-map-install" class="p-channel-map__tab">
+    <div class="p-strip--light is-shallow">
+      <div class="u-fixed-width">
+        <p class="p-heading--4">Install latest/stable of Telegram Desktop</p>
+        <p>Ubuntu 16.04 or later?</p>
+        <button data-snap="telegram-desktop
+            " class="p-view-store-button" data-js="open-desktop">
+            View in Desktop store
+        </button>
+        <p class="p-form-help-text">Make sure <a href="/web/20230612175112/https://snapcraft.io/docs/installing-snapd">snap support</a> is enabled in your Desktop store.</p>
+      </div>
+      <div class="u-fixed-width">
+        <hr/>
+      </div>
+      <div class="u-fixed-width">
+        <p><b>Install using the command line</b></p>
+        <div class="p-code-snippet">
+          <pre class="p-code-snippet__block--icon"><code id="snap-install">sudo snap install telegram-desktop</code></pre>
+        </div>
+        <p class="p-form-help-text">
+          Don't have snapd? <a href="/web/20230612175112/https://snapcraft.io/docs/installing-snapd">Get set up for snaps</a>.
+        </p>
+      </div>
+      
+    </div>
+  </div>
+  <div id="channel-map-versions" class="p-channel-map__tab">
+    <div class="p-channel-map__slides show-left">
+      <div class="p-strip is-shallow p-channel-map__slide u-no-padding--bottom" data-js="channel-map-options">
+        <div class="u-fixed-width">
+          <form class="p-form--inline p-channel-map__form">
+            <div class="p-form__group">
+              <label class="p-form__label">
+                Options to install this snap
+              </label>
+            </div>
+            <div class="channel-map-arch-field p-form__group">
+              <label for="channel-map-track-select" class="p-form__label">
+                Show architecture
+              </label>
+              <div class="p-form__control">
+                <select id="channel-map-architecture-select" data-js="arch-select" class="p-channel-map-arch-select">
+                </select>
+              </div>
+            </div>
+          </form>
+          
+        </div>
+        <div class="u-fixed-width" data-js="channel-map-tabs">
+          <nav class="p-tabs">
+            <ul class="p-tabs__list" role="tablist">
+              <li class="p-tabs__item" role="presentation">
+                <a href="#" class="p-tabs__link" role="tab" data-tab="overview" data-js="switch-tab" aria-selected="true">
+                    Overview
+                </a>
+              </li>
+              <li class="p-tabs__item" role="presentation">
+                <a href="#" class="p-tabs__link" role="tab" data-tab="all" data-js="switch-tab">
+                    All releases
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="u-fixed-width p-channel-map__version-table">
+          <table>
+            <thead>
+              <tr>
+                <th>Channel</th>
+                <th>Version</th>
+                <th width="25%" class="u-hide--medium u-hide--small">Published</th>
+                <th width="12%"></th>
+              </tr>
+            </thead>
+            <tbody data-js="channel-map-table">
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="p-strip--light is-shallow p-channel-map__slide" data-js="channel-map-install-details">
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/template" id="install-window-template" data-js="install-window">
+  <div class="u-fixed-width">
+    <a href="#" data-js="slide-all-versions">&lsaquo; All versions</a>
+  </div>
+  <div class="u-fixed-width">
+  <p class="p-heading--4">Install ${channel} of Telegram Desktop</p>
+  <span data-js="warning"></span>
+    <p>Ubuntu 16.04 or later?</p>
+    <button data-snap="telegram-desktop?channel=${channel}" class="p-view-store-button" data-js="open-desktop">View in Desktop store</button>
+    <p class="p-form-help-text">Make sure <a href="/docs/installing-snapd">snap support</a> is enabled in your Desktop store.</p>
+  </div>
+  <div class="u-fixed-width">
+    <hr />
+  </div>
+  <div class="u-fixed-width">
+    <p><b>Install using the command line</b></p>
+    <div class="p-code-snippet">
+      <pre class="p-code-snippet__block--icon is-wrapped"><code id="snap-install-alt">sudo snap install telegram-desktop${paramString}</code></pre>
+    </div>
+    <p class="p-form-help-text">
+      Don't have snapd? <a href="/docs/installing-snapd">Get set up for snaps</a>.
+    </p>
+  </div>
+</script>
+<script type="text/template" id="channel-map-row-template" data-js="channel-map-row">
+  <tr class="${rowClass}" data-js="slide-install-instructions" data-channel="${row[0]}/${row[1]}" data-confinement="${row[4]}">
+    <td>${row[0]}/${row[1]}</td>
+    <td>${row[2]}</td>
+    <td class="u-hide--medium u-hide--small">${row[3]}</td>
+    <td class="u-align--center"><a href="#" class="p-channel-map__version-table-install">Install &rsaquo;</a></td>
+  </tr>
+</script>
+<div class="p-channel-map-overlay" data-js="close-channel-map" style="display: none"></div>
+
+  
+    <div class="p-strip--light is-shallow">
+      <div class="row" id="js-snap-screenshots" data-live="screenshots">
+  
+    <div class="p-carousel u-no-margin--bottom u-no-margin--top">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      
+        <div class="p-carousel__item--screenshot swiper-slide">
+  
+    
+    
+      
+      
+      
+      
+      
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_819,h_566/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/tg.png" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_1638,h_1132/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/tg.png 2x" alt="" width="819" height="566" loading="eager" data-original="https://web.archive.org/web/20230612175112/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/tg.png"/>
+    
+    
+  
+</div>
+      
+    </div>
+  </div>
+  <button class="p-carousel__next swiper-button__next">Next</button>
+  <button class="p-carousel__prev swiper-button__prev">Previous</button>
+</div>
+  
+</div>
+    </div>
+  
+
+  <div class="p-strip is-shallow">
+    <div class="row">
+      <div class="col-8 u-text-wrap">
+        <h4 data-live="summary">Fast. Secure. Powerful.</h4>
+        <div data-live="description"><p>Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users.</p>
+<p>FAST: Telegram is the fastest messaging app on the market, connecting people via a unique, distributed network of data centers around the globe.</p>
+<p>SYNCED: You can access your messages from all your phones, tablets and computers at once. Telegram apps are standalone, so you don’t need to keep your phone connected. Start typing on one device and finish the message from another. Never lose your data again.</p>
+<p>UNLIMITED: You can send media and files, without any limits on their type and size. Your entire chat history will require no disk space on your device, and will be securely stored in the Telegram cloud for as long as you need it.</p>
+<p>SECURE: We made it our mission to provide the best security combined with ease of use. Everything on Telegram, including chats, groups, media, etc. is encrypted using a combination of 256-bit symmetric AES encryption, 2048-bit RSA encryption, and Diffie–Hellman secure key exchange.</p>
+<p>100% FREE &amp; OPEN: Telegram has a fully documented and free API for developers, open source apps and verifiable builds to prove the app you download is built from the exact same source code that is published.</p>
+<p>POWERFUL: You can create group chats with up to 200,000 members, share large videos, documents of any type (.DOCX, .MP3, .ZIP, etc.) up to 2 GB each, and even set up bots for specific tasks. Telegram is the perfect tool for hosting online communities and coordinating teamwork.</p>
+<p>RELIABLE: Built to deliver your messages using as little data as possible, Telegram is the most reliable messaging system ever made. It works even on the weakest mobile connections.</p>
+<p>FUN: Telegram has powerful photo and video editing tools, animated stickers and emoji, fully customizable themes to change the appearance of your app, and an open sticker/GIF platform to cater to all your expressive needs.</p>
+<p>SIMPLE: While providing an unprecedented array of features, we take great care to keep the interface clean. Telegram is so simple you already know how to use it.</p>
+<p>PRIVATE: We take your privacy seriously and will never give any third parties access to your data. You can delete any message you ever sent or received for both sides, at any time and without a trace. Telegram will never use your data to show you ads.</p>
+<p>We keep expanding the boundaries of what you can do with a messaging app. Don’t wait years for older messengers to catch up with Telegram — join the revolution today.</p>
+</div>
+      </div>
+      <div class="col-4">
+        <h4>Details for Telegram Desktop</h4>
+
+<h5 class="u-no-margin--bottom"><i class="p-icon--topic"></i> License</h5>
+<ul class="p-list p-list-indented">
+  <li>GPL-3.0</li>
+</ul>
+<hr>
+
+<h5 class="u-no-margin--bottom"><i class="p-icon--calendar"></i> Last updated</h5>
+<ul class="p-list p-list-indented">
+  <li>2 June 2023</li>
+</ul>
+<hr>
+
+<!-- Once `links` is added to the API we can remove the `request.args` check -->
+
+  <h5 class="u-no-margin--bottom"><i class="p-icon--exposed"></i> Links</h5>
+  <ul class="p-list p-list-indented">
+    
+            
+    
+  </ul>
+  <hr>
+
+
+        
+        
+          <h4 style="margin-top: 1rem;">Share this snap</h4>
+          <p>Generate an embeddable card to be shared on external websites.</p>
+          <p><button class="p-button js-embedded-card-toggle">Create embeddable card</button></p>
+
+          <div class="p-modal u-hide" id="embedded-card-modal">
+  <div class="p-modal__dialog p-embedded-card-modal-dialog" id="embedded-card-modal-dialog" role="dialog" aria-labelledby="modal-title" aria-describedby="modal-description">
+    <header class="p-modal__header">
+      <h2 class="p-modal__title">Share embeddable card</h2>
+      <button class="p-modal__close js-modal-close" aria-label="Close dialog">Close</button>
+    </header>
+    <p>Customise your embeddable card using the options below.</p>
+    <div class="row u-no-padding">
+      <div class="col-1">
+        <label class="p-heading-label">Snap Store button:</label>
+
+        <input type="radio" name="store-button" id="store-button-dark" checked="checked" value="black">
+        <label for="store-button-dark">Dark</label>
+        <input type="radio" name="store-button" id="store-button-light" value="white">
+        <label for="store-button-light">Light</label>
+        <input type="radio" name="store-button" id="store-button-hide" value="">
+        <label for="store-button-hide">Hide button</label>
+
+        <label class="p-heading-label">Options:</label>
+
+        <input type="checkbox" name="show-channels" id="option-show-channels">
+        <label for="option-show-channels">Show all channels</label>
+        <input type="checkbox" name="show-summary" id="option-show-summary">
+        <label for="option-show-summary">Show summary</label>
+        <input type="checkbox" name="show-screenshot" id="option-show-screenshot">
+        <label for="option-show-screenshot">Show screenshot</label>
+
+      </div>
+      <div class="col-3">
+        <label class="p-heading-label">Preview:</label>
+        <iframe id="embedded-card-frame" class="snapcraft-publicise__embedded-frame" width="100%" height="320px" frameborder="0" style="border: 1px solid #CCC; border-radius: 2px;">
+        </iframe>
+        <label class="p-heading-label">HTML:</label>
+        <div class="p-code-snippet">
+          <pre class="p-code-snippet__block is-wrapped"><code id="snippet-card-html"></code></pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+    <div data-live="public_metrics_live">
+      <div class="u-fixed-width">
+        <hr/>
+      </div>
+
+      <div class="p-strip is-shallow">
+        <div class="row u-equal-height">
+          
+            <div class="col-8 js-snap-map-holder" data-live="installed_base_by_country_percent">
+              <h4>Where people are using Telegram Desktop</h4>
+              <div id="js-snap-map" class="snapcraft-territories"></div>
+            </div>
+          
+          
+            
+            <div class="col-4 p-show-more is-collapsed is-deep" data-js="js-show-more">
+              <div class="js-snap-distro-chart-holder" data-live="weekly_installed_base_by_operating_system_normalized">
+                <h4>Users by distribution (log)</h4>
+                <div class="snapcraft-distro-chart">
+                  <div class="snapcraft-distro-chart__names">
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 22.04">Ubuntu 22.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 20.04">Ubuntu 20.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 18.04">Ubuntu 18.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 23.04">Ubuntu 23.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 22.10">Ubuntu 22.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian 11">Debian 11</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 16.04">Ubuntu 16.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 20.3">Linux Mint 20.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 21.1">Linux Mint 21.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Manjaro">Manjaro</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 21.10">Ubuntu 21.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Zorin OS 16">Zorin OS 16</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 38">Fedora 38</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="KDE Neon 22.04">KDE Neon 22.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pop 22.04">pop 22.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 21.04">Ubuntu 21.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 37">Fedora 37</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2023.2">Kali Linux 2023.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian 10">Debian 10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 20.2">Linux Mint 20.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 21">Linux Mint 21</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 20.10">Ubuntu 20.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Zorin OS 15">Zorin OS 15</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 6.1">elementary OS 6.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2023.1">Kali Linux 2023.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 19.3">Linux Mint 19.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 20.1">Linux Mint 20.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian 12">Debian 12</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 36">Fedora 36</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 20">Linux Mint 20</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Parrot OS 5.3">Parrot OS 5.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Raspbian 10">Raspbian 10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 19.10">Ubuntu 19.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Arch Linux">Arch Linux</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 5.1.7">elementary OS 5.1.7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 7">elementary OS 7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2022.4">Kali Linux 2022.4</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 19.04">Ubuntu 19.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 35">Fedora 35</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="KDE Neon 20.04">KDE Neon 20.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="openSUSE Leap 15.4">openSUSE Leap 15.4</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Raspbian 11">Raspbian 11</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 23.10">Ubuntu 23.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 18.3">Linux Mint 18.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 19.1">Linux Mint 19.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pop 20.04">pop 20.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 18.10">Ubuntu 18.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian 9">Debian 9</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 34">Fedora 34</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2022.3">Kali Linux 2022.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 19">Linux Mint 19</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 5">Linux Mint 5</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Parrot OS 5.2">Parrot OS 5.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="CentOS 7">CentOS 7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian sid">Debian sid</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="endeavouros">endeavouros</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 33">Fedora 33</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 19.2">Linux Mint 19.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="opensuse-tumbleweed">opensuse-tumbleweed</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 17.10">Ubuntu 17.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Zorin OS 12">Zorin OS 12</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="CentOS 8">CentOS 8</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2022.2">Kali Linux 2022.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 18.2">Linux Mint 18.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Parrot OS 5.1">Parrot OS 5.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="altlinux 10.2">altlinux 10.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="deepin 20.9">deepin 20.9</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="openSUSE Leap 15.3">openSUSE Leap 15.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pop 21.04">pop 21.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pop 21.10">pop 21.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="regataos 23">regataos 23</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="tuxedo 22.04">tuxedo 22.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 14.04">Ubuntu 14.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="astra 1.7_x86-64">astra 1.7_x86-64</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="CentOS 9">CentOS 9</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="garuda">garuda</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2022.1">Kali Linux 2022.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 18.1">Linux Mint 18.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="KDE Neon 18.04">KDE Neon 18.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Parrot OS 5.0">Parrot OS 5.0</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rhel 8.7">rhel 8.7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rhel 9.2">rhel 9.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rocky 8.7">rocky 8.7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rocky 9.2">rocky 9.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="altlinux 10.1">altlinux 10.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 0.4.1">elementary OS 0.4.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="GalliumOS 3.1">GalliumOS 3.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="nobara 37">nobara 37</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Parrot OS 4.11">Parrot OS 4.11</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Raspbian 9">Raspbian 9</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="redos 7.3.2">redos 7.3.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rocky 8.8">rocky 8.8</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Ubuntu 17.04">Ubuntu 17.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="almalinux 9.2">almalinux 9.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="archcraft">archcraft</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="astra 2.12.46">astra 2.12.46</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 6">elementary OS 6</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="huayra 5.0">huayra 5.0</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2021.1">Kali Linux 2021.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2021.2">Kali Linux 2021.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2021.3">Kali Linux 2021.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 18">Linux Mint 18</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="openSUSE Leap 15.2">openSUSE Leap 15.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pop 20.10">pop 20.10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="amzn 2">amzn 2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="arcolinux">arcolinux</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="astra 2.12.45">astra 2.12.45</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="bunsenlabs 10.5">bunsenlabs 10.5</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 32">Fedora 32</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Kali Linux 2021.4">Kali Linux 2021.4</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Linux Mint 4">Linux Mint 4</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="peppermint">peppermint</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rocky 9.1">rocky 9.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian 5.0">Debian 5.0</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Debian rodete">Debian rodete</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Fedora 39">Fedora 39</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="kylin v10">kylin v10</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="openSUSE Leap 15.1">openSUSE Leap 15.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rhel 8.8">rhel 8.8</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="Solus 4.3">Solus 4.3</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="uos 20">uos 20</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="almalinux 8.7">almalinux 8.7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="almalinux 9.1">almalinux 9.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="astra 2.12.44">astra 2.12.44</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="bunsenlabs 11">bunsenlabs 11</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 5.0">elementary OS 5.0</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="elementary OS 5.1.2">elementary OS 5.1.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="KDE Neon 21.04">KDE Neon 21.04</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="ol 9.2">ol 9.2</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="openSUSE Leap 15.5">openSUSE Leap 15.5</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="pureos 10.0">pureos 10.0</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="regataos 22">regataos 22</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="rhel 9.1">rhel 9.1</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="sparky 6.7">sparky 6.7</div>
+                    
+                    <div class="snapcraft-distro-chart__name" title="superx-pro 18.04">superx-pro 18.04</div>
+                    
+                  </div>
+                  <div class="snapcraft-distro-chart__bars">
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 100.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 95.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 85.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 85.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 75.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 70.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 70.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 67.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 67.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 65.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 65.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 65.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 62.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 62.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 62.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 62.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 60.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 60.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 57.49999999999999%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 57.49999999999999%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 57.49999999999999%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 57.49999999999999%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 57.49999999999999%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 55.00000000000001%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 55.00000000000001%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 55.00000000000001%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 55.00000000000001%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 52.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 50.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 50.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 50.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 50.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 50.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 47.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 47.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 47.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 47.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 47.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 45.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 45.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 45.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 45.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 42.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 40.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 37.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 37.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 37.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 37.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 35.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 32.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 30.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 27.500000000000004%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 25.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 22.5%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                      <div class="snapcraft-distro-chart__bar" style="width: 20.0%;"></div>
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="p-show-more__fade">
+                <div class="p-show-more__link-container">
+                  <a href="/web/20230612175112/https://snapcraft.io/telegram-desktop" class="p-show-more__link">Show more</a>
+                </div>
+              </div>
+            </div>
+            
+          
+        </div>
+      </div>
+    </div>
+  
+
+  <div class="u-fixed-width">
+  <hr/>
+</div>
+<div class="p-strip is-shallow">
+  <div class="u-fixed-width">
+    <h3 class="p-heading--4">Install Telegram Desktop on your Linux distribution</h3>
+    <p>Choose your Linux distribution to get detailed installation instructions. If yours is not shown, get more details on the <a href="/web/20230612175112/https://snapcraft.io/docs/installing-snapd" target="_blank">installing snapd documentation</a>.</p>
+    </div>
+</div>
+<div class="p-strip is-shallow u-no-padding--top">
+  <div class="row" id="distros">
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/arch">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/feca0fc0-Distro_Logo_ArchLinux.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/feca0fc0-Distro_Logo_ArchLinux.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Arch Linux</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/centos">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/acf876d9-Distro_Logo_CentOS.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/acf876d9-Distro_Logo_CentOS.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">CentOS</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/debian">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/cfdc1144-Distro_Logo_Debian.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/cfdc1144-Distro_Logo_Debian.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Debian</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/elementary">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/c0c09661-Distro_Logo_Elementary.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/c0c09661-Distro_Logo_Elementary.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">elementary OS</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/fedora">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/c93d842f-fedora.png" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/c93d842f-fedora.png 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Fedora</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/kde-neon">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/d0593902-Distro_Logo_KDE+Neon.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/d0593902-Distro_Logo_KDE+Neon.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">KDE Neon</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/kubuntu">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/7ab50a06-Distro_Logo_Kubuntu.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/7ab50a06-Distro_Logo_Kubuntu.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Kubuntu</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/manjaro">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/4635a0bd-Distro_Logo_Manjaro.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/4635a0bd-Distro_Logo_Manjaro.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Manjaro</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/pop">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/c7ca0dfa-Distro_Logo_Pop.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/c7ca0dfa-Distro_Logo_Pop.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Pop!_OS</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/opensuse">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/610301c6-Distro_Logo_OpenSUSE.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/610301c6-Distro_Logo_OpenSUSE.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">openSUSE</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/rhel">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/be89e41a-red-hat-2019-primary-stacked.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/be89e41a-red-hat-2019-primary-stacked.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Red Hat Enterprise Linux</h4>
+        </span>
+      </a>
+    </div>
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/ubuntu">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/100386fb-Distro_Logo_Ubuntu.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/100386fb-Distro_Logo_Ubuntu.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Ubuntu</h4>
+        </span>
+      </a>
+    </div>
+    
+    <div class="col-3 col-medium-3">
+      <a class="p-media-object" href="/web/20230612175112/https://snapcraft.io/install/telegram-desktop/raspbian">
+        <span class="p-media-object__image">
+            
+<div class="lazyload" data-noscript>
+  <noscript>
+    <img src="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_48,h_48/https://assets.ubuntu.com/v1/193cb6ac-logo-raspberry-pi.svg" srcset="https://web.archive.org/web/20230612175112im_/https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_96,h_96/https://assets.ubuntu.com/v1/193cb6ac-logo-raspberry-pi.svg 2x" alt="" width="48" height="48" loading="lazy"/>
+  </noscript>
+</div>
+
+        </span>
+        <span class="p-media-object__details">
+          <h4 class="p-media-object__title p-heading--5 u-no-margin--bottom">Raspberry Pi</h4>
+        </span>
+      </a>
+    </div>
+    
+  </div>
+</div>
+
+  
+  
+    <div class="u-fixed-width">
+      <hr/>
+    </div>
+
+    <div class="u-fixed-width">
+      <p>Is there a problem with Telegram Desktop? <a class="js-modal-open">Report this app</a></p>
+    </div>
+
+    <div class="p-modal u-hide" id="report-snap-modal">
+  <div class="p-modal__dialog" role="dialog" aria-labelledby="modal-title" aria-describedby="modal-description">
+    <div class="js-report-snap-form">
+      <header class="p-modal__header">
+        <h2 class="p-modal__title" id="modal-title">Report Telegram Desktop</h2>
+        <button class="p-modal__close js-modal-close" aria-label="Close dialog">Close</button>
+      </header>
+
+      
+      
+      <form id="report-snap-form" action="https://web.archive.org/web/20230612175112/https://docs.google.com/forms/d/e/1FAIpQLSelELZwXzvnDkx52GL7cpnQyWdc_Te6APDs843gIKRBHbh6jA/formResponse" method="POST">
+        <input type="hidden" name="entry.1703677219" value="telegram-desktop"/>
+        <label for="report-snap-reason">Choose a reason for reporting this snap</label>
+        <select id="report-snap-reason" name="entry.1193754313" required>
+          <option value="" selected>Select an option</option>
+          <option value="Copyright or trademark violation">Copyright or trademark violation</option>
+          <option value="Snap Store terms of service violation">Snap Store terms of service violation</option>
+        </select>
+        <label for="report-snap-comment">Please provide more detailed reason to your report</label>
+        <textarea id="report-snap-comment" type="text" name="entry.1170971435" placeholder="Comment..." rows="5" maxlength="1000" required></textarea>
+
+        <label for="report-snap-email">Your email (optional)</label>
+        <input id="report-snap-email" type="email" name="entry.1424146082" placeholder="email@example.com"/>
+        <p>In submitting this form, I confirm that I have read and agree to <a href="https://web.archive.org/web/20230612175112/https://ubuntu.com/legal/data-privacy/contact">Canonical’s Privacy Notice</a> and <a href="https://web.archive.org/web/20230612175112/https://ubuntu.com/legal/data-privacy">Privacy Policy</a>.</p>
+        <div class="u-align--right">
+          <button type="button" class="js-modal-close u-no-margin--bottom">Cancel</button>
+          
+          <button type="submit" type="submit" class="--dark u-no-margin--bottom">Submit report</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="js-report-snap-success u-hide">
+      <header class="p-modal__header">
+        <h2 class="p-modal__title" id="modal-title">Report submitted successfully</h2>
+        <button class="p-modal__close js-modal-close" aria-label="Close dialog">Close</button>
+      </header>
+      <p>Thanks for bringing this to our attention. Information you provided will help us investigate further.</p>
+      <div class="u-align--right">
+        <button type="button" class="p-button--positive js-modal-close u-no-margin--bottom">Close</button>
+      </div>
+    </div>
+
+    <div class="js-report-snap-error u-hide">
+      <header class="p-modal__header">
+        <h2 class="p-modal__title" id="modal-title">Error submitting report</h2>
+        <button class="p-modal__close js-modal-close u-no-margin--bottom" aria-label="Close dialog">Close</button>
+      </header>
+      <p>There was an error while sending your report. Please try again later.</p>
+      <div class="u-align--right">
+        <button type="button" class="p-button--positive js-modal-close u-no-margin--bottom">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+  
+
+  
+  
+
+  
+
+  
+
+
+
+<script type="text/template" id="blog-article-template">
+  <div class="${container_class}">
+  
+  <a href="${slug}">
+    ${image}
+  </a>
+  
+  <h3 class="p-heading--4">
+    <a href="${slug}">${title}</a>
+  </h3>
+</div>
+</script>
+
+
+<script type="text/template" id="video-youtube-template">
+  
+  <iframe id="youtubeplayer" type="text/html" width="818" height="460" allow="autoplay"></iframe>
+  <button class="youtube-thumbnail-button" id="youtube-thumbnail-button">
+    <img src="https://web.archive.org/web/20230612175112/https://i3.ytimg.com/vi/${id}/maxresdefault.jpg" alt="" width="1280" height="720" id="youtube-thumbnail-image">
+    <img src="/static/images/yt_play_btn.svg?v=9298bb2" alt="" width="68" height="48" class="youtube-play-button">
+  </button>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const vimeoplayerFrame = document.getElementById("vimeoplayer");
+    const asciicastplayerFrame = document.getElementById("asciicastplayer");
+    const youtubeFrame = document.getElementById("youtubeplayer");
+
+    if (vimeoplayerFrame) {
+      vimeoplayerFrame.src = vimeoplayerFrame.dataset.src;
+    }
+
+    if (asciicastplayerFrame) {
+      const script = document.createElement("script");
+      script.id = "asciicast-${id}";
+      script.dataset.autoplay = 0;
+      script.src = "${url}";
+
+      asciicastplayerFrame.appendChild(script);
+    }
+
+    if (youtubeFrame) {
+      const videoId = "${id}";
+      const thumbnailUrl = `/youtube/${videoId}`;
+      const thumbnailImage = document.querySelector("#youtube-thumbnail-image");
+      const thumbnailButton = document.querySelector("#youtube-thumbnail-button");
+      const videoUrl = "${url}?autoplay=1&cc_load_policy=1&modestbranding=1&rel=0";
+
+      fetch(thumbnailUrl)
+        .then(function(r) {
+          if (r.ok === true) {
+            return r.json();
+          }
+        })
+        .then(function(res) {
+          if (!res.items) {
+            return;
+          }
+
+          const thumbnails = res.items[0].snippet.thumbnails;
+
+          if (thumbnails.maxres) {
+            thumbnailImage.src = thumbnails.maxres.url;
+            thumbnailImage.width = thumbnails.maxres.width;
+            thumbnailImage.height = thumbnails.maxres.height;
+          } else if (thumbnails.standard) {
+            thumbnailImage.src = thumbnails.standard.url;
+            thumbnailImage.width = thumbnails.standard.width;
+            thumbnailImage.height = thumbnails.standard.height;
+          } else if (thumbnails.high) {
+            thumbnailImage.src = thumbnails.high.url;
+            thumbnailImage.width = thumbnails.high.width;
+            thumbnailImage.height = thumbnails.high.height;
+          } else if (thumbnails.medium) {
+            thumbnailImage.src = thumbnails.medium.url;
+            thumbnailImage.width = thumbnails.medium.width;
+            thumbnailImage.height = thumbnails.medium.height;
+          } else {
+            thumbnailImage.src = thumbnails.default.url;
+            thumbnailImage.width = thumbnails.default.width;
+            thumbnailImage.height = thumbnails.default.height;
+          }
+        });
+
+      thumbnailButton.addEventListener("click", function() {
+        youtubeFrame.src = videoUrl;
+        setTimeout(function() {
+          thumbnailButton.classList.add("fade-out");
+        }, 300);
+      });
+    }
+  });
+</script>
+</script>
+
+<script type="text/template" id="video-vimeo-template">
+  
+  <iframe id="vimeoplayer" width="818" height="460" frameborder="0"
+          webkitallowfullscreen mozallowfullscreen allowfullscreen
+          src="" data-src="${url}?title=0&byline=0&portrait=0&transparent=0"></iframe>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const vimeoplayerFrame = document.getElementById("vimeoplayer");
+    const asciicastplayerFrame = document.getElementById("asciicastplayer");
+    const youtubeFrame = document.getElementById("youtubeplayer");
+
+    if (vimeoplayerFrame) {
+      vimeoplayerFrame.src = vimeoplayerFrame.dataset.src;
+    }
+
+    if (asciicastplayerFrame) {
+      const script = document.createElement("script");
+      script.id = "asciicast-${id}";
+      script.dataset.autoplay = 0;
+      script.src = "${url}";
+
+      asciicastplayerFrame.appendChild(script);
+    }
+
+    if (youtubeFrame) {
+      const videoId = "${id}";
+      const thumbnailUrl = `/youtube/${videoId}`;
+      const thumbnailImage = document.querySelector("#youtube-thumbnail-image");
+      const thumbnailButton = document.querySelector("#youtube-thumbnail-button");
+      const videoUrl = "${url}?autoplay=1&cc_load_policy=1&modestbranding=1&rel=0";
+
+      fetch(thumbnailUrl)
+        .then(function(r) {
+          if (r.ok === true) {
+            return r.json();
+          }
+        })
+        .then(function(res) {
+          if (!res.items) {
+            return;
+          }
+
+          const thumbnails = res.items[0].snippet.thumbnails;
+
+          if (thumbnails.maxres) {
+            thumbnailImage.src = thumbnails.maxres.url;
+            thumbnailImage.width = thumbnails.maxres.width;
+            thumbnailImage.height = thumbnails.maxres.height;
+          } else if (thumbnails.standard) {
+            thumbnailImage.src = thumbnails.standard.url;
+            thumbnailImage.width = thumbnails.standard.width;
+            thumbnailImage.height = thumbnails.standard.height;
+          } else if (thumbnails.high) {
+            thumbnailImage.src = thumbnails.high.url;
+            thumbnailImage.width = thumbnails.high.width;
+            thumbnailImage.height = thumbnails.high.height;
+          } else if (thumbnails.medium) {
+            thumbnailImage.src = thumbnails.medium.url;
+            thumbnailImage.width = thumbnails.medium.width;
+            thumbnailImage.height = thumbnails.medium.height;
+          } else {
+            thumbnailImage.src = thumbnails.default.url;
+            thumbnailImage.width = thumbnails.default.width;
+            thumbnailImage.height = thumbnails.default.height;
+          }
+        });
+
+      thumbnailButton.addEventListener("click", function() {
+        youtubeFrame.src = videoUrl;
+        setTimeout(function() {
+          thumbnailButton.classList.add("fade-out");
+        }, 300);
+      });
+    }
+  });
+</script>
+</script>
+
+<script type="text/template" id="video-asciinema-template">
+  
+  <div id="asciicastplayer"></div>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const vimeoplayerFrame = document.getElementById("vimeoplayer");
+    const asciicastplayerFrame = document.getElementById("asciicastplayer");
+    const youtubeFrame = document.getElementById("youtubeplayer");
+
+    if (vimeoplayerFrame) {
+      vimeoplayerFrame.src = vimeoplayerFrame.dataset.src;
+    }
+
+    if (asciicastplayerFrame) {
+      const script = document.createElement("script");
+      script.id = "asciicast-${id}";
+      script.dataset.autoplay = 0;
+      script.src = "${url}";
+
+      asciicastplayerFrame.appendChild(script);
+    }
+
+    if (youtubeFrame) {
+      const videoId = "${id}";
+      const thumbnailUrl = `/youtube/${videoId}`;
+      const thumbnailImage = document.querySelector("#youtube-thumbnail-image");
+      const thumbnailButton = document.querySelector("#youtube-thumbnail-button");
+      const videoUrl = "${url}?autoplay=1&cc_load_policy=1&modestbranding=1&rel=0";
+
+      fetch(thumbnailUrl)
+        .then(function(r) {
+          if (r.ok === true) {
+            return r.json();
+          }
+        })
+        .then(function(res) {
+          if (!res.items) {
+            return;
+          }
+
+          const thumbnails = res.items[0].snippet.thumbnails;
+
+          if (thumbnails.maxres) {
+            thumbnailImage.src = thumbnails.maxres.url;
+            thumbnailImage.width = thumbnails.maxres.width;
+            thumbnailImage.height = thumbnails.maxres.height;
+          } else if (thumbnails.standard) {
+            thumbnailImage.src = thumbnails.standard.url;
+            thumbnailImage.width = thumbnails.standard.width;
+            thumbnailImage.height = thumbnails.standard.height;
+          } else if (thumbnails.high) {
+            thumbnailImage.src = thumbnails.high.url;
+            thumbnailImage.width = thumbnails.high.width;
+            thumbnailImage.height = thumbnails.high.height;
+          } else if (thumbnails.medium) {
+            thumbnailImage.src = thumbnails.medium.url;
+            thumbnailImage.width = thumbnails.medium.width;
+            thumbnailImage.height = thumbnails.medium.height;
+          } else {
+            thumbnailImage.src = thumbnails.default.url;
+            thumbnailImage.width = thumbnails.default.width;
+            thumbnailImage.height = thumbnails.default.height;
+          }
+        });
+
+      thumbnailButton.addEventListener("click", function() {
+        youtubeFrame.src = videoUrl;
+        setTimeout(function() {
+          thumbnailButton.classList.add("fade-out");
+        }, 300);
+      });
+    }
+  });
+</script>
+</script>
+
+
+    
+  <footer class="p-strip--light p-sticky-footer" id="footer">
+  <div class="row">
+    <div class="col-9">
+      <p>
+        <a class="p-link--soft" href="#">Back to top<i class="p-icon--top"></i></a>
+      </p>
+      <p>
+        &copy; 2023 Canonical Ltd. <br/>
+        Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+        <br/>
+        Powered by <a href="https://web.archive.org/web/20230612175112/https://www.ubuntu.com/kubernetes">Charmed Kubernetes</a>
+      </p>
+      <p class="u-no-limit">
+        <small>
+          <a href="https://web.archive.org/web/20230612175112/https://forum.snapcraft.io/">Join the forum</a>, contribute to or report problems with,
+          <a href="https://web.archive.org/web/20230612175112/https://bugs.launchpad.net/snapd">snapd</a>,
+          <a href="https://web.archive.org/web/20230612175112/https://bugs.launchpad.net/snapcraft">Snapcraft</a>,
+          or <a href="https://web.archive.org/web/20230612175112/https://github.com/canonical/snapcraft.io/issues/new">this site</a>.
+        </small>
+      </p>
+    </div>
+    <div class="col-3">
+       <ul class="p-inline-list u-align--right">
+         <li class="p-inline-list__item">
+           <a href="https://web.archive.org/web/20230612175112/https://twitter.com/snapcraftio" class="p-icon--twitter">Share on Twitter</a>
+         </li>
+         <li class="p-inline-list__item">
+           <a href="https://web.archive.org/web/20230612175112/https://www.facebook.com/snapcraftio" class="p-icon--facebook">Share on Facebook</a>
+         </li>
+         <li class="p-inline-list__item">
+           <a href="https://web.archive.org/web/20230612175112/https://www.youtube.com/snapcraftio" class="p-icon--youtube">Share on YouTube</a>
+         </li>
+       </ul>
+     </div>
+  </div>
+  <div class="u-fixed-width">
+    <ul class="p-inline-list--middot u-no-margin--bottom">
+      <li class="p-inline-list__item">
+        <a class="p-link--soft" href="https://web.archive.org/web/20230612175112/https://ubuntu.com/legal/terms-and-policies/snap-store-terms"><small>Terms of Service</small></a>
+      </li>
+      <li class="p-inline-list__item">
+        <a class="p-link--soft" href="https://web.archive.org/web/20230612175112/https://www.ubuntu.com/legal/data-privacy"><small>Data privacy</small></a>
+      </li>
+      <li class="p-inline-list__item">
+        <a class="p-link--soft js-revoke-cookie-manager" href=""><small>Manage your tracker settings</small></a>
+      </li>
+      <li class="p-inline-list__item">
+        <a class="p-link--soft" href="https://web.archive.org/web/20230612175112/https://status.snapcraft.io/"><small>Service status</small></a>
+      </li>
+      <li class="p-inline-list__item">
+        <a class="p-link--soft" href="https://web.archive.org/web/20230612175112/https://dashboard.snapcraft.io/"><small>Other functions</small></a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+
+    
+  <script>
+    window.addEventListener("DOMContentLoaded", function() {
+      Raven.context(function () {
+        try {
+          snapcraft.public.storeDetails.initExpandableArea();
+        } catch (e) {
+          Raven.captureException(e);
+        }
+
+        
+        try {
+          snapcraft.public.storeDetails.screenshots('#js-snap-screenshots');
+        } catch(e) {
+          Raven.captureException(e);
+        }
+        
+
+        try {
+          snapcraft.public.storeDetails.videos('.js-video-slide');
+        } catch(e) {
+          Raven.captureException(e);
+        }
+
+        
+        try {
+          snapcraft.public.storeDetails.initReportSnap(
+            'telegram-desktop', '.js-modal-open', '#report-snap-modal',
+            document.getElementById('report-snap-form').action
+          );
+        } catch(e) {
+          Raven.captureException(e);
+        }
+
+        try {
+          snapcraft.public.storeDetails.initEmbeddedCardModal('telegram-desktop');
+        } catch(e) {
+          Raven.captureException(e);
+        }
+        
+
+        
+          try {
+            snapcraft.public.storeDetails.map('#js-snap-map', {"004": {"code": "AF", "color_rgb": [229, 245, 223], "name": "Afghanistan", "percentage_of_users": 0}, "008": {"code": "AL", "color_rgb": [229, 245, 223], "name": "Albania", "percentage_of_users": 0}, "010": {"code": "AQ", "color_rgb": [247, 247, 247], "name": "Antarctica", "percentage_of_users": 0}, "012": {"code": "DZ", "color_rgb": [229, 245, 223], "name": "Algeria", "percentage_of_users": 0}, "016": {"code": "AS", "color_rgb": [247, 247, 247], "name": "American Samoa", "percentage_of_users": 0}, "020": {"code": "AD", "color_rgb": [229, 245, 223], "name": "Andorra", "percentage_of_users": 0}, "024": {"code": "AO", "color_rgb": [229, 245, 223], "name": "Angola", "percentage_of_users": 0}, "028": {"code": "AG", "color_rgb": [229, 245, 223], "name": "Antigua and Barbuda", "percentage_of_users": 0}, "031": {"code": "AZ", "color_rgb": [229, 245, 223], "name": "Azerbaijan", "percentage_of_users": 0}, "032": {"code": "AR", "color_rgb": [210, 229, 214], "name": "Argentina", "percentage_of_users": 0.015}, "036": {"code": "AU", "color_rgb": [222, 239, 220], "name": "Australia", "percentage_of_users": 0.005}, "040": {"code": "AT", "color_rgb": [222, 239, 220], "name": "Austria", "percentage_of_users": 0.005}, "044": {"code": "BS", "color_rgb": [229, 245, 223], "name": "Bahamas", "percentage_of_users": 0}, "048": {"code": "BH", "color_rgb": [229, 245, 223], "name": "Bahrain", "percentage_of_users": 0}, "050": {"code": "BD", "color_rgb": [222, 239, 220], "name": "Bangladesh", "percentage_of_users": 0.005}, "051": {"code": "AM", "color_rgb": [222, 239, 220], "name": "Armenia", "percentage_of_users": 0.005}, "052": {"code": "BB", "color_rgb": [229, 245, 223], "name": "Barbados", "percentage_of_users": 0}, "056": {"code": "BE", "color_rgb": [222, 239, 220], "name": "Belgium", "percentage_of_users": 0.005}, "060": {"code": "BM", "color_rgb": [229, 245, 223], "name": "Bermuda", "percentage_of_users": 0}, "064": {"code": "BT", "color_rgb": [229, 245, 223], "name": "Bhutan", "percentage_of_users": 0}, "068": {"code": "BO", "color_rgb": [229, 245, 223], "name": "Bolivia", "percentage_of_users": 0}, "070": {"code": "BA", "color_rgb": [229, 245, 223], "name": "Bosnia and Herzegovina", "percentage_of_users": 0}, "072": {"code": "BW", "color_rgb": [229, 245, 223], "name": "Botswana", "percentage_of_users": 0}, "074": {"code": "BV", "color_rgb": [247, 247, 247], "name": "Bouvet Island", "percentage_of_users": 0}, "076": {"code": "BR", "color_rgb": [172, 198, 198], "name": "Brazil", "percentage_of_users": 0.045}, "084": {"code": "BZ", "color_rgb": [229, 245, 223], "name": "Belize", "percentage_of_users": 0}, "086": {"code": "IO", "color_rgb": [247, 247, 247], "name": "British Indian Ocean Territory", "percentage_of_users": 0}, "090": {"code": "SB", "color_rgb": [247, 247, 247], "name": "Solomon Islands", "percentage_of_users": 0}, "092": {"code": "VG", "color_rgb": [229, 245, 223], "name": "Virgin Islands, British", "percentage_of_users": 0}, "096": {"code": "BN", "color_rgb": [229, 245, 223], "name": "Brunei Darussalam", "percentage_of_users": 0}, "100": {"code": "BG", "color_rgb": [222, 239, 220], "name": "Bulgaria", "percentage_of_users": 0.005}, "104": {"code": "MM", "color_rgb": [229, 245, 223], "name": "Myanmar", "percentage_of_users": 0}, "108": {"code": "BI", "color_rgb": [229, 245, 223], "name": "Burundi", "percentage_of_users": 0}, "112": {"code": "BY", "color_rgb": [210, 229, 214], "name": "Belarus", "percentage_of_users": 0.015}, "116": {"code": "KH", "color_rgb": [229, 245, 223], "name": "Cambodia", "percentage_of_users": 0}, "120": {"code": "CM", "color_rgb": [229, 245, 223], "name": "Cameroon", "percentage_of_users": 0}, "124": {"code": "CA", "color_rgb": [216, 234, 217], "name": "Canada", "percentage_of_users": 0.01}, "132": {"code": "CV", "color_rgb": [229, 245, 223], "name": "Cabo Verde", "percentage_of_users": 0}, "136": {"code": "KY", "color_rgb": [229, 245, 223], "name": "Cayman Islands", "percentage_of_users": 0}, "140": {"code": "CF", "color_rgb": [247, 247, 247], "name": "Central African Republic", "percentage_of_users": 0}, "144": {"code": "LK", "color_rgb": [229, 245, 223], "name": "Sri Lanka", "percentage_of_users": 0}, "148": {"code": "TD", "color_rgb": [229, 245, 223], "name": "Chad", "percentage_of_users": 0}, "152": {"code": "CL", "color_rgb": [222, 239, 220], "name": "Chile", "percentage_of_users": 0.005}, "156": {"code": "CN", "color_rgb": [222, 239, 220], "name": "China", "percentage_of_users": 0.005}, "158": {"code": "TW", "color_rgb": [229, 245, 223], "name": "Taiwan", "percentage_of_users": 0}, "162": {"code": "CX", "color_rgb": [247, 247, 247], "name": "Christmas Island", "percentage_of_users": 0}, "166": {"code": "CC", "color_rgb": [247, 247, 247], "name": "Cocos (Keeling) Islands", "percentage_of_users": 0}, "170": {"code": "CO", "color_rgb": [222, 239, 220], "name": "Colombia", "percentage_of_users": 0.005}, "174": {"code": "KM", "color_rgb": [229, 245, 223], "name": "Comoros", "percentage_of_users": 0}, "175": {"code": "YT", "color_rgb": [229, 245, 223], "name": "Mayotte", "percentage_of_users": 0}, "178": {"code": "CG", "color_rgb": [229, 245, 223], "name": "Congo", "percentage_of_users": 0}, "180": {"code": "CD", "color_rgb": [229, 245, 223], "name": "Congo, The Democratic Republic of the", "percentage_of_users": 0}, "184": {"code": "CK", "color_rgb": [247, 247, 247], "name": "Cook Islands", "percentage_of_users": 0}, "188": {"code": "CR", "color_rgb": [229, 245, 223], "name": "Costa Rica", "percentage_of_users": 0}, "191": {"code": "HR", "color_rgb": [229, 245, 223], "name": "Croatia", "percentage_of_users": 0}, "192": {"code": "CU", "color_rgb": [229, 245, 223], "name": "Cuba", "percentage_of_users": 0}, "196": {"code": "CY", "color_rgb": [229, 245, 223], "name": "Cyprus", "percentage_of_users": 0}, "203": {"code": "CZ", "color_rgb": [222, 239, 220], "name": "Czechia", "percentage_of_users": 0.005}, "204": {"code": "BJ", "color_rgb": [229, 245, 223], "name": "Benin", "percentage_of_users": 0}, "208": {"code": "DK", "color_rgb": [229, 245, 223], "name": "Denmark", "percentage_of_users": 0}, "212": {"code": "DM", "color_rgb": [229, 245, 223], "name": "Dominica", "percentage_of_users": 0}, "214": {"code": "DO", "color_rgb": [229, 245, 223], "name": "Dominican Republic", "percentage_of_users": 0}, "218": {"code": "EC", "color_rgb": [229, 245, 223], "name": "Ecuador", "percentage_of_users": 0}, "222": {"code": "SV", "color_rgb": [229, 245, 223], "name": "El Salvador", "percentage_of_users": 0}, "226": {"code": "GQ", "color_rgb": [229, 245, 223], "name": "Equatorial Guinea", "percentage_of_users": 0}, "231": {"code": "ET", "color_rgb": [222, 239, 220], "name": "Ethiopia", "percentage_of_users": 0.005}, "232": {"code": "ER", "color_rgb": [229, 245, 223], "name": "Eritrea", "percentage_of_users": 0}, "233": {"code": "EE", "color_rgb": [229, 245, 223], "name": "Estonia", "percentage_of_users": 0}, "234": {"code": "FO", "color_rgb": [247, 247, 247], "name": "Faroe Islands", "percentage_of_users": 0}, "238": {"code": "FK", "color_rgb": [247, 247, 247], "name": "Falkland Islands (Malvinas)", "percentage_of_users": 0}, "239": {"code": "GS", "color_rgb": [247, 247, 247], "name": "South Georgia and the South Sandwich Islands", "percentage_of_users": 0}, "242": {"code": "FJ", "color_rgb": [229, 245, 223], "name": "Fiji", "percentage_of_users": 0}, "246": {"code": "FI", "color_rgb": [222, 239, 220], "name": "Finland", "percentage_of_users": 0.005}, "248": {"code": "AX", "color_rgb": [229, 245, 223], "name": "\u00c5land Islands", "percentage_of_users": 0}, "250": {"code": "FR", "color_rgb": [191, 213, 206], "name": "France", "percentage_of_users": 0.03}, "254": {"code": "GF", "color_rgb": [229, 245, 223], "name": "French Guiana", "percentage_of_users": 0}, "258": {"code": "PF", "color_rgb": [229, 245, 223], "name": "French Polynesia", "percentage_of_users": 0}, "260": {"code": "TF", "color_rgb": [247, 247, 247], "name": "French Southern Territories", "percentage_of_users": 0}, "262": {"code": "DJ", "color_rgb": [229, 245, 223], "name": "Djibouti", "percentage_of_users": 0}, "266": {"code": "GA", "color_rgb": [229, 245, 223], "name": "Gabon", "percentage_of_users": 0}, "268": {"code": "GE", "color_rgb": [222, 239, 220], "name": "Georgia", "percentage_of_users": 0.005}, "270": {"code": "GM", "color_rgb": [229, 245, 223], "name": "Gambia", "percentage_of_users": 0}, "275": {"code": "PS", "color_rgb": [229, 245, 223], "name": "Palestine, State of", "percentage_of_users": 0}, "276": {"code": "DE", "color_rgb": [121, 157, 177], "name": "Germany", "percentage_of_users": 0.085}, "288": {"code": "GH", "color_rgb": [229, 245, 223], "name": "Ghana", "percentage_of_users": 0}, "292": {"code": "GI", "color_rgb": [229, 245, 223], "name": "Gibraltar", "percentage_of_users": 0}, "296": {"code": "KI", "color_rgb": [247, 247, 247], "name": "Kiribati", "percentage_of_users": 0}, "300": {"code": "GR", "color_rgb": [222, 239, 220], "name": "Greece", "percentage_of_users": 0.005}, "304": {"code": "GL", "color_rgb": [229, 245, 223], "name": "Greenland", "percentage_of_users": 0}, "308": {"code": "GD", "color_rgb": [229, 245, 223], "name": "Grenada", "percentage_of_users": 0}, "312": {"code": "GP", "color_rgb": [229, 245, 223], "name": "Guadeloupe", "percentage_of_users": 0}, "316": {"code": "GU", "color_rgb": [229, 245, 223], "name": "Guam", "percentage_of_users": 0}, "320": {"code": "GT", "color_rgb": [229, 245, 223], "name": "Guatemala", "percentage_of_users": 0}, "324": {"code": "GN", "color_rgb": [229, 245, 223], "name": "Guinea", "percentage_of_users": 0}, "328": {"code": "GY", "color_rgb": [229, 245, 223], "name": "Guyana", "percentage_of_users": 0}, "332": {"code": "HT", "color_rgb": [229, 245, 223], "name": "Haiti", "percentage_of_users": 0}, "334": {"code": "HM", "color_rgb": [247, 247, 247], "name": "Heard Island and McDonald Islands", "percentage_of_users": 0}, "336": {"code": "VA", "color_rgb": [229, 245, 223], "name": "Holy See (Vatican City State)", "percentage_of_users": 0}, "340": {"code": "HN", "color_rgb": [229, 245, 223], "name": "Honduras", "percentage_of_users": 0}, "344": {"code": "HK", "color_rgb": [229, 245, 223], "name": "Hong Kong", "percentage_of_users": 0}, "348": {"code": "HU", "color_rgb": [222, 239, 220], "name": "Hungary", "percentage_of_users": 0.005}, "352": {"code": "IS", "color_rgb": [229, 245, 223], "name": "Iceland", "percentage_of_users": 0}, "356": {"code": "IN", "color_rgb": [146, 177, 188], "name": "India", "percentage_of_users": 0.065}, "360": {"code": "ID", "color_rgb": [216, 234, 217], "name": "Indonesia", "percentage_of_users": 0.01}, "364": {"code": "IR", "color_rgb": [210, 229, 214], "name": "Iran, Islamic Republic of", "percentage_of_users": 0.015}, "368": {"code": "IQ", "color_rgb": [229, 245, 223], "name": "Iraq", "percentage_of_users": 0}, "372": {"code": "IE", "color_rgb": [229, 245, 223], "name": "Ireland", "percentage_of_users": 0}, "376": {"code": "IL", "color_rgb": [222, 239, 220], "name": "Israel", "percentage_of_users": 0.005}, "380": {"code": "IT", "color_rgb": [172, 198, 198], "name": "Italy", "percentage_of_users": 0.045}, "384": {"code": "CI", "color_rgb": [229, 245, 223], "name": "C\u00f4te d\u0027Ivoire", "percentage_of_users": 0}, "388": {"code": "JM", "color_rgb": [229, 245, 223], "name": "Jamaica", "percentage_of_users": 0}, "392": {"code": "JP", "color_rgb": [222, 239, 220], "name": "Japan", "percentage_of_users": 0.005}, "398": {"code": "KZ", "color_rgb": [222, 239, 220], "name": "Kazakhstan", "percentage_of_users": 0.005}, "400": {"code": "JO", "color_rgb": [229, 245, 223], "name": "Jordan", "percentage_of_users": 0}, "404": {"code": "KE", "color_rgb": [222, 239, 220], "name": "Kenya", "percentage_of_users": 0.005}, "408": {"code": "KP", "color_rgb": [247, 247, 247], "name": "North Korea", "percentage_of_users": 0}, "410": {"code": "KR", "color_rgb": [222, 239, 220], "name": "South Korea", "percentage_of_users": 0.005}, "414": {"code": "KW", "color_rgb": [229, 245, 223], "name": "Kuwait", "percentage_of_users": 0}, "417": {"code": "KG", "color_rgb": [222, 239, 220], "name": "Kyrgyzstan", "percentage_of_users": 0.005}, "418": {"code": "LA", "color_rgb": [229, 245, 223], "name": "Lao People\u0027s Democratic Republic", "percentage_of_users": 0}, "422": {"code": "LB", "color_rgb": [229, 245, 223], "name": "Lebanon", "percentage_of_users": 0}, "426": {"code": "LS", "color_rgb": [229, 245, 223], "name": "Lesotho", "percentage_of_users": 0}, "428": {"code": "LV", "color_rgb": [229, 245, 223], "name": "Latvia", "percentage_of_users": 0}, "430": {"code": "LR", "color_rgb": [229, 245, 223], "name": "Liberia", "percentage_of_users": 0}, "434": {"code": "LY", "color_rgb": [229, 245, 223], "name": "Libya", "percentage_of_users": 0}, "438": {"code": "LI", "color_rgb": [229, 245, 223], "name": "Liechtenstein", "percentage_of_users": 0}, "440": {"code": "LT", "color_rgb": [222, 239, 220], "name": "Lithuania", "percentage_of_users": 0.005}, "442": {"code": "LU", "color_rgb": [229, 245, 223], "name": "Luxembourg", "percentage_of_users": 0}, "446": {"code": "MO", "color_rgb": [229, 245, 223], "name": "Macao", "percentage_of_users": 0}, "450": {"code": "MG", "color_rgb": [229, 245, 223], "name": "Madagascar", "percentage_of_users": 0}, "454": {"code": "MW", "color_rgb": [229, 245, 223], "name": "Malawi", "percentage_of_users": 0}, "458": {"code": "MY", "color_rgb": [229, 245, 223], "name": "Malaysia", "percentage_of_users": 0}, "462": {"code": "MV", "color_rgb": [229, 245, 223], "name": "Maldives", "percentage_of_users": 0}, "466": {"code": "ML", "color_rgb": [229, 245, 223], "name": "Mali", "percentage_of_users": 0}, "470": {"code": "MT", "color_rgb": [229, 245, 223], "name": "Malta", "percentage_of_users": 0}, "474": {"code": "MQ", "color_rgb": [229, 245, 223], "name": "Martinique", "percentage_of_users": 0}, "478": {"code": "MR", "color_rgb": [229, 245, 223], "name": "Mauritania", "percentage_of_users": 0}, "480": {"code": "MU", "color_rgb": [229, 245, 223], "name": "Mauritius", "percentage_of_users": 0}, "484": {"code": "MX", "color_rgb": [210, 229, 214], "name": "Mexico", "percentage_of_users": 0.015}, "492": {"code": "MC", "color_rgb": [229, 245, 223], "name": "Monaco", "percentage_of_users": 0}, "496": {"code": "MN", "color_rgb": [229, 245, 223], "name": "Mongolia", "percentage_of_users": 0}, "498": {"code": "MD", "color_rgb": [222, 239, 220], "name": "Moldova", "percentage_of_users": 0.005}, "499": {"code": "ME", "color_rgb": [229, 245, 223], "name": "Montenegro", "percentage_of_users": 0}, "500": {"code": "MS", "color_rgb": [247, 247, 247], "name": "Montserrat", "percentage_of_users": 0}, "504": {"code": "MA", "color_rgb": [229, 245, 223], "name": "Morocco", "percentage_of_users": 0}, "508": {"code": "MZ", "color_rgb": [229, 245, 223], "name": "Mozambique", "percentage_of_users": 0}, "512": {"code": "OM", "color_rgb": [229, 245, 223], "name": "Oman", "percentage_of_users": 0}, "516": {"code": "NA", "color_rgb": [229, 245, 223], "name": "Namibia", "percentage_of_users": 0}, "520": {"code": "NR", "color_rgb": [247, 247, 247], "name": "Nauru", "percentage_of_users": 0}, "524": {"code": "NP", "color_rgb": [229, 245, 223], "name": "Nepal", "percentage_of_users": 0}, "528": {"code": "NL", "color_rgb": [210, 229, 214], "name": "Netherlands", "percentage_of_users": 0.015}, "531": {"code": "CW", "color_rgb": [229, 245, 223], "name": "Cura\u00e7ao", "percentage_of_users": 0}, "533": {"code": "AW", "color_rgb": [229, 245, 223], "name": "Aruba", "percentage_of_users": 0}, "534": {"code": "SX", "color_rgb": [247, 247, 247], "name": "Sint Maarten (Dutch part)", "percentage_of_users": 0}, "535": {"code": "BQ", "color_rgb": [229, 245, 223], "name": "Bonaire, Sint Eustatius and Saba", "percentage_of_users": 0}, "540": {"code": "NC", "color_rgb": [229, 245, 223], "name": "New Caledonia", "percentage_of_users": 0}, "548": {"code": "VU", "color_rgb": [229, 245, 223], "name": "Vanuatu", "percentage_of_users": 0}, "554": {"code": "NZ", "color_rgb": [229, 245, 223], "name": "New Zealand", "percentage_of_users": 0}, "558": {"code": "NI", "color_rgb": [229, 245, 223], "name": "Nicaragua", "percentage_of_users": 0}, "562": {"code": "NE", "color_rgb": [229, 245, 223], "name": "Niger", "percentage_of_users": 0}, "566": {"code": "NG", "color_rgb": [222, 239, 220], "name": "Nigeria", "percentage_of_users": 0.005}, "570": {"code": "NU", "color_rgb": [247, 247, 247], "name": "Niue", "percentage_of_users": 0}, "574": {"code": "NF", "color_rgb": [247, 247, 247], "name": "Norfolk Island", "percentage_of_users": 0}, "578": {"code": "NO", "color_rgb": [229, 245, 223], "name": "Norway", "percentage_of_users": 0}, "580": {"code": "MP", "color_rgb": [229, 245, 223], "name": "Northern Mariana Islands", "percentage_of_users": 0}, "581": {"code": "UM", "color_rgb": [247, 247, 247], "name": "United States Minor Outlying Islands", "percentage_of_users": 0}, "583": {"code": "FM", "color_rgb": [247, 247, 247], "name": "Micronesia, Federated States of", "percentage_of_users": 0}, "584": {"code": "MH", "color_rgb": [247, 247, 247], "name": "Marshall Islands", "percentage_of_users": 0}, "585": {"code": "PW", "color_rgb": [247, 247, 247], "name": "Palau", "percentage_of_users": 0}, "586": {"code": "PK", "color_rgb": [229, 245, 223], "name": "Pakistan", "percentage_of_users": 0}, "591": {"code": "PA", "color_rgb": [229, 245, 223], "name": "Panama", "percentage_of_users": 0}, "598": {"code": "PG", "color_rgb": [229, 245, 223], "name": "Papua New Guinea", "percentage_of_users": 0}, "600": {"code": "PY", "color_rgb": [229, 245, 223], "name": "Paraguay", "percentage_of_users": 0}, "604": {"code": "PE", "color_rgb": [229, 245, 223], "name": "Peru", "percentage_of_users": 0}, "608": {"code": "PH", "color_rgb": [229, 245, 223], "name": "Philippines", "percentage_of_users": 0}, "612": {"code": "PN", "color_rgb": [247, 247, 247], "name": "Pitcairn", "percentage_of_users": 0}, "616": {"code": "PL", "color_rgb": [210, 229, 214], "name": "Poland", "percentage_of_users": 0.015}, "620": {"code": "PT", "color_rgb": [222, 239, 220], "name": "Portugal", "percentage_of_users": 0.005}, "624": {"code": "GW", "color_rgb": [247, 247, 247], "name": "Guinea-Bissau", "percentage_of_users": 0}, "626": {"code": "TL", "color_rgb": [247, 247, 247], "name": "Timor-Leste", "percentage_of_users": 0}, "630": {"code": "PR", "color_rgb": [229, 245, 223], "name": "Puerto Rico", "percentage_of_users": 0}, "634": {"code": "QA", "color_rgb": [229, 245, 223], "name": "Qatar", "percentage_of_users": 0}, "638": {"code": "RE", "color_rgb": [229, 245, 223], "name": "R\u00e9union", "percentage_of_users": 0}, "642": {"code": "RO", "color_rgb": [222, 239, 220], "name": "Romania", "percentage_of_users": 0.005}, "643": {"code": "RU", "color_rgb": [8, 64, 129], "name": "Russian Federation", "percentage_of_users": 0.175}, "646": {"code": "RW", "color_rgb": [229, 245, 223], "name": "Rwanda", "percentage_of_users": 0}, "652": {"code": "BL", "color_rgb": [247, 247, 247], "name": "Saint Barth\u00e9lemy", "percentage_of_users": 0}, "654": {"code": "SH", "color_rgb": [247, 247, 247], "name": "Saint Helena, Ascension and Tristan da Cunha", "percentage_of_users": 0}, "659": {"code": "KN", "color_rgb": [247, 247, 247], "name": "Saint Kitts and Nevis", "percentage_of_users": 0}, "660": {"code": "AI", "color_rgb": [247, 247, 247], "name": "Anguilla", "percentage_of_users": 0}, "662": {"code": "LC", "color_rgb": [229, 245, 223], "name": "Saint Lucia", "percentage_of_users": 0}, "663": {"code": "MF", "color_rgb": [247, 247, 247], "name": "Saint Martin (French part)", "percentage_of_users": 0}, "666": {"code": "PM", "color_rgb": [247, 247, 247], "name": "Saint Pierre and Miquelon", "percentage_of_users": 0}, "670": {"code": "VC", "color_rgb": [229, 245, 223], "name": "Saint Vincent and the Grenadines", "percentage_of_users": 0}, "674": {"code": "SM", "color_rgb": [229, 245, 223], "name": "San Marino", "percentage_of_users": 0}, "678": {"code": "ST", "color_rgb": [229, 245, 223], "name": "Sao Tome and Principe", "percentage_of_users": 0}, "682": {"code": "SA", "color_rgb": [229, 245, 223], "name": "Saudi Arabia", "percentage_of_users": 0}, "686": {"code": "SN", "color_rgb": [229, 245, 223], "name": "Senegal", "percentage_of_users": 0}, "688": {"code": "RS", "color_rgb": [222, 239, 220], "name": "Serbia", "percentage_of_users": 0.005}, "690": {"code": "SC", "color_rgb": [229, 245, 223], "name": "Seychelles", "percentage_of_users": 0}, "694": {"code": "SL", "color_rgb": [229, 245, 223], "name": "Sierra Leone", "percentage_of_users": 0}, "702": {"code": "SG", "color_rgb": [222, 239, 220], "name": "Singapore", "percentage_of_users": 0.005}, "703": {"code": "SK", "color_rgb": [222, 239, 220], "name": "Slovakia", "percentage_of_users": 0.005}, "704": {"code": "VN", "color_rgb": [216, 234, 217], "name": "Vietnam", "percentage_of_users": 0.01}, "705": {"code": "SI", "color_rgb": [229, 245, 223], "name": "Slovenia", "percentage_of_users": 0}, "706": {"code": "SO", "color_rgb": [229, 245, 223], "name": "Somalia", "percentage_of_users": 0}, "710": {"code": "ZA", "color_rgb": [222, 239, 220], "name": "South Africa", "percentage_of_users": 0.005}, "716": {"code": "ZW", "color_rgb": [229, 245, 223], "name": "Zimbabwe", "percentage_of_users": 0}, "724": {"code": "ES", "color_rgb": [172, 198, 198], "name": "Spain", "percentage_of_users": 0.045}, "728": {"code": "SS", "color_rgb": [229, 245, 223], "name": "South Sudan", "percentage_of_users": 0}, "729": {"code": "SD", "color_rgb": [229, 245, 223], "name": "Sudan", "percentage_of_users": 0}, "732": {"code": "EH", "color_rgb": [247, 247, 247], "name": "Western Sahara", "percentage_of_users": 0}, "740": {"code": "SR", "color_rgb": [229, 245, 223], "name": "Suriname", "percentage_of_users": 0}, "744": {"code": "SJ", "color_rgb": [247, 247, 247], "name": "Svalbard and Jan Mayen", "percentage_of_users": 0}, "748": {"code": "SZ", "color_rgb": [229, 245, 223], "name": "Eswatini", "percentage_of_users": 0}, "752": {"code": "SE", "color_rgb": [222, 239, 220], "name": "Sweden", "percentage_of_users": 0.005}, "756": {"code": "CH", "color_rgb": [216, 234, 217], "name": "Switzerland", "percentage_of_users": 0.01}, "760": {"code": "SY", "color_rgb": [229, 245, 223], "name": "Syrian Arab Republic", "percentage_of_users": 0}, "762": {"code": "TJ", "color_rgb": [229, 245, 223], "name": "Tajikistan", "percentage_of_users": 0}, "764": {"code": "TH", "color_rgb": [222, 239, 220], "name": "Thailand", "percentage_of_users": 0.005}, "768": {"code": "TG", "color_rgb": [229, 245, 223], "name": "Togo", "percentage_of_users": 0}, "772": {"code": "TK", "color_rgb": [247, 247, 247], "name": "Tokelau", "percentage_of_users": 0}, "776": {"code": "TO", "color_rgb": [247, 247, 247], "name": "Tonga", "percentage_of_users": 0}, "780": {"code": "TT", "color_rgb": [229, 245, 223], "name": "Trinidad and Tobago", "percentage_of_users": 0}, "784": {"code": "AE", "color_rgb": [229, 245, 223], "name": "United Arab Emirates", "percentage_of_users": 0}, "788": {"code": "TN", "color_rgb": [229, 245, 223], "name": "Tunisia", "percentage_of_users": 0}, "792": {"code": "TR", "color_rgb": [216, 234, 217], "name": "Turkey", "percentage_of_users": 0.01}, "795": {"code": "TM", "color_rgb": [229, 245, 223], "name": "Turkmenistan", "percentage_of_users": 0}, "796": {"code": "TC", "color_rgb": [247, 247, 247], "name": "Turks and Caicos Islands", "percentage_of_users": 0}, "798": {"code": "TV", "color_rgb": [247, 247, 247], "name": "Tuvalu", "percentage_of_users": 0}, "800": {"code": "UG", "color_rgb": [229, 245, 223], "name": "Uganda", "percentage_of_users": 0}, "804": {"code": "UA", "color_rgb": [146, 177, 188], "name": "Ukraine", "percentage_of_users": 0.065}, "807": {"code": "MK", "color_rgb": [229, 245, 223], "name": "North Macedonia", "percentage_of_users": 0}, "818": {"code": "EG", "color_rgb": [222, 239, 220], "name": "Egypt", "percentage_of_users": 0.005}, "826": {"code": "GB", "color_rgb": [210, 229, 214], "name": "United Kingdom", "percentage_of_users": 0.015}, "831": {"code": "GG", "color_rgb": [229, 245, 223], "name": "Guernsey", "percentage_of_users": 0}, "832": {"code": "JE", "color_rgb": [229, 245, 223], "name": "Jersey", "percentage_of_users": 0}, "833": {"code": "IM", "color_rgb": [229, 245, 223], "name": "Isle of Man", "percentage_of_users": 0}, "834": {"code": "TZ", "color_rgb": [229, 245, 223], "name": "Tanzania", "percentage_of_users": 0}, "840": {"code": "US", "color_rgb": [165, 193, 196], "name": "United States", "percentage_of_users": 0.05}, "850": {"code": "VI", "color_rgb": [229, 245, 223], "name": "Virgin Islands, U.S.", "percentage_of_users": 0}, "854": {"code": "BF", "color_rgb": [229, 245, 223], "name": "Burkina Faso", "percentage_of_users": 0}, "858": {"code": "UY", "color_rgb": [229, 245, 223], "name": "Uruguay", "percentage_of_users": 0}, "860": {"code": "UZ", "color_rgb": [222, 239, 220], "name": "Uzbekistan", "percentage_of_users": 0.005}, "862": {"code": "VE", "color_rgb": [222, 239, 220], "name": "Venezuela", "percentage_of_users": 0.005}, "876": {"code": "WF", "color_rgb": [247, 247, 247], "name": "Wallis and Futuna", "percentage_of_users": 0}, "882": {"code": "WS", "color_rgb": [229, 245, 223], "name": "Samoa", "percentage_of_users": 0}, "887": {"code": "YE", "color_rgb": [229, 245, 223], "name": "Yemen", "percentage_of_users": 0}, "894": {"code": "ZM", "color_rgb": [229, 245, 223], "name": "Zambia", "percentage_of_users": 0}});
+          } catch(e) {
+            Raven.captureException(e);
+            document.querySelector('.js-snap-map-holder').style.display = 'none';
+          }
+        
+
+        
+          try {
+              snapcraft.public.storeDetails.channelMap('#js-channel-map', "telegram-desktop", {"amd64": {"latest": [{"channel": "stable", "confinement": "strict", "released-at": "2 June 2023", "risk": "stable", "size": 409784320, "version": "4.8.3"}, {"channel": "edge", "confinement": "strict", "released-at": "10 June 2023", "risk": "edge", "size": 409260032, "version": "4.8.3-8-g63ccf1bed"}]}, "arm64": {"latest": [{"channel": "stable", "confinement": "strict", "released-at": "2 June 2023", "risk": "stable", "size": 389885952, "version": "4.8.3"}, {"channel": "edge", "confinement": "strict", "released-at": "10 June 2023", "risk": "edge", "size": 389398528, "version": "4.8.3-8-g63ccf1bed"}]}, "armhf": {"latest": [{"channel": "stable", "confinement": "strict", "released-at": "6 July 2022", "risk": "stable", "size": 324603904, "version": "4.0.2"}, {"channel": "edge", "confinement": "strict", "released-at": "11 July 2022", "risk": "edge", "size": 324603904, "version": "4.0.2"}]}, "ppc64el": {"latest": [{"channel": "stable", "confinement": "strict", "released-at": "2 June 2023", "risk": "stable", "size": 429576192, "version": "4.8.3"}, {"channel": "edge", "confinement": "strict", "released-at": "10 June 2023", "risk": "edge", "size": 429019136, "version": "4.8.3-8-g63ccf1bed"}]}}, "latest");
+          } catch(e) {
+            Raven.captureException(e);
+            document.querySelector('.js-open-channel-map').style.display = 'none';
+          }
+        
+
+        
+      });
+    });
+  </script>
+
+
+    <script src="/web/20230612175112js_/https://snapcraft.io/static/js/dist/global-nav.js?v=f8ce6b8"></script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://web.archive.org/web/20230612175112/http://schema.org/",
+        "@id": "https://web.archive.org/web/20230612175112/https://snapcraft.io/#organization",
+        "@type": "Organization",
+        "name": "Snapcraft",
+        "logo": "https://web.archive.org/web/20230612175112/https://assets.ubuntu.com/v1/e635d1ef-snapcraft_green-red_hex.png",
+        "url": "https://web.archive.org/web/20230612175112/https://snapcraft.io",
+        "sameAs": [
+          "https://web.archive.org/web/20230612175112/https://developer.ubuntu.com/snapcraft",
+          "https://web.archive.org/web/20230612175112/https://github.com/snapcore/snapcraft",
+          "https://web.archive.org/web/20230612175112/https://en.wikipedia.org/wiki/Snappy_(package_manager)",
+          "https://web.archive.org/web/20230612175112/https://twitter.com/snapcraftio",
+          "https://web.archive.org/web/20230612175112/https://www.facebook.com/snapcraftio/",
+          "https://web.archive.org/web/20230612175112/https://www.youtube.com/snapcraftio"
+        ]
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://web.archive.org/web/20230612175112/http://schema.org",
+        "@id": "https://web.archive.org/web/20230612175112/https://snapcraft.io/#website",
+        "@type": "WebPage",
+        "name": "Snapcraft",
+        "url": "https://web.archive.org/web/20230612175112/https://snapcraft.io/telegram-desktop"
+      }
+    </script>
+
+    
+  <script type="application/ld+json">
+    {
+      "@context": "https://web.archive.org/web/20230612175112/https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Telegram Desktop",
+      "description": "Fast. Secure. Powerful.",
+      "datePublished": "2023-06-02T07:07:13.304219+00:00",
+      
+      "applicationCategory": "Productivity",
+      
+      
+      "image": "https://web.archive.org/web/20230612175112/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png",
+      "operatingSystem": "linux",
+      "offers": {
+        "price": 0.00,
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Telegram FZ-LLC"
+        
+      },
+      "softwareVersion": "4.8.3",
+      "fileSize": "409.8 MB",
+      "license": "GPL-3.0"
+    }
+  </script>
+
+  </body>
+</html><!--
+     FILE ARCHIVED ON 17:51:12 Jun 12, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:26:33 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.076
+  exclusion.robots.policy: 0.064
+  cdx.remote: 0.133
+  esindex: 0.013
+  LoadShardBlock: 244.265 (6)
+  PetaboxLoader3.datanode: 91.688 (7)
+  load_resource: 69.049
+  PetaboxLoader3.resolve: 37.723
+-->

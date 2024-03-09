@@ -1,0 +1,2184 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://developers.google.com/privacy-sandbox/relevance/topics","20240308000915","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1709856555");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta name="google-signin-client-id" content="721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com">
+    <meta name="google-signin-scope" content="profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award">
+    <meta property="og:site_name" content="Google for Developers">
+    <meta property="og:type" content="website"><meta name="theme-color" content="#1a73e8"><meta charset="utf-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    <link rel="manifest" href="/web/20240308000915/https://developers.google.com/_pwa/developers/manifest.json" crossorigin="use-credentials">
+    <link rel="preconnect" href="//web.archive.org/web/20240308000915/https://www.gstatic.com/" crossorigin>
+    <link rel="preconnect" href="//web.archive.org/web/20240308000915/https://fonts.gstatic.com/" crossorigin>
+    <link rel="preconnect" href="//web.archive.org/web/20240308000915/https://fonts.googleapis.com/" crossorigin>
+    <link rel="preconnect" href="//web.archive.org/web/20240308000915/https://apis.google.com/" crossorigin>
+    <link rel="preconnect" href="//web.archive.org/web/20240308000915/https://www.google-analytics.com/" crossorigin><link rel="stylesheet" href="//web.archive.org/web/20240308000915cs_/https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:400,400italic,500,500italic,700,700italic|Roboto+Mono:400,500,700&amp;display=swap">
+      <link rel="stylesheet" href="//web.archive.org/web/20240308000915cs_/https://fonts.googleapis.com/css2?family=Material+Icons&amp;family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&amp;display=block"><link rel="stylesheet" href="https://web.archive.org/web/20240308000915cs_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/css/app.css">
+      <link rel="shortcut icon" href="https://web.archive.org/web/20240308000915im_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/favicon-new.png">
+    <link rel="apple-touch-icon" href="https://web.archive.org/web/20240308000915im_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/touchicon-180-new.png"><link rel="canonical" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics"><link rel="search" type="application/opensearchdescription+xml" title="Google for Developers" href="https://web.archive.org/web/20240308000915/https://developers.google.com/s/opensearch.xml">
+      <link rel="alternate" hreflang="en" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics"/><link rel="alternate" hreflang="x-default" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics"/><link rel="alternate" hreflang="ar" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=ar"/><link rel="alternate" hreflang="bn" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=bn"/><link rel="alternate" hreflang="zh-Hans" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=zh-cn"/><link rel="alternate" hreflang="zh-Hant" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=zh-tw"/><link rel="alternate" hreflang="fa" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=fa"/><link rel="alternate" hreflang="fr" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=fr"/><link rel="alternate" hreflang="de" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=de"/><link rel="alternate" hreflang="he" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=he"/><link rel="alternate" hreflang="hi" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=hi"/><link rel="alternate" hreflang="id" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=id"/><link rel="alternate" hreflang="it" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=it"/><link rel="alternate" hreflang="ja" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=ja"/><link rel="alternate" hreflang="ko" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=ko"/><link rel="alternate" hreflang="pl" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=pl"/><link rel="alternate" hreflang="pt-BR" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=pt-br"/><link rel="alternate" hreflang="ru" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=ru"/><link rel="alternate" hreflang="es-419" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=es-419"/><link rel="alternate" hreflang="th" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=th"/><link rel="alternate" hreflang="tr" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=tr"/><link rel="alternate" hreflang="vi" href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics?hl=vi"/><title>Topics API overview &nbsp;|&nbsp; Privacy Sandbox &nbsp;|&nbsp; Google for Developers</title>
+
+<meta property="og:title" content="Topics API overview  |  Privacy Sandbox  |  Google for Developers"><meta name="description" content="The Topics API enables interest-based advertising (IBA) without having to resort to tracking the sites a user visits.">
+  <meta property="og:description" content="The Topics API enables interest-based advertising (IBA) without having to resort to tracking the sites a user visits."><meta property="og:url" content="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics"><meta property="og:image" content="https://web.archive.org/web/20240308000915im_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/opengraph/google-blue.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="675"><meta property="og:locale" content="en"><meta name="twitter:card" content="summary_large_image"><script type="application/ld+json">
+  {
+    "@context": "https://web.archive.org/web/20240308000915/https://schema.org",
+    "@type": "Article",
+    "dateModified": "2022-01-25",
+    "headline": "Topics API overview"
+  }
+</script><script type="application/ld+json">
+  {
+    "@context": "https://web.archive.org/web/20240308000915/https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Privacy Sandbox",
+      "item": "https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox"
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Topics API overview",
+      "item": "https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics"
+    }]
+  }
+  </script>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+    </head>
+  <body class="" template="page" theme="google-blue" type="article" layout="docs" display-toc pending>
+    <devsite-progress type="indeterminate" id="app-progress"></devsite-progress>
+  
+    <section class="devsite-wrapper">
+      
+      <devsite-cookie-notification-bar></devsite-cookie-notification-bar>
+      <devsite-header role="banner">
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="devsite-header--inner nocontent">
+  <div class="devsite-top-logo-row-wrapper-wrapper">
+    <div class="devsite-top-logo-row-wrapper">
+      <div class="devsite-top-logo-row">
+        <button type="button" id="devsite-hamburger-menu" class="devsite-header-icon-button button-flat material-icons gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Navigation menu button" visually-hidden aria-label="Open menu">
+        </button>
+        <div class="devsite-product-name-wrapper">
+
+  
+    
+  
+
+
+
+  
+  
+  <span class="devsite-product-name">
+    <ul class="devsite-breadcrumb-list">
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+    
+    
+      
+      
+        
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Upper Header" data-value="1" track-type="globalNav" track-name="breadcrumb" track-metadata-position="1" track-metadata-eventdetail="Privacy Sandbox">
+    Privacy Sandbox
+  </a>
+  
+      
+    
+  </li>
+  
+</ul>
+  </span>
+
+</div>
+        <div class="devsite-top-logo-row-middle">
+          <div class="devsite-header-upper-tabs">
+            
+              
+              
+  <devsite-tabs class="upper-tabs">
+
+    <nav class="devsite-tabs-wrapper" aria-label="Upper tabs">
+      
+        
+          <tab>
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/overview/where-are-the-privacy-sandbox-apis-available" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/overview/where-are-the-privacy-sandbox-apis-available" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - overview" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Overview" track-name="overview">
+    Overview
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+        
+          <tab>
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/3pcd" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/3pcd" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - cookies" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Cookies" track-name="cookies">
+    Cookies
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+        
+          <tab class="devsite-active">
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - private advertising" track-metadata-module="primary nav" aria-label="Private advertising, selected" data-category="Site-Wide Custom Events" data-label="Tab: Private advertising" track-name="private advertising">
+    Private advertising
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+        
+          <tab>
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/protections/ip-protection" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/protections/ip-protection" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - protections" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Protections" track-name="protections">
+    Protections
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+        
+          <tab>
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/blog" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/blog" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - blog" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Blog" track-name="blog">
+    Blog
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+    </nav>
+
+  </devsite-tabs>
+
+            
+           </div>
+          
+<devsite-search enable-signin enable-search enable-suggestions enable-query-completion project-name="Privacy Sandbox" tenant-name="Google for Developers" project-scope="/privacy-sandbox" url-scoped="https://developers.google.com/s/results/privacy-sandbox">
+  <form class="devsite-search-form" action="https://web.archive.org/web/20240308000915/https://developers.google.com/s/results" method="GET">
+    <div class="devsite-search-container">
+      <button type="button" search-open class="devsite-search-button devsite-header-icon-button button-flat material-icons" aria-label="Open search"></button>
+      <div class="devsite-searchbox">
+        <input aria-activedescendant="" aria-autocomplete="list" aria-label="Search" aria-expanded="false" aria-haspopup="listbox" autocomplete="off" class="devsite-search-field devsite-search-query" name="q" placeholder="Search" role="combobox" type="text" value="">
+          <div class="devsite-search-image material-icons" aria-hidden="true">
+            
+          </div>
+      </div>
+    </div>
+  </form>
+  <button type="button" search-close class="devsite-search-button devsite-header-icon-button button-flat material-icons" aria-label="Close search"></button>
+</devsite-search>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+<devsite-language-selector>
+  <ul role="presentation">
+    
+    
+    <li role="presentation">
+      <a role="menuitem" lang="en">English</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="de">Deutsch</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="es">Español</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="es_419">Español – América Latina</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fr">Français</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="id">Indonesia</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="it">Italiano</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pl">Polski</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pt_br">Português – Brasil</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="vi">Tiếng Việt</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="tr">Türkçe</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ru">Русский</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="he">עברית</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ar">العربيّة</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fa">فارسی</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="hi">हिंदी</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="bn">বাংলা</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="th">ภาษาไทย</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh_cn">中文 – 简体</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh_tw">中文 – 繁體</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ja">日本語</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ko">한국어</a>
+    </li>
+    
+  </ul>
+</devsite-language-selector>
+
+
+        
+
+        
+          
+          
+          <devsite-user enable-profiles fp-auth id="devsite-user">
+            
+              
+              <span class="button devsite-top-button" aria-hidden="true" visually-hidden>Sign in</span>
+            
+        </devsite-user>
+           
+        
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="devsite-collapsible-section
+    ">
+    <div class="devsite-header-background">
+      
+        
+          <div class="devsite-product-id-row">
+            <div class="devsite-product-description-row">
+              
+                
+                  
+                  
+                  <ul class="devsite-breadcrumb-list">
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+    
+    
+      
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Lower Header" data-value="1" track-type="globalNav" track-name="breadcrumb" track-metadata-position="1" track-metadata-eventdetail="">
+    
+        Private advertising
+      
+  </a>
+  
+    
+  </li>
+  
+</ul>
+                
+              
+              
+            </div>
+            
+          </div>
+          
+        
+      
+      
+        <div class="devsite-doc-set-nav-row">
+          
+          
+            
+            
+  <devsite-tabs class="lower-tabs">
+
+    <nav class="devsite-tabs-wrapper" aria-label="Lower tabs">
+      
+        
+          <tab>
+            
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - overview" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Overview" track-name="overview">
+    Overview
+  
+    </a>
+  
+  
+          </tab>
+        
+      
+        
+          <tab class="devsite-dropdown
+    
+    devsite-active
+    
+    ">
+  
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/topics" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - audiences" track-metadata-module="primary nav" aria-label="Audiences, selected" data-category="Site-Wide Custom Events" data-label="Tab: Audiences" track-name="audiences">
+    Audiences
+  
+    </a>
+  
+  
+    <a href="#" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Dropdown menu for Audiences" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/topics" track-metadata-position="nav - audiences" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Audiences" track-name="audiences" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
+  
+  <div class="devsite-tabs-dropdown" aria-label="submenu" hidden>
+    
+    <div class="devsite-tabs-dropdown-content">
+      
+        <div class="devsite-tabs-dropdown-column
+                    ">
+          
+            <ul class="devsite-tabs-dropdown-section
+                       ">
+              
+              
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/topics" track-metadata-position="nav - audiences" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Topics
+                    </div>
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      
+    </div>
+  </div>
+</tab>
+        
+      
+        
+          <tab class="devsite-dropdown
+    
+    
+    
+    ">
+  
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/protected-audience" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/protected-audience" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - auctions &amp; ad creative" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Auctions &amp; ad creative" track-name="auctions &amp; ad creative">
+    Auctions &amp; ad creative
+  
+    </a>
+  
+  
+    <a href="#" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Dropdown menu for Auctions &amp; ad creative" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/protected-audience" track-metadata-position="nav - auctions &amp; ad creative" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Auctions &amp; ad creative" track-name="auctions &amp; ad creative" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
+  
+  <div class="devsite-tabs-dropdown" aria-label="submenu" hidden>
+    
+    <div class="devsite-tabs-dropdown-content">
+      
+        <div class="devsite-tabs-dropdown-column
+                    ">
+          
+            <ul class="devsite-tabs-dropdown-section
+                       ">
+              
+              
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/protected-audience" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/protected-audience" track-metadata-position="nav - auctions &amp; ad creative" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Protected Audience
+                    </div>
+                    
+                  </a>
+                </li>
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/fenced-frame" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/fenced-frame" track-metadata-position="nav - auctions &amp; ad creative" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Fenced frames
+                    </div>
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      
+    </div>
+  </div>
+</tab>
+        
+      
+        
+          <tab class="devsite-dropdown
+    
+    
+    
+    ">
+  
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - measurement" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Measurement" track-name="measurement">
+    Measurement
+  
+    </a>
+  
+  
+    <a href="#" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Dropdown menu for Measurement" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" track-metadata-position="nav - measurement" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: Measurement" track-name="measurement" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
+  
+  <div class="devsite-tabs-dropdown" aria-label="submenu" hidden>
+    
+    <div class="devsite-tabs-dropdown-content">
+      
+        <div class="devsite-tabs-dropdown-column
+                    ">
+          
+            <ul class="devsite-tabs-dropdown-section
+                       ">
+              
+              
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" track-metadata-position="nav - measurement" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Attribution Reporting
+                    </div>
+                    
+                  </a>
+                </li>
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/private-aggregation" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/private-aggregation" track-metadata-position="nav - measurement" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Private Aggregation
+                    </div>
+                    
+                  </a>
+                </li>
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/aggregation-service" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/aggregation-service" track-metadata-position="nav - measurement" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Aggregation Service
+                    </div>
+                    
+                  </a>
+                </li>
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/shared-storage" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/shared-storage" track-metadata-position="nav - measurement" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      Shared Storage
+                    </div>
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      
+    </div>
+  </div>
+</tab>
+        
+      
+        
+          <tab class="devsite-dropdown
+    
+    
+    
+    ">
+  
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" class="devsite-tabs-content gc-analytics-event " track-type="nav" track-metadata-position="nav - apis &amp; services" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: APIs &amp; services" track-name="apis &amp; services">
+    APIs &amp; services
+  
+    </a>
+  
+  
+    <a href="#" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Dropdown menu for APIs &amp; services" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" track-metadata-position="nav - apis &amp; services" track-metadata-module="primary nav" data-category="Site-Wide Custom Events" data-label="Tab: APIs &amp; services" track-name="apis &amp; services" class="devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down"></a>
+  
+  <div class="devsite-tabs-dropdown" aria-label="submenu" hidden>
+    
+    <div class="devsite-tabs-dropdown-content">
+      
+        <div class="devsite-tabs-dropdown-column
+                    ">
+          
+            <ul class="devsite-tabs-dropdown-section
+                       ">
+              
+              
+              
+                <li class="devsite-nav-item">
+                  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" track-type="nav" track-metadata-eventdetail="https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" track-metadata-position="nav - apis &amp; services" track-metadata-module="tertiary nav" tooltip>
+                    
+                    <div class="devsite-nav-item-title">
+                      SDK Runtime
+                    </div>
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      
+    </div>
+  </div>
+</tab>
+        
+      
+    </nav>
+
+  </devsite-tabs>
+
+          
+          
+        </div>
+      
+    </div>
+  </div>
+
+</div>
+
+
+
+  
+
+  
+</devsite-header>
+      <devsite-book-nav scrollbars>
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="devsite-book-nav-filter
+            ">
+  <span class="filter-list-icon material-icons" aria-hidden="true"></span>
+  <input type="text" placeholder="Filter" aria-label="Type to filter" role="searchbox">
+  
+  <span class="filter-clear-button hidden" data-title="Clear filter" aria-label="Clear filter" role="button" tabindex="0"></span>
+</div>
+
+<nav class="devsite-book-nav devsite-nav nocontent" aria-label="Side menu">
+  <div class="devsite-mobile-header">
+    <button type="button" id="devsite-close-nav" class="devsite-header-icon-button button-flat material-icons gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Close navigation" aria-label="Close navigation">
+    </button>
+    <div class="devsite-product-name-wrapper">
+
+  
+    
+  
+
+
+  
+      <span class="devsite-product-name">
+        
+        
+        <ul class="devsite-breadcrumb-list">
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+    
+    
+      
+      
+        
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Upper Header" data-value="1" track-type="globalNav" track-name="breadcrumb" track-metadata-position="1" track-metadata-eventdetail="Privacy Sandbox">
+    Privacy Sandbox
+  </a>
+  
+      
+    
+  </li>
+  
+</ul>
+      </span>
+    
+
+</div>
+  </div>
+
+  <div class="devsite-book-nav-wrapper">
+    <div class="devsite-mobile-nav-top">
+      
+        <ul class="devsite-nav-list">
+          
+            <li class="devsite-nav-item">
+              
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/overview/where-are-the-privacy-sandbox-apis-available" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Tab: Overview" track-name="overview" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Overview" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Overview
+   </span>
+    
+  
+  </a>
+  
+
+  
+              
+            </li>
+          
+            <li class="devsite-nav-item">
+              
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/3pcd" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Tab: Cookies" track-name="cookies" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Cookies" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Cookies
+   </span>
+    
+  
+  </a>
+  
+
+  
+              
+            </li>
+          
+            <li class="devsite-nav-item">
+              
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" class="devsite-nav-title gc-analytics-event
+              
+              devsite-nav-active" data-category="Site-Wide Custom Events" data-label="Tab: Private advertising" track-name="private advertising" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Private advertising" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Private advertising
+   </span>
+    
+  
+  </a>
+  
+
+  
+              
+                <ul class="devsite-nav-responsive-tabs">
+                  
+                    
+                    
+                    
+                    <li class="devsite-nav-item">
+                      
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Tab: Overview" track-name="overview" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Overview" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Overview
+   </span>
+    
+  
+  </a>
+  
+
+  
+                    </li>
+                  
+                    
+                    
+                    
+                    <li class="devsite-nav-item">
+                      
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" class="devsite-nav-title gc-analytics-event
+              devsite-nav-has-children
+              devsite-nav-active" data-category="Site-Wide Custom Events" data-label="Tab: Audiences" track-name="audiences" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Audiences" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip menu="_book">
+      Audiences
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward" menu="_book">
+    </span>
+    
+  
+  </a>
+  
+
+  
+    <ul class="devsite-nav-responsive-tabs devsite-nav-has-menu
+                devsite-lower-tab-item">
+      
+<li class="devsite-nav-item">
+
+  
+  <span class="devsite-nav-title" tooltip data-category="Site-Wide Custom Events" data-label="Tab: Audiences" track-name="audiences">
+  
+    <span class="devsite-nav-text" tooltip menu="Audiences">
+      More
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Audiences">
+    </span>
+    
+  
+  </span>
+  
+
+</li>
+
+    </ul>
+  
+                    </li>
+                  
+                    
+                    
+                    
+                    <li class="devsite-nav-item">
+                      
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/protected-audience" class="devsite-nav-title gc-analytics-event
+              devsite-nav-has-children
+              " data-category="Site-Wide Custom Events" data-label="Tab: Auctions &amp; ad creative" track-name="auctions &amp; ad creative" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Auctions &amp; ad creative" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Auctions &amp; ad creative
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward">
+    </span>
+    
+  
+  </a>
+  
+
+  
+    <ul class="devsite-nav-responsive-tabs devsite-nav-has-menu
+                devsite-lower-tab-item">
+      
+<li class="devsite-nav-item">
+
+  
+  <span class="devsite-nav-title" tooltip data-category="Site-Wide Custom Events" data-label="Tab: Auctions &amp; ad creative" track-name="auctions &amp; ad creative">
+  
+    <span class="devsite-nav-text" tooltip menu="Auctions &amp; ad creative">
+      More
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Auctions &amp; ad creative">
+    </span>
+    
+  
+  </span>
+  
+
+</li>
+
+    </ul>
+  
+                    </li>
+                  
+                    
+                    
+                    
+                    <li class="devsite-nav-item">
+                      
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" class="devsite-nav-title gc-analytics-event
+              devsite-nav-has-children
+              " data-category="Site-Wide Custom Events" data-label="Tab: Measurement" track-name="measurement" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Measurement" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Measurement
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward">
+    </span>
+    
+  
+  </a>
+  
+
+  
+    <ul class="devsite-nav-responsive-tabs devsite-nav-has-menu
+                devsite-lower-tab-item">
+      
+<li class="devsite-nav-item">
+
+  
+  <span class="devsite-nav-title" tooltip data-category="Site-Wide Custom Events" data-label="Tab: Measurement" track-name="measurement">
+  
+    <span class="devsite-nav-text" tooltip menu="Measurement">
+      More
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward" menu="Measurement">
+    </span>
+    
+  
+  </span>
+  
+
+</li>
+
+    </ul>
+  
+                    </li>
+                  
+                    
+                    
+                    
+                    <li class="devsite-nav-item">
+                      
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" class="devsite-nav-title gc-analytics-event
+              devsite-nav-has-children
+              " data-category="Site-Wide Custom Events" data-label="Tab: APIs &amp; services" track-name="apis &amp; services" data-category="Site-Wide Custom Events" data-label="Responsive Tab: APIs &amp; services" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      APIs &amp; services
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward">
+    </span>
+    
+  
+  </a>
+  
+
+  
+    <ul class="devsite-nav-responsive-tabs devsite-nav-has-menu
+                devsite-lower-tab-item">
+      
+<li class="devsite-nav-item">
+
+  
+  <span class="devsite-nav-title" tooltip data-category="Site-Wide Custom Events" data-label="Tab: APIs &amp; services" track-name="apis &amp; services">
+  
+    <span class="devsite-nav-text" tooltip menu="APIs &amp; services">
+      More
+   </span>
+    
+    <span class="devsite-nav-icon material-icons" data-icon="forward" menu="APIs &amp; services">
+    </span>
+    
+  
+  </span>
+  
+
+</li>
+
+    </ul>
+  
+                    </li>
+                  
+                </ul>
+              
+            </li>
+          
+            <li class="devsite-nav-item">
+              
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/protections/ip-protection" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Tab: Protections" track-name="protections" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Protections" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Protections
+   </span>
+    
+  
+  </a>
+  
+
+  
+              
+            </li>
+          
+            <li class="devsite-nav-item">
+              
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/blog" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Tab: Blog" track-name="blog" data-category="Site-Wide Custom Events" data-label="Responsive Tab: Blog" track-type="globalNav" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Blog
+   </span>
+    
+  
+  </a>
+  
+
+  
+              
+            </li>
+          
+          
+          
+        </ul>
+      
+    </div>
+    
+      <div class="devsite-mobile-nav-bottom">
+        
+          
+          <ul class="devsite-nav-list" menu="_book">
+            <li class="devsite-nav-item
+           devsite-nav-heading"><div class="devsite-nav-title devsite-nav-title-no-path">
+        <span class="devsite-nav-text" tooltip>Topics API for Web</span>
+      </div></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics"><span class="devsite-nav-text" tooltip>Overview</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/topic-classification" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/topic-classification" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/topic-classification"><span class="devsite-nav-text" tooltip>Topics classification</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/developer-guide" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/developer-guide" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/developer-guide"><span class="devsite-nav-text" tooltip>Developer guide</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/integration-guide" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/integration-guide" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/integration-guide"><span class="devsite-nav-text" tooltip>Integration guide</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/colab" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/colab" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/colab"><span class="devsite-nav-text" tooltip>Colab</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/demo" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/demo" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/demo"><span class="devsite-nav-text" tooltip>Demos</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/latest" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/latest" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/latest"><span class="devsite-nav-text" tooltip>Latest updates</span></a></li>
+
+  <li class="devsite-nav-item
+           devsite-nav-heading"><div class="devsite-nav-title devsite-nav-title-no-path">
+        <span class="devsite-nav-text" tooltip>Topics API for Android</span>
+      </div></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/android" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/android" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/android"><span class="devsite-nav-text" tooltip>Interest-based advertising with the Topics API</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/android/developer-guide" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/android/developer-guide" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/android/developer-guide"><span class="devsite-nav-text" tooltip>Developer guide</span></a></li>
+
+  <li class="devsite-nav-item"><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/android/integration-guide" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: /privacy-sandbox/relevance/topics/android/integration-guide" track-type="bookNav" track-name="click" track-metadata-eventdetail="/privacy-sandbox/relevance/topics/android/integration-guide"><span class="devsite-nav-text" tooltip>Integration guide</span></a></li>
+
+  <li class="devsite-nav-item"><a href="https://web.archive.org/web/20240308000915/https://developer.android.com/design-for-safety/privacy-sandbox/reference/packages" class="devsite-nav-title gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Book nav link, pathname: https://developer.android.com/design-for-safety/privacy-sandbox/reference/packages" track-type="bookNav" track-name="click" track-metadata-eventdetail="https://developer.android.com/design-for-safety/privacy-sandbox/reference/packages"><span class="devsite-nav-text" tooltip>API reference</span></a></li>
+          </ul>
+        
+        
+          
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+        
+        
+          
+    
+  
+    
+      
+      <ul class="devsite-nav-list" menu="Audiences" aria-label="Side menu" hidden>
+        
+          
+            
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Topics" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Topics
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+          
+        
+      </ul>
+    
+  
+    
+      
+      <ul class="devsite-nav-list" menu="Auctions &amp; ad creative" aria-label="Side menu" hidden>
+        
+          
+            
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/protected-audience" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Protected Audience" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Protected Audience
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/fenced-frame" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Fenced frames" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Fenced frames
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+          
+        
+      </ul>
+    
+  
+    
+      
+      <ul class="devsite-nav-list" menu="Measurement" aria-label="Side menu" hidden>
+        
+          
+            
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/attribution-reporting" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Attribution Reporting" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Attribution Reporting
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/private-aggregation" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Private Aggregation" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Private Aggregation
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/aggregation-service" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Aggregation Service" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Aggregation Service
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/shared-storage" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: Shared Storage" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      Shared Storage
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+          
+        
+      </ul>
+    
+  
+    
+      
+      <ul class="devsite-nav-list" menu="APIs &amp; services" aria-label="Side menu" hidden>
+        
+          
+            
+            
+              
+<li class="devsite-nav-item">
+
+  
+  <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/sdk-runtime" class="devsite-nav-title gc-analytics-event
+              
+              " data-category="Site-Wide Custom Events" data-label="Responsive Tab: SDK Runtime" track-type="navMenu" track-metadata-eventdetail="globalMenu" track-metadata-position="nav">
+  
+    <span class="devsite-nav-text" tooltip>
+      SDK Runtime
+   </span>
+    
+  
+  </a>
+  
+
+</li>
+
+            
+          
+        
+      </ul>
+    
+  
+        
+      </div>
+    
+  </div>
+</nav>
+        
+      </devsite-book-nav>
+      <section id="gc-wrapper">
+        <main role="main" class="devsite-main-content" has-book-nav has-sidebar>
+          
+          
+          <div class="devsite-sidebar">
+            <div class="devsite-sidebar-content">
+                
+                <devsite-toc class="devsite-nav" role="navigation" aria-label="On this page" depth="2" scrollbars></devsite-toc>
+                <devsite-recommendations-sidebar class="nocontent devsite-nav">
+                </devsite-recommendations-sidebar>
+            </div>
+          </div>
+          
+          <devsite-content>
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+<article class="devsite-article">
+  
+  
+  
+  
+  
+
+  <div class="devsite-article-meta nocontent" role="navigation">
+    
+    
+    <ul class="devsite-breadcrumb-list" aria-label="Breadcrumb">
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+    
+    
+      
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="1" track-type="globalNav" track-name="breadcrumb" track-metadata-position="1" track-metadata-eventdetail="">
+    
+        Home
+      
+  </a>
+  
+    
+  </li>
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+      
+      <div class="devsite-breadcrumb-guillemet material-icons" aria-hidden="true"></div>
+    
+    
+    
+      
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="2" track-type="globalNav" track-name="breadcrumb" track-metadata-position="2" track-metadata-eventdetail="Privacy Sandbox">
+    
+        Privacy Sandbox
+      
+  </a>
+  
+    
+  </li>
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+      
+      <div class="devsite-breadcrumb-guillemet material-icons" aria-hidden="true"></div>
+    
+    
+    
+      
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="3" track-type="globalNav" track-name="breadcrumb" track-metadata-position="3" track-metadata-eventdetail="">
+    
+        Private advertising
+      
+  </a>
+  
+    
+  </li>
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+      
+      <div class="devsite-breadcrumb-guillemet material-icons" aria-hidden="true"></div>
+    
+    
+    
+      
+  <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="4" track-type="globalNav" track-name="breadcrumb" track-metadata-position="4" track-metadata-eventdetail="">
+    
+        Audiences
+      
+  </a>
+  
+    
+  </li>
+  
+</ul>
+    
+      
+    <devsite-thumb-rating position="header">
+    </devsite-thumb-rating>
+  
+    
+  </div>
+  
+      <h1 class="devsite-page-title" tabindex="-1">Topics API overview</h1>
+  <devsite-feature-tooltip ack-key="AckCollectionsBookmarkTooltipDismiss" analytics-category="Site-Wide Custom Events" analytics-action-show="Callout Profile displayed" analytics-action-close="Callout Profile dismissed" analytics-label="Create Collection Callout" class="devsite-page-bookmark-tooltip nocontent" dismiss-button="true" id="devsite-collections-dropdown" dismiss-button-text="Dismiss" close-button-text="Got it">
+
+        
+        <devsite-bookmark></devsite-bookmark>
+
+        <span slot="popout-heading">
+          
+          Stay organized with collections
+        </span>
+        <span slot="popout-contents">
+          
+          Save and categorize content based on your preferences.
+        </span>
+      </devsite-feature-tooltip>
+  <div class="devsite-page-title-meta"><devsite-view-release-notes></devsite-view-release-notes></div>
+  
+
+  <devsite-toc class="devsite-nav" depth="2" devsite-toc-embedded>
+  </devsite-toc>
+  
+    
+    <devsite-recommendations-dropdown class="nocontent"></devsite-recommendations-dropdown>
+    
+  
+
+  
+
+
+
+
+
+
+<div class="devsite-article-body clearfix
+  ">
+
+  
+    
+
+
+<p>The Topics API enables interest-based advertising (IBA) without having to resort to tracking the sites a user visits.</p>
+
+<p><devsite-video video-id="EnQP6e7EzUs"></devsite-video></p>
+
+<h2 id="implementation_status" data-text="Implementation status" tabindex="-1">Implementation status</h2>
+
+
+<ul>
+<li>The <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics">Topics API</a> has completed the public discussion phase and is currently available to 99 percent of users, scaling up to 100 percent. </li>
+<li>To provide your feedback on the Topics API, create an Issue on the <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics/issues">Topics explainer</a> or participate in discussions in the <a href="https://web.archive.org/web/20240308000915/https://www.w3.org/community/web-adv/participants">Improving Web Advertising Business Group</a>. The explainer has a number of open questions that still require further definition.</li>
+<li><a href="https://web.archive.org/web/20240308000915/http://privacysandbox.com/timeline">The Privacy Sandbox timeline</a> provides implementation timelines for the Topics API and other Privacy Sandbox proposals.</li>
+<li><a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/latest">Topics API: latest updates</a> details changes and enhancements to the Topics API and implementations.</li>
+</ul>
+
+<h2 id="what_is_the_topics_api" data-text="What is the Topics API?" tabindex="-1">What is the Topics API?</h2>
+
+<p>The Topics API is a <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/overview">Privacy Sandbox</a> mechanism designed to preserve privacy while allowing a browser to share information with third parties about a user&#39;s interests. It enables interest-based advertising (IBA) without having to resort to tracking the sites a user visits.</p>
+
+<p>Interest-based advertising is a key concept in the Topics API. It is a form of personalized advertising in which an ad is selected for a user based on their interests, inferred from the sites they&#39;ve recently visited. This is different from contextual advertising, which aims to match ads to the content on the page the user is visiting.</p>
+
+<p>Interest-based advertising can help both advertisers (sites that want to advertise their products or services)  and publishers (sites that use ads to help monetize their content):</p>
+
+<ul>
+<li>IBA can help advertisers reach potential customers.</li>
+<li>IBA can supplement contextual information to help publishers use advertising to fund websites.</li>
+</ul>
+
+<p>The Topics API provides a new form of interest-based advertising using topics (categories of interest) that are assigned to a browser based on recent user activity. These topics can supplement contextual information to help select appropriate advertisements.</p>
+
+<h2 id="how_it_works" data-text="How it works" tabindex="-1">How it works</h2>
+
+<p>In the past, third-party cookies and other mechanisms have been used to track user browsing behavior across sites to infer topics of interest. These mechanisms are being phased out.</p>
+
+<p>With the Topics API, the browser observes and records topics that appear to be of interest to the user, based on their browsing activity. This information is recorded on the user&#39;s device. The Topics API can then give API callers (such as ad tech platforms) access to a user&#39;s topics of interest, but without revealing additional information about the user&#39;s browsing activity.</p>
+
+<h3 id="ancestor" data-text="Observation of ancestor topics" tabindex="-1">Observation of ancestor topics</h3>
+
+<p>Since Chrome 114, when a caller observes a topic for a user on a page, the browser also regards the caller as having observed all ancestors of the topic. </p>
+
+<p>For example, if the browser records that a caller observes <code translate="no" dir="ltr">Shopping/Apparel/Footwear/Boots</code> for a user, then the ancestors of that topic are also regarded as having been observed: <code translate="no" dir="ltr">Shopping/Apparel/Footwear</code>, <code translate="no" dir="ltr">Shopping/Apparel</code>, and <code translate="no" dir="ltr">Shopping</code>.</p>
+
+<p>Previously, in order for a caller to be regarded by the browser as having observed (for example) <code translate="no" dir="ltr">Shopping/Apparel</code>, that specific topic would have to have been returned by the API as the topic observed. This means that if <code translate="no" dir="ltr">Shopping/Apparel</code> is observed for a caller for a user on one page, and <code translate="no" dir="ltr">Shopping/Apparel/Footwear/Boots</code> on another, then the API will treat <code translate="no" dir="ltr">Shopping/Apparel</code> as having been observed on both pages.</p>
+
+<h3 id="epoch" data-text="Epochs" tabindex="-1">Epochs</h3>
+
+<p>Of course the Topics API must ensure that the topics of interest it provides are kept up to date. The browser infers topics for a user based on their browsing activity during a period of time known as an <em>epoch</em>, currently one week. Each user has their own epochs (epochs are &quot;per user&quot;) and the initial start time is randomized. The topic selected for each epoch is randomly selected from the user&#39;s top five topics for that time period. To further enhance privacy and ensure that all topics may be represented, there is a 5% chance the topic is randomly selected from all possible topics in a <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics/blob/main/taxonomy_v1.md">taxonomy</a> of interests.</p>
+
+<p>The Topics API has three main tasks:</p>
+
+<ul>
+<li>Map browser activity to topics of interest. With the current design of the Topics API, topics are inferred from the hostnames of pages the user visits. For example, the topic inferred for a website about aquariums might be <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v1.md#:%7E:text=/Pets%20%26%20Animals/Pets/Fish%20%26%20Aquaria">/Pets &amp; Animals/Pets/Fish &amp; Aquaria</a>.</li>
+<li>Calculate the top topics for a user based on their recent browsing activity.</li>
+<li>Provide mechanisms to access topics currently of interest to the user, to help select the appropriate ads.</li>
+</ul>
+
+<p>The Topics API provides human-readable, easily understandable topics, so it&#39;s possible to provide meaningful controls to users.</p>
+
+<h3 id="manually-curated" data-text="How topics are curated and selected" tabindex="-1">How topics are curated and selected</h3>
+
+<p>Topics are selected from a <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics/blob/main/taxonomy_v1.md">taxonomy</a> consisting of hierarchical categories such as <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v1.md#:%7E:text=/Arts%20%26%20Entertainment/Music%20%26%20Audio/Soul%20%26%20R%26B">/Arts &amp; Entertainment/Music &amp; Audio/Soul &amp; R&amp;B</a> and <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v1.md#:%7E:text=106-,/Business%20%26%20Industrial/Agriculture%20%26%20Forestry,-107">/Business &amp; Industrial/Agriculture &amp; Forestry</a>. These topics have been curated by Chrome for initial testing, but with the goal that the taxonomy becomes a resource maintained by trusted ecosystem contributors. The taxonomy needs to be small enough that many users&#39; browsers will be associated with each topic. Currently the number of topics is 349, but we expect the final number of topics to be between a few hundred and a few thousand.</p>
+
+
+<aside class="note"><b>Note:</b> From June 2023, Topics began using an <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v2.md">improved taxonomy</a>, in which we added 280 commercially focused categories, like &quot;Athletic Apparel&quot;, &quot;Mattresses&quot;, and &quot;Luxury Travel,&quot; while removing 160 categories including topics like &quot;Civil Engineering&quot; and &quot;Equestrian&quot;. Some examples here use <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v1.md">version 1</a> of the taxonomy.</aside>
+
+<p>To avoid sensitive categories, topics must be public, human-curated, and remain up to date. The initial taxonomy proposed for testing by Chrome has been human-curated <a href="https://web.archive.org/web/20240308000915/https://github.com/patcg-individual-drafts/topics#meeting-the-privacy-goals:%7E:text=of%20a%20page.-,The,-topics%20revealed%20by">to exclude categories generally considered sensitive</a>, such as ethnicity or sexual orientation.</p>
+
+<p>For 50,000 top sites, the Topics API implementation in Chrome uses a manually curated, publicly available <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/topic-classification#classifier-model">override list</a> to map hostnames to topics. For other sites, the Topics API uses a <a href="https://web.archive.org/web/20240308000915/https://royalsociety.org/topics-policy/projects/machine-learning/what-is-machine-learning-infographic/">machine learning</a> model to infer topics from hostnames. </p>
+
+<p>Chrome&#39;s implementation of the Topics API downloads a <a href="https://web.archive.org/web/20240308000915/https://www.tensorflow.org/lite/guide">TensorFlow Lite</a> file representing the model so it can be used locally on the user&#39;s device. </p>
+
+<p>You can access the TensorFlow Lite model file and the topics inferred for hostnames from <code translate="no" dir="ltr">chrome://topics-internals</code>.</p>
+
+<p>The diagram below shows a simplified example to demonstrate how the Topics API might help an ad tech platform select an appropriate ad. The example assumes that the user&#39;s browser already has a model to map website hostnames to topics.</p>
+
+<figure>
+  <a href="/web/20240308000915/https://developers.google.com/static/privacy-sandbox/assets/images/diagram-showing-stages-1d28cdd74e34.png">
+    <img src="/web/20240308000915im_/https://developers.google.com/static/privacy-sandbox/assets/images/diagram-showing-stages-1d28cdd74e34.png" alt="Diagram showing the stages in the Topics API lifecycle, from a user visiting websites to an ad being displayed." width="800" height="275">
+  </a>
+  <figcaption>The Topics API lifecycle diagram walks through the stages of the API actions from a high-level point of view.</figcaption>
+</figure>
+
+<h3 id="api_callers_only_receive_topics_theyve_observed" data-text="API callers only receive topics they've observed" tabindex="-1">API callers only receive topics they've observed</h3>
+
+<p>A design goal of the Topics API is to enable interest-based advertising without sharing information with more entities than is currently possible with third-party cookies. The Topics API is designed so topics can only be returned for API callers that have already observed them, within a limited timeframe. An API caller is said to have observed a topic for a user if it has called the <code translate="no" dir="ltr">document.browsingTopics()</code> method in code included on a site that the Topics API has mapped to that topic.</p>
+
+<p>The API returns only topics that have been observed by the caller within the most recent three epochs. This helps stop information about the user from being shared with more entities than the technologies the API is replacing (including third-party cookies).</p>
+
+<p>The number of topics returned  depends on the number of topics that the API caller has previously observed, and the number of topics that the user has available (such as the number of weeks of data accumulated). Anywhere from zero to three topics may be returned, as one topic can be indicated for each of the three recent epochs</p>
+
+<p>For more information on how to use and test the Topics API, refer to the <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics">Topics API developer guide</a>.</p>
+
+<h4 id="how_the_api_reduces_fingerprinting" data-text="How the API reduces fingerprinting" tabindex="-1">How the API reduces fingerprinting</h4>
+
+<p>The Topics API provides multiple mechanisms to help ensure that it is difficult to re-identify significant numbers of users <em>across</em> sites using the Topics API alone:</p>
+
+<ul>
+<li>Because the Topics taxonomy provides coarsely grained topics, each topic is expected to have large numbers of users. In fact, there is a guaranteed minimum number of users per topic, because 5% of the time the returned topic is random.</li>
+<li>Topics are returned at random from the user&#39;s top five.</li>
+<li>If a user frequently visits the same site (every week, for example) code running on the site can learn one new topic per week, at most.</li>
+<li>Different sites will receive different topics for the same user in the same epoch. There is only a one-in-five chance that the topic returned for a user on one site matches the topic returned for them on another. This makes it more difficult to determine if they&#39;re the same user.</li>
+<li>Topics are updated for a user once each week, which limits the rate at which information can be shared. In other words, the API helps mitigate against fingerprinting by not providing topic updates too frequently.</li>
+<li>A topic will only be returned for an API caller that previously observed the same topic for the same user recently. This approach helps limit the potential for entities to learn about (or share) information about user interests they have not observed firsthand.</li>
+</ul>
+
+<h4 id="how_the_api_addressed_concerns_with_floc" data-text="How the API addressed concerns with FLoC" tabindex="-1">How the API addressed concerns with FLoC</h4>
+
+<p>The origin trial of <a href="https://web.archive.org/web/20240308000915/https://github.com/WICG/floc">FLoC</a> in 2021 received a wide range of feedback from ad tech and web ecosystem contributors. In particular, there were concerns that FLoC cohorts could be used as a fingerprinting surface to identify users, or could reveal a user&#39;s association with a sensitive category. There were also calls to make FLoC more transparent and understandable to users.</p>
+
+<p>The Topics API has been designed with this feedback in mind. It aims to explore other ways to support interest-based advertising, with improved transparency, stronger privacy assurances and a different approach for sensitive categories.</p>
+
+<h2 id="next_steps" data-text="Next steps" tabindex="-1">Next steps</h2>
+
+<p>Learn more about <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/topic-classification">what topics are and how they work</a>.</p>
+
+<p>If you&#39;re an ad tech developer, <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics/topics-experiment">experiment and participate</a> with the Topics API. Read the <a href="/web/20240308000915/https://developers.google.com/privacy-sandbox/relevance/topics">developer guide</a> for more in-depth resources.</p>
+
+
+<h2 id="engage_and_share_feedback" data-text="Engage and share feedback" tabindex="-1">Engage and share feedback</h2>
+
+<ul>
+<li><strong>GitHub</strong>: Read the Topics API <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics">explainer</a>, and <a href="https://web.archive.org/web/20240308000915/https://github.com/jkarlin/topics/issues">raise questions and follow discussion in issues on the API repo</a>.</li>
+<li><strong>W3C</strong>: Discuss industry use cases in the <a href="https://web.archive.org/web/20240308000915/https://www.w3.org/community/web-adv/participants">Improving Web Advertising Business Group</a>.</li>
+<li><strong>Announcements</strong>: <a href="https://web.archive.org/web/20240308000915/http://groups.google.com/a/chromium.org/g/topics-api-announce">Join or view the mailing list</a>.</li>
+<li><strong>Privacy Sandbox developer support</strong>: Ask questions and join discussions on the <a href="https://web.archive.org/web/20240308000915/https://github.com/GoogleChromeLabs/privacy-sandbox-dev-support">Privacy Sandbox Developer Support repo</a>.</li>
+<li><strong>Chromium</strong>: <a href="https://web.archive.org/web/20240308000915/https://bugs.chromium.org/p/chromium/issues/list?q=topics">File a Chromium bug</a> to ask questions about the implementation currently available to test in Chrome.</li>
+</ul>
+  
+
+  
+</div>
+
+  
+
+  
+    
+      <devsite-recommendations display="in-page" hidden yield>
+      </devsite-recommendations>
+    
+    
+      
+    <devsite-thumb-rating position="footer">
+    </devsite-thumb-rating>
+  
+       
+    
+    
+      <devsite-recommendations id="recommendations-link" yield></devsite-recommendations>
+    
+  
+
+  
+  
+</article>
+
+
+<devsite-content-footer class="nocontent">
+  <p>Except as otherwise noted, the content of this page is licensed under the <a href="https://web.archive.org/web/20240308000915/https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a>, and code samples are licensed under the <a href="https://web.archive.org/web/20240308000915/https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0 License</a>. For details, see the <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/site-policies">Google Developers Site Policies</a>. Java is a registered trademark of Oracle and/or its affiliates.</p>
+  <p>Last updated 2022-01-25 UTC.</p>
+</devsite-content-footer>
+
+
+<devsite-notification>
+</devsite-notification>
+
+
+  
+<div class="devsite-content-data">
+  <template class="devsite-thumb-rating-down-categories">
+  [{
+      "type": "thumb-down",
+      "id": "missingTheInformationINeed",
+      "label":"Missing the information I need"
+    },{
+      "type": "thumb-down",
+      "id": "tooComplicatedTooManySteps",
+      "label":"Too complicated / too many steps"
+    },{
+      "type": "thumb-down",
+      "id": "outOfDate",
+      "label":"Out of date"
+    },{
+      "type": "thumb-down",
+      "id": "samplesCodeIssue",
+      "label":"Samples / code issue"
+    },{
+      "type": "thumb-down",
+      "id": "otherDown",
+      "label":"Other"
+    }]
+  </template>
+  <template class="devsite-thumb-rating-up-categories">
+  [{
+      "type": "thumb-up",
+      "id": "easyToUnderstand",
+      "label":"Easy to understand"
+    },{
+      "type": "thumb-up",
+      "id": "solvedMyProblem",
+      "label":"Solved my problem"
+    },{
+      "type": "thumb-up",
+      "id": "otherUp",
+      "label":"Other"
+    }]
+  </template>
+  
+</div>
+            
+          </devsite-content>
+        </main>
+        <devsite-footer-promos class="devsite-footer">
+          
+            
+          
+        </devsite-footer-promos>
+        <devsite-footer-linkboxes class="devsite-footer">
+          
+            
+<nav class="devsite-footer-linkboxes nocontent" aria-label="Footer links">
+  
+  <ul class="devsite-footer-linkboxes-list">
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Connect</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://googledevelopers.blogspot.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            Blog
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://web.archive.org/web/20240308000915/https://www.instagram.com/googlefordevs/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+          
+            Instagram
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://web.archive.org/web/20240308000915/https://www.linkedin.com/showcase/googledevelopers/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 3)">
+            
+          
+            LinkedIn
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://twitter.com/googledevs" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 4)">
+            
+          
+            Twitter
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://www.youtube.com/user/GoogleDevelopers" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 5)">
+            
+              
+              
+            
+          
+            YouTube
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Programs</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://www.womentechmakers.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            Women Techmakers
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/web/20240308000915/https://developers.google.com/community/gdg" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+          
+            Google Developer Groups
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/web/20240308000915/https://developers.google.com/community/experts" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 3)">
+            
+          
+            Google Developer Experts
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/web/20240308000915/https://developers.google.com/community/accelerators" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 4)">
+            
+          
+            Accelerators
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/web/20240308000915/https://developers.google.com/community/gdsc" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 5)">
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Developer consoles</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://console.developers.google.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            Google API Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://console.cloud.google.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+          
+            Google Cloud Platform Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://play.google.com/apps/publish" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 3)">
+            
+          
+            Google Play Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://console.firebase.google.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 4)">
+            
+          
+            Firebase Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://console.actions.google.com/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 5)">
+            
+          
+            Actions on Google Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://cast.google.com/publish" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 6)">
+            
+          
+            Cast SDK Developer Console
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="//web.archive.org/web/20240308000915/https://chrome.google.com/webstore/developer/dashboard" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 7)">
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+  </ul>
+  
+</nav>
+          
+        </devsite-footer-linkboxes>
+        <devsite-footer-utility class="devsite-footer">
+          
+            
+
+<div class="devsite-footer-utility nocontent">
+  
+  
+  <nav class="devsite-footer-sites" aria-label="Other Google Developers websites">
+    <a href="https://web.archive.org/web/20240308000915/https://developers.google.com/" class="devsite-footer-sites-logo-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Google Developers Link">
+      <picture>
+        <source srcset="https://web.archive.org/web/20240308000915im_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/lockup-google-for-developers-dark-theme.svg" media="(prefers-color-scheme: none)" class="devsite-dark-theme" loading="lazy" alt="Google Developers">
+        <img class="devsite-footer-sites-logo" src="https://web.archive.org/web/20240308000915im_/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/lockup-google-for-developers.svg" loading="lazy" alt="Google Developers">
+      </picture>
+    </a>
+    <ul class="devsite-footer-sites-list">
+      
+      <li class="devsite-footer-sites-item">
+        <a href="//web.archive.org/web/20240308000915/https://developer.android.com/" class="devsite-footer-sites-link
+                  gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Android Link">
+          Android
+        </a>
+      </li>
+      
+      <li class="devsite-footer-sites-item">
+        <a href="//web.archive.org/web/20240308000915/https://developer.chrome.com/home" class="devsite-footer-sites-link
+                  gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Chrome Link">
+          Chrome
+        </a>
+      </li>
+      
+      <li class="devsite-footer-sites-item">
+        <a href="//web.archive.org/web/20240308000915/https://firebase.google.com/" class="devsite-footer-sites-link
+                  gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Firebase Link">
+          Firebase
+        </a>
+      </li>
+      
+      <li class="devsite-footer-sites-item">
+        <a href="//web.archive.org/web/20240308000915/https://cloud.google.com/" class="devsite-footer-sites-link
+                  gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Google Cloud Platform Link">
+          Google Cloud Platform
+        </a>
+      </li>
+      
+      <li class="devsite-footer-sites-item">
+        <a href="/web/20240308000915/https://developers.google.com/products" class="devsite-footer-sites-link
+                  gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer All products Link">
+          All products
+        </a>
+      </li>
+      
+    </ul>
+  </nav>
+  
+
+  
+  <nav class="devsite-footer-utility-links" aria-label="Utility links">
+    
+    <ul class="devsite-footer-utility-list">
+      
+      <li class="devsite-footer-utility-item
+                 ">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="/web/20240308000915/https://developers.google.com/terms/site-terms" data-category="Site-Wide Custom Events" data-label="Footer Terms link">
+          Terms
+        </a>
+        
+      </li>
+      
+      <li class="devsite-footer-utility-item
+                 ">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="//web.archive.org/web/20240308000915/https://policies.google.com/privacy" data-category="Site-Wide Custom Events" data-label="Footer Privacy link">
+          Privacy
+        </a>
+        
+      </li>
+      
+      <li class="devsite-footer-utility-item
+                 glue-cookie-notification-bar-control">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="#" data-category="Site-Wide Custom Events" data-label="Footer Manage cookies link" aria-hidden="true">
+          Manage cookies
+        </a>
+        
+      </li>
+      
+      <li class="devsite-footer-utility-item
+                 devsite-footer-utility-button">
+        
+        <span class="devsite-footer-utility-description">Sign up for the Google for Developers newsletter</span>
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="/web/20240308000915/https://developers.google.com/newsletter/subscribe" data-category="Site-Wide Custom Events" data-label="Footer Subscribe link">
+          Subscribe
+        </a>
+        
+      </li>
+      
+    </ul>
+    
+    
+<devsite-language-selector>
+  <ul role="presentation">
+    
+    
+    <li role="presentation">
+      <a role="menuitem" lang="en">English</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="de">Deutsch</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="es">Español</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="es_419">Español – América Latina</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fr">Français</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="id">Indonesia</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="it">Italiano</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pl">Polski</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pt_br">Português – Brasil</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="vi">Tiếng Việt</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="tr">Türkçe</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ru">Русский</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="he">עברית</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ar">العربيّة</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fa">فارسی</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="hi">हिंदी</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="bn">বাংলা</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="th">ภาษาไทย</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh_cn">中文 – 简体</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh_tw">中文 – 繁體</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ja">日本語</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ko">한국어</a>
+    </li>
+    
+  </ul>
+</devsite-language-selector>
+
+  </nav>
+</div>
+          
+        </devsite-footer-utility>
+        <devsite-panel></devsite-panel>
+        
+      </section></section>
+    <devsite-sitemask></devsite-sitemask>
+    <devsite-snackbar>
+</devsite-snackbar>
+    <devsite-tooltip></devsite-tooltip>
+    <devsite-heading-link></devsite-heading-link>
+    <devsite-analytics analytics-iframe enable-cb>
+      
+        <script type="application/json" analytics>[{&#34;dimensions&#34;: {&#34;dimension1&#34;: &#34;Signed out&#34;, &#34;dimension6&#34;: &#34;en&#34;, &#34;dimension5&#34;: &#34;en&#34;, &#34;dimension4&#34;: &#34;Privacy Sandbox&#34;, &#34;dimension11&#34;: false, &#34;dimension3&#34;: false}, &#34;gaid&#34;: &#34;UA-24532603-1&#34;, &#34;metrics&#34;: {&#34;ratings_value&#34;: &#34;metric1&#34;, &#34;ratings_count&#34;: &#34;metric2&#34;}, &#34;purpose&#34;: 1}]</script>
+<script type="application/json" tag-management>{&#34;ga4&#34;: [{&#34;id&#34;: &#34;G-272J68FCRF&#34;, &#34;purpose&#34;: 1}, {&#34;id&#34;: &#34;G-JPRHSQDH0G&#34;, &#34;purpose&#34;: 0}], &#34;ga4p&#34;: [{&#34;id&#34;: &#34;G-272J68FCRF&#34;, &#34;purpose&#34;: 1}], &#34;gtm&#34;: [], &#34;parameters&#34;: {&#34;internalUser&#34;: &#34;False&#34;, &#34;language&#34;: {&#34;machineTranslated&#34;: &#34;False&#34;, &#34;requested&#34;: &#34;en&#34;, &#34;served&#34;: &#34;en&#34;}, &#34;pageType&#34;: &#34;article&#34;, &#34;projectName&#34;: &#34;Privacy Sandbox&#34;, &#34;signedIn&#34;: &#34;False&#34;, &#34;tenant&#34;: &#34;developers&#34;, &#34;recommendations&#34;: {&#34;sourcePage&#34;: &#34;&#34;, &#34;sourceType&#34;: 0, &#34;sourceRank&#34;: 0, &#34;sourceIdenticalDescriptions&#34;: 0, &#34;sourceTitleWords&#34;: 0, &#34;sourceDescriptionWords&#34;: 0, &#34;experiment&#34;: &#34;&#34;}, &#34;experiment&#34;: {&#34;ids&#34;: &#34;&#34;}}}</script>
+      
+    </devsite-analytics>
+    
+      <devsite-badger></devsite-badger>
+    
+    
+    <script nonce="pSJpXaWjNEKDv7Z2K4yodpMENJO4+l">
+  
+  (function(d,e,v,s,i,t,E){d['GoogleDevelopersObject']=i;
+    t=e.createElement(v);t.async=1;t.src=s;E=e.getElementsByTagName(v)[0];
+    E.parentNode.insertBefore(t,E);})(window, document, 'script',
+    'https://web.archive.org/web/20240308000915/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/js/app_loader.js', '[1,"en",null,"/js/devsite_app_module.js","https://web.archive.org/web/20240308000915/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621","https://web.archive.org/web/20240308000915/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers","https://web.archive.org/web/20240308000915/https://developers-dot-devsite-v2-prod.appspot.com",1,null,["/_pwa/developers/manifest.json","https://web.archive.org/web/20240308000915/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/images/video-placeholder.svg","https://web.archive.org/web/20240308000915/https://www.gstatic.com/devrel-devsite/prod/vb52450d47245da6b74a34e28037176eedb8eee8fd828d0a64e6ed6ea66268621/developers/images/favicon-new.png","https://web.archive.org/web/20240308000915/https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:400,400italic,500,500italic,700,700italic|Roboto+Mono:400,500,700&display=swap"],1,null,[1,6,8,12,14,17,21,25,50,52,63,70,75,76,80,87,91,92,93,97,98,100,101,102,103,104,105,107,108,109,110,112,113,116,117,118,120,122,124,125,126,127,129,130,131,132,133,134,135,136,138,140,141,147,148,149,151,152,156,157,158,159,161,163,164,168,169,170,179,180,182,183,186,190,191,193,196],"AIzaSyAP-jjEJBzmIyKR4F-3XITp8yM9T1gEEI8","AIzaSyB6xiKGDR5O3Ak2okS4rLkauxGUG7XP0hg","developers.google.com","AIzaSyAQk0fBONSGUqCNznf6Krs82Ap1-NV6J4o","AIzaSyCCxcqdrZ_7QMeLCRY20bh_SXdAYqy70KY",null,null,null,["Search__enable_faceted_search","MiscFeatureFlags__enable_project_variables","Cloud__enable_cloud_facet_chat","MiscFeatureFlags__enable_explain_this_code","MiscFeatureFlags__enable_keyword_inheritance","Significatio__enable_by_tenant","MiscFeatureFlags__enable_firebase_utm","Cloud__enable_cloudx_experiment_ids","Search__enable_dynamic_content_confidential_banner","MiscFeatureFlags__developers_footer_dark_image","Profiles__enable_page_saving","Analytics__enable_cookie_bar","Profiles__enable_public_developer_profiles","Profiles__enable_profile_collections","Cloud__enable_free_trial_server_call","Profiles__enable_developer_profiles_callout","Profiles__enable_release_notes_notifications","Profiles__enable_profile_communities","Experiments__reqs_query_experiments","Concierge__enable_pushui","Search__enable_page_map","Cloud__enable_cloudx_ping","Search__enable_suggestions_from_borg","Cloud__enable_cloud_shell","Concierge__enable_concierge","MiscFeatureFlags__enable_variable_operator","Profiles__enable_profile_notifications_ui","Profiles__require_profile_eligibility_for_signin","Profiles__enable_awarding_url","Cloud__enable_cloud_shell_fte_user_flow","OpenInReplit__enable_replit","MiscFeatureFlags__developers_footer_image","TpcFeatures__enable_mirror_tenant_redirects","Cloud__enable_cloud_dlp_service","BookNav__enable_tenant_cache_key"],null,null,"AIzaSyBLEMok-5suZ67qRPzx0qUtbnLmyT_kCVE","https://web.archive.org/web/20240308000915/https://developerscontentserving-pa.clients6.google.com","AIzaSyCM4QpTRSqP5qI4Dvjt4OAScIN8sOUlO-k","https://web.archive.org/web/20240308000915/https://developerscontentsearch-pa.clients6.google.com",1,4]')
+  
+</script>
+    <devsite-a11y-announce></devsite-a11y-announce>
+  </body>
+</html><!--
+     FILE ARCHIVED ON 00:09:15 Mar 08, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:09:19 Mar 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.123
+  exclusion.robots.policy: 0.107
+  cdx.remote: 0.148
+  esindex: 0.016
+  LoadShardBlock: 398.742 (6)
+  PetaboxLoader3.datanode: 341.618 (6)
+  load_resource: 5.427
+-->

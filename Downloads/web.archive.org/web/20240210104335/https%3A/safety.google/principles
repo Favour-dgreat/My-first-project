@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+
+<html lang="en" scs-locale="en_us" kcs-locale="en_us" path="/principles/">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://safety.google/principles/","20240213064510","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1707806710");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>Privacy Principles - Google Safety Center</title>
+    <meta name="referrer" content="no-referrer"/>
+    <meta name="description" content="As technology progresses and needs evolve, Google builds privacy focused on keeping users’ data private, safe, and secure when they're online."/>
+    <meta property="og:description" content="As technology progresses and needs evolve, Google builds privacy focused on keeping users’ data private, safe, and secure when they're online.">
+    <meta property="og:title" content="Privacy Principles - Google Safety Center">
+    <meta property="og:image" content="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/4X3DP96c9CSkuiO40kuKXFc0U2iM2SNoLx9rdl9xkG9Biurj16Z0237Ju9VBA13sdSPlk5imLWewDGCRRfpJzF5D81_YfFeofuxcQ-jt0CmbCKjwDQ=w1200-l80-sg-rj">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://web.archive.org/web/20240213064510/https://safety.google/principles/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@google">
+    <meta name="twitter:title" content="Privacy Principles - Google Safety Center">
+    <meta name="twitter:description" content="As technology progresses and needs evolve, Google builds privacy focused on keeping users’ data private, safe, and secure when they're online.">
+    <meta name="twitter:image" content="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/4X3DP96c9CSkuiO40kuKXFc0U2iM2SNoLx9rdl9xkG9Biurj16Z0237Ju9VBA13sdSPlk5imLWewDGCRRfpJzF5D81_YfFeofuxcQ-jt0CmbCKjwDQ=w1200-l80-sg-rj">
+    <script nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'experiments': '',
+        'originalLocation': window.location.href,
+        'pagePath': window.location.pathname,
+      });
+
+      function glueCookieNotificationBarLoaded() {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js',locale_fallback:(document.childNodes[1].attributes['scs-locale'] || {}).value});
+        var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://web.archive.org/web/20240213064510/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KQZFTC9')
+      }
+    </script>
+
+
+<link rel="canonical" href="https://web.archive.org/web/20240213064510/https://safety.google/principles/">    <link rel="preconnect" href="https://web.archive.org/web/20240213064510/https://www.gstatic.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20240213064510/https://csp.withgoogle.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20240213064510/https://www.googletagmanager.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20240213064510/https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20240213064510/https://fonts.gstatic.com/" crossorigin>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://web.archive.org/web/20240213064510im_/https://www.gstatic.com/images/branding/googleg/2x/googleg_standard_color_192dp.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://web.archive.org/web/20240213064510im_/https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://web.archive.org/web/20240213064510im_/https://www.gstatic.com/images/branding/product/ico/googleg_standard_16dp.ico">
+    <link rel="shortcut icon" href="https://web.archive.org/web/20240213064510im_/https://www.gstatic.com/images/branding/product/ico/googleg_alldp.ico">
+    <link rel="stylesheet" href="//web.archive.org/web/20240213064510cs_/https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Google+Sans:400,500|Product+Sans:400&amp;lang=en&amp;display=swap" nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+    <link href="https://web.archive.org/web/20240213064510cs_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" rel="stylesheet" nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+    <link href="/web/20240213064510cs_/https://safety.google/static-2020/css/index.min.css?cache=1ec273c" rel="stylesheet" nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+    <script src="/web/20240213064510js_/https://safety.google/static-2020/js/detect.min.js?cache=722d5cb" nonce="2rHMvrbUgWnGjZeuZ0vrhA"></script>
+<script type="application/ld+json" nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+  {"@context":"https://web.archive.org/web/20240213064510/https://schema.org",
+"@type":"Organization",
+"logo":"https://web.archive.org/web/20240213064510/https://lh3.googleusercontent.com/4X3DP96c9CSkuiO40kuKXFc0U2iM2SNoLx9rdl9xkG9Biurj16Z0237Ju9VBA13sdSPlk5imLWewDGCRRfpJzF5D81_YfFeofuxcQ-jt0CmbCKjwDQ",
+"url":"https://web.archive.org/web/20240213064510/https://safety.google/principles/"}
+</script>
+
+
+
+  </head>
+
+  <body class="glue-body">
+    <noscript><iframe src="https://web.archive.org/web/20240213064510if_/https://www.googletagmanager.com/ns.html?id=GTM-KQZFTC9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header class="glue-header glue-header--single
+    glue-header-options='{" drawer": "true", "stepped_nav": "true"}'>
+  <div id="glue-drawer" class="glue-header__bar glue-header__bar--mobile header">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__hamburger glue-header__hamburger--first-tier">
+            <div class="glue-header__hamburger-wrapper">
+              <button type="button" class="glue-header__drawer-toggle-btn" aria-controls="glue-drawer" aria-expanded="false" aria-label="Open the navigation drawer">
+                <svg alt="" role="img" class="glue-icon glue-icon--24px">
+                  <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#menu"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="/web/20240213064510/https://safety.google/" title="Google">
+              <div class="glue-header__logo-container">
+                <svg alt="" role="img" aria-hidden="true" class="glue-header__logo-svg">
+                  <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-color-logo"></use>
+                </svg>
+              </div>
+              <p class="glue-header__logo--product">Safety Center</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="glue-header__bar glue-header__bar--desktop glue-header__drawer" role="dialog" tabindex="0">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="/web/20240213064510/https://safety.google/" title="Google" data-id-element="5210158144946176.a.1">
+              <div class="glue-header__logo-container">
+                <svg alt="" role="img" aria-hidden="true" class="glue-header__logo-svg">
+                  <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-color-logo"></use>
+                </svg>
+              </div>
+              <p class="glue-header__logo--product">Safety Center</p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="glue-header__container glue-header__container--flex-auto">
+        <nav class="glue-header__link-bar">
+          <ul id="list-1" class="glue-header__list glue-header__link-bar--arrow">
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/" aria-label="" data-id-element="5210158144946176.a.2.1">Overview</a>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/products/" aria-label="" data-id-element="5210158144946176.a.2.2">In our products</a>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/security-privacy/" aria-label="" data-id-element="5210158144946176.a.2.3">Security and privacy</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/security/built-in-protection/" aria-label="Built-in security" data-id-element="5210158144946176.a.3.1">Built-in security</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/privacy/privacy-controls/" aria-label="Privacy controls" data-id-element="5210158144946176.a.3.2">Privacy controls</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/privacy/data/" aria-label="Data practices" data-id-element="5210158144946176.a.3.3">Data practices</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/security/security-tips/" aria-label="Security tips" data-id-element="5210158144946176.a.3.4">Security tips</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/privacy/ads-and-data/" aria-label="Ads and data" data-id-element="5210158144946176.a.3.5">Ads and data</a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/content-safety/" aria-label="" data-id-element="5210158144946176.a.2.4">Content safety</a>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/families/" aria-label="" data-id-element="5210158144946176.a.2.5">Family safety</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/families/parental-supervision/" aria-label="Parental controls" data-id-element="5210158144946176.a.3.1">Parental controls</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/families/family-friendly-experiences/" aria-label="Family-friendly experiences" data-id-element="5210158144946176.a.3.2">Family-friendly experiences</a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/" aria-label="" data-id-element="5210158144946176.a.2.6">Cybersecurity</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/infrastructure/" aria-label="Protecting Critical Infrastructure" data-id-element="5210158144946176.a.3.1">Protecting Critical Infrastructure</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/cyberworkforce/" aria-label="Workforce skilling" data-id-element="5210158144946176.a.3.2">Workforce skilling</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/saif/" aria-label="Secure AI Framework" data-id-element="5210158144946176.a.3.3">Secure AI Framework</a>
+                      </li>
+                  </ul>
+              </li>
+          </ul>
+        </nav>
+      </div>
+      <div class="glue-header__container glue-header__container--cta">
+        <div class="glue-header__cta">
+            <a href="https://web.archive.org/web/20240213064510/https://myaccount.google.com/" class="glue-button glue-button--medium-emphasis google-account-button" tabindex="0" data-id-element="5210158144946176.a.4">
+              Google Account
+            </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="glue-header__drawer-backdrop"></div>
+</header>    <main>
+  
+  
+  <div class="modular-page">
+  
+  
+<section class="butter-bar hp-promo" aria-hidden="false" data-id-element="/principles/.content-safety-butterbar">
+  <a class="butter-bar--link" href="https://web.archive.org/web/20240213064510/https://blog.google/outreach-initiatives/google-org/google-digital-wellbeing-grant-teens-kids/" data-id-element="/principles/.6018916972888064.a">
+    <div class="butter-bar--headline glue-headline--headline-6">
+      <p>Safer Internet Day is February 6th! <u>Explore how we’re keeping kids and teens safer online</u></p>
+    </div>
+  </a>
+  <svg alt="" class="close" role="button" aria-label="" tabindex="0">
+    <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#close"></use>
+  </svg>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+  
+
+<div class="glue-page image-module fade-in fade-in-init _image-module-shields">
+  <div class="glue-grid">
+    <div aria-hidden="true" class="desktop-view  glue-grid__col glue-grid__col--span-12 image-module-container image-module-container-center">
+            <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/qPh8dJVBY7E3frPraBouK3fMr_-kX6qPHj9xZObt5tHKGaU9JPpsRHnpXurEnK3IUjloI0rr6LbyBfMCiBYHb-7G6pO8QjxOKrpWO1iXnsi9Nu033g=w96-e30, https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/qPh8dJVBY7E3frPraBouK3fMr_-kX6qPHj9xZObt5tHKGaU9JPpsRHnpXurEnK3IUjloI0rr6LbyBfMCiBYHb-7G6pO8QjxOKrpWO1iXnsi9Nu033g=w192-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/qPh8dJVBY7E3frPraBouK3fMr_-kX6qPHj9xZObt5tHKGaU9JPpsRHnpXurEnK3IUjloI0rr6LbyBfMCiBYHb-7G6pO8QjxOKrpWO1iXnsi9Nu033g=w96-e30" class="" loading="lazy" alt="Blue safety shield with pointed tip and Google's capital G logo in the middle">
+  </picture>
+
+    </div>
+    <div aria-hidden="true" class="mobile-view  glue-grid__col glue-grid__col--span-12 image-module-container image-module-container-center">
+            <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/L83LZOcMca45LSSc3yFtN7LWpvT-mxn6J2RKhbTKoHLNuKwPRC1x0NdbxiqwiR4MBp9hE1ZIgBP6DZm16gtdGKZpu7OVJ8DC65UtKm62Eovro7zC=w64-e30, https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/L83LZOcMca45LSSc3yFtN7LWpvT-mxn6J2RKhbTKoHLNuKwPRC1x0NdbxiqwiR4MBp9hE1ZIgBP6DZm16gtdGKZpu7OVJ8DC65UtKm62Eovro7zC=w128-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/L83LZOcMca45LSSc3yFtN7LWpvT-mxn6J2RKhbTKoHLNuKwPRC1x0NdbxiqwiR4MBp9hE1ZIgBP6DZm16gtdGKZpu7OVJ8DC65UtKm62Eovro7zC=w64-e30" class="" loading="lazy" alt="Blue safety shield with pointed tip and Google's capital G logo in the middle">
+  </picture>
+
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm4"></div>  
+  
+<div class="glue-grid glue-page">
+  <div class="grid-item glue-grid__col glue-grid__col--span-3 glue-grid__col--span-2-md"></div>
+  <div class="grid-item glue-grid__col glue-grid__col--span-6 glue-grid__col--span-8-md">
+    <section class="section-hero glue-rel fade-in fade-in-init _-privacy-principles-section-hero">
+      <span id="privacy-principles-section-hero" class="anchor"></span>
+      <div class="text-color-blue glue-mod-text-center mobile-alignment-center
+          glue-headline glue-headline--headline-4 font-weight-500 hero-text orphan-joiner" aria-label="Our privacy principles" role="heading" aria-level="4">Our privacy principles</div>
+    </section>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm1"></div>  
+  
+<section class="glue-page main-hero fade-in fade-in-init">
+  <div class="glue-grid">
+    <div class="grid-item glue-grid__col glue-grid__col--span-2"></div>
+    <div class="grid-item glue-grid__col glue-grid__col--span-8">
+      <h1 class="glue-mod-text-center glue-headline glue-headline--headline-1 hero-text orphan-joiner" aria-label="Building products that are private by design for everyone.">Building products that are <span>private by design for everyone.</span></h1>
+    </div>
+  </div>
+    <div class="glue-grid glue-mod-spacer-3-top">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md glue-grid__col--span-3-lg"></div>
+      <div class="subcopy glue-headline glue-grid__col--span-4-sm glue-headline--headline-5 glue-mod-text-center
+          glue-grid__col glue-grid__col--span-8-md glue-grid__col--span-6-lg orphan-joiner">
+        <p>We build products that are private by design and work for everyone. This means being thoughtful about the data we use, how we use it, and how we protect it.</p>
+<p>These principles guide our products, our processes, and our people in keeping data private, safe and put you in control of your information.</p>
+      </div>
+    </div>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">1.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We never sell  your personal information to anyone."><span>We never sell </span> your personal information to anyone.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>We use data to make Google products helpful in moments that matter. Like helping you find a nearby restaurant or a more fuel-efficient route home.</p>
+<p>We also use data to serve more relevant ads. While these ads make it possible for us to offer products free of cost for everyone, it's important to clarify that we never sell your personal information to anyone, including for ads purposes. It’s simply off limits.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">2.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We are transparent  about what data we collect and why."><span>We are transparent </span> about what data we collect and why.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>We want you to know what data we collect, how we use it, and why. Transparency is important, so we make this information easy to find and understand. This way, you can make informed decisions about how you use Google products.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">3.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We make it easy  for you to control your personal information."><span>We make it easy </span> for you to control your personal information.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>This means you can easily choose the privacy settings that are right for you and can control the personal information you have shared with Google whenever you want - including reviewing your data, downloading and moving it to another service if you wish, or deleting it entirely.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">4.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We reduce the data we use  to further protect your privacy."><span>We reduce the data we use </span> to further protect your privacy.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>We never use content you create and store in apps like Drive, Gmail, and Photos for advertising purposes, and we never use sensitive information like health, race, religion, or sexual orientation to tailor ads to you.</p>
+<p>We also made auto-delete controls the default when you sign up for a Google account, so that we regularly delete your online activity data tied to your Google account, like things you've searched for and watched.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">5.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We protect you by building products that are secure by default."><span>We protect you</span> by building products that are secure by default.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>When you use our products, you trust us with your information and it’s our job to do right by you. That's why we use one of the most advanced security infrastructures in the world to protect your data.</p>
+<p>Our products are designed to be secure by default  and we constantly strengthen our security measures to detect and protect against evolving online threats, like bad actors trying to steal your personal information, before they ever get to you.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+<div class="full-cards fade-in fade-in-init">
+  <div class="glue-page glue-mod-elevation-1 glue-grid card-container">
+    <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-5 left-container">
+      <div class="data">
+        <div class="number glue-headline glue-headline--headline-3">6.</div>
+        <h3 class="glue-headline glue-headline--headline-3" aria-label="We build advanced privacy technologies and share them with others."><span>We build advanced privacy technologies</span> and share them with others.</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-5">
+      <p>Keeping the internet open, private and safe is at the core of everything we do. Your online safety shouldn’t stop with Google – it should extend to the whole internet. That’s why we continue to innovate privacy technologies and make them widely available. We share our learnings, experiences, and tools with partners, organizations, and competitors, because keeping the internet safe requires everyone to work together.</p>
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm8"></div>  
+  
+<section class="card-galleries cards-5">
+    <picture class="logo glue-mod-spacer-2-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/1Fpe0WW5_DNZYdkN_F0rq9eXdmxOc7Y4UrRpUkU6e0wJTenOyFX53BJ-7TYVVuVRHm_2BAYFR33LyB8bgQ9KLlKRk0ofiDOoN-RN-YONUkD38nX7CnQ=w182-l90-sg-c0xffffff-e30, https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/1Fpe0WW5_DNZYdkN_F0rq9eXdmxOc7Y4UrRpUkU6e0wJTenOyFX53BJ-7TYVVuVRHm_2BAYFR33LyB8bgQ9KLlKRk0ofiDOoN-RN-YONUkD38nX7CnQ=w364-l90-sg-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20240213064510im_/https://lh3.googleusercontent.com/1Fpe0WW5_DNZYdkN_F0rq9eXdmxOc7Y4UrRpUkU6e0wJTenOyFX53BJ-7TYVVuVRHm_2BAYFR33LyB8bgQ9KLlKRk0ofiDOoN-RN-YONUkD38nX7CnQ=w182-l90-sg-c0xffffff-e30" class="" loading="lazy" alt="Blue safety shield with pointed tip and Google's capital G logo in the middle.">
+  </picture>
+
+  <div class="glue-mod-text-center glue-headline glue-headline--headline-3 main-title" aria-label="Explore how Google helps keep everyone safe online.">Explore how Google helps<br/> keep everyone safe online.</div>
+  <div class="desktop glue-mod-spacer-5-top glue-mod-spacer-8-bottom">
+      <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/products/" data-id-element="/principles/.5939599591473152.a.1.1">
+        <div class="title glue-mod-spacer-1-bottom">In our products</div>
+        <div class="description">Learn how your safety is protected in all of Google’s products.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/security-privacy/" data-id-element="/principles/.5939599591473152.a.1.2">
+        <div class="title glue-mod-spacer-1-bottom">Security and privacy</div>
+        <div class="description">Learn how Google protects your private information and puts you in control.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/content-safety/" data-id-element="/principles/.5939599591473152.a.1.3">
+        <div class="title glue-mod-spacer-1-bottom">Content safety</div>
+        <div class="description">Learn how we’re delivering trustworthy information to create a safer internet for all.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/families/" data-id-element="/principles/.5939599591473152.a.1.4">
+        <div class="title glue-mod-spacer-1-bottom">Family safety</div>
+        <div class="description">Learn how Google helps you manage what&#39;s right for your family online.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/" data-id-element="/principles/.5939599591473152.a.1.5">
+        <div class="title glue-mod-spacer-1-bottom">Cybersecurity</div>
+        <div class="description">Learn how we keep more people safe online than anyone else in the world.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+  </div>
+  <div class="mobile glue-mod-spacer-6-bottom glue-mod-spacer-6-top">
+<div class="glue-carousel safety-carousel until-load" data-glue-pagination="section-gallery-pagination" cyclical="False" center="False" center-group="True" item-count="5" start-on-item="0" group="False">
+    <div class="glue-carousel__wrap">
+      <ul class="glue-carousel__list  full-item ">
+                <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/products/" data-id-element="/principles/.5939599591473152.a.2.1">
+            <div class="title glue-mod-spacer-1-bottom">In our products</div>
+            <div class="description">Learn how your safety is protected in all of Google’s products.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/security-privacy/" data-id-element="/principles/.5939599591473152.a.2.2">
+            <div class="title glue-mod-spacer-1-bottom">Security and privacy</div>
+            <div class="description">Learn how Google protects your private information and puts you in control.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/content-safety/" data-id-element="/principles/.5939599591473152.a.2.3">
+            <div class="title glue-mod-spacer-1-bottom">Content safety</div>
+            <div class="description">Learn how we’re delivering trustworthy information to create a safer internet for all.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/families/" data-id-element="/principles/.5939599591473152.a.2.4">
+            <div class="title glue-mod-spacer-1-bottom">Family safety</div>
+            <div class="description">Learn how Google helps you manage what&#39;s right for your family online.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20240213064510/https://safety.google/cybersecurity-advancements/" data-id-element="/principles/.5939599591473152.a.2.5">
+            <div class="title glue-mod-spacer-1-bottom">Cybersecurity</div>
+            <div class="description">Learn how we keep more people safe online than anyone else in the world.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="pagination-container">
+      <div class="glue-carousel__paginate glue-pagination-previous">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-previous data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" data-glue-pagination-label="Previous" title="Previous">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+          </div>
+        </button>
+      </div>
+
+      <div class="glue-carousel__paginate glue-pagination-next">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-next data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" data-glue-pagination-label="Next" title="Next">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--right">
+                </div>
+          </div>
+        </button>
+      </div>
+    </div>
+      <div class="glue-carousel__navigation">
+        <ul class="glue-pagination-page-list" data-glue-pagination-page-list data-glue-pagination="section-gallery-pagination" role="tablist">
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container" role="tab">
+              <button class="glue-pagination__button
+                      glue-pagination__page-list-button" data-glue-pagination-page="1" role="tab">
+                0
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container" role="tab">
+              <button class="glue-pagination__button
+                      glue-pagination__page-list-button" data-glue-pagination-page="2" role="tab">
+                1
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container" role="tab">
+              <button class="glue-pagination__button
+                      glue-pagination__page-list-button" data-glue-pagination-page="3" role="tab">
+                2
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container" role="tab">
+              <button class="glue-pagination__button
+                      glue-pagination__page-list-button" data-glue-pagination-page="4" role="tab">
+                3
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container" role="tab">
+              <button class="glue-pagination__button
+                      glue-pagination__page-list-button" data-glue-pagination-page="5" role="tab">
+                4
+              </button>
+            </li>
+        </ul>
+      </div>
+  </div>  </div>
+</section>  </div>
+    </main>
+
+<footer class="glue-footer">
+  <section class="glue-footer__global">
+      <div class="yt-container extended-width">
+        <h6 class="glue-headline glue-headline--headline-6">
+          Follow us
+        </h6>
+        <a href="https://web.archive.org/web/20240213064510/https://www.youtube.com/channel/UCsB_OLJA28Nc-47BihG2_Ww" aria-label="Youtube" class="yt-link" data-id-element="5588789090320384.a.1">
+          <svg alt="" role="img" class="glue-icon glue-icon--32px" aria-hidden="true">
+            <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#video-youtube"></use>
+          </svg>
+        </a>
+      </div>
+    <div class="glue-footer__logo">
+      <a href="https://web.archive.org/web/20240213064510/https://www.google.com/" title="Google" class="" data-id-element="5588789090320384.a.2">
+        <svg alt="" role="img" aria-hidden="true" class="glue-footer__logo-img">
+          <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-solid-logo"></use>
+        </svg>
+      </a>
+    </div>
+    <ul class="glue-footer__global-links glue-no-bullet">
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://about.google/" data-id-element="5588789090320384.a.3.1">
+            About Google
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://about.google/products/" data-id-element="5588789090320384.a.3.2">
+            Google products
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://policies.google.com/privacy" data-id-element="5588789090320384.a.3.3">
+            Privacy Policy
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://policies.google.com/terms" data-id-element="5588789090320384.a.3.4">
+            Terms
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="/web/20240213064510/https://safety.google/partners/" data-id-element="5588789090320384.a.3.5">
+            Partners
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://transparency.google/" data-id-element="5588789090320384.a.3.6">
+            Transparency Center
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://families.google/" data-id-element="5588789090320384.a.3.7">
+            Families
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="/web/20240213064510/https://safety.google/principles/" data-id-element="5588789090320384.a.3.8">
+            Principles
+          </a>
+        </li>
+    </ul>
+    <ul class="glue-footer__global-links glue-no-bullet extended-width" role="list">
+      <li class="glue-footer__global-links-list-item
+          glue-footer__global-links-list-item--extra">
+        <a class="glue-footer__link" href="https://web.archive.org/web/20240213064510/https://support.google.com/" aria-label="Help" data-id-element="5588789090320384.a.4">
+          <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--24px
+              glue-icon--footer-help">
+            <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#help"></use>
+          </svg>
+          Help
+        </a>
+      </li>
+        <li class="glue-footer__global-links-list-item">
+<div class="language-selector">
+  <svg alt="" role="img" class="glue-icon glue-icon--24px">
+    <use xlink:href="/web/20240213064510im_/https://safety.google/static-2020/img/icons.svg?cache=25ae4b1#world"></use>
+  </svg>
+        <a class="language-selector--lang" href="/web/20240213064510/https://safety.google/intl/es_us/principles/">Español</a>
+</div>        </li>
+      <li aria-hidden="true" class="glue-footer__global-links-list-item">
+        <button aria-hidden="true" class="glue-footer__link glue-cookie-notification-bar-control">
+          Cookies management controlss
+        </button>
+      </li>
+    </ul>
+  </section>
+</footer>
+
+    <script src="//web.archive.org/web/20240213064510js_/https://www.gstatic.com/external_hosted/intersectionobserver_polyfill/intersection-observer.min.js" nonce="2rHMvrbUgWnGjZeuZ0vrhA"></script>
+    <script src="https://web.archive.org/web/20240213064510js_/https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js" nonce="2rHMvrbUgWnGjZeuZ0vrhA"></script>
+    <script src="//web.archive.org/web/20240213064510js_/https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" nonce="2rHMvrbUgWnGjZeuZ0vrhA"></script>
+
+    <script src="https://web.archive.org/web/20240213064510js_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js" data-glue-cookie-notification-bar-category="2A" data-glue-cookie-notification-bar-site-id="safety.google/" nonce="2rHMvrbUgWnGjZeuZ0vrhA">
+    </script>
+
+    <script src="/web/20240213064510js_/https://safety.google/static-2020/js/index.min.js?cache=4f082e2" nonce="2rHMvrbUgWnGjZeuZ0vrhA"></script>
+  </body>
+</html><!--
+     FILE ARCHIVED ON 06:45:10 Feb 13, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:06:17 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.133
+  exclusion.robots.policy: 0.119
+  cdx.remote: 0.118
+  esindex: 0.016
+  LoadShardBlock: 202.5 (6)
+  PetaboxLoader3.datanode: 112.27 (7)
+  load_resource: 129.603
+  PetaboxLoader3.resolve: 93.288
+-->

@@ -1,0 +1,83 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesansdisplay/v21/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79pA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUo9-KzpRiLCAt4Unrc-xIKmCU5qE9GiU9D.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: italic;
+  font-weight: 500;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUr9-KzpRiLCAt4Unrc-xIKmCU5qE9OemxTtDO6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUr9-KzpRiLCAt4Unrc-xIKmCU5qE9OMmpTtDO6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2jg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjsw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Google Sans Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/googlesanstext/v21/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmhjsw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20231225224811im_/https://fonts.gstatic.com/s/productsans/v19/pxiDypQkot1TnFhsFMOfGShVF9eL.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 22:48:11 Dec 25, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:06:44 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.147
+  exclusion.robots.policy: 0.13
+  cdx.remote: 0.165
+  esindex: 0.014
+  LoadShardBlock: 306.108 (6)
+  PetaboxLoader3.datanode: 144.102 (8)
+  load_resource: 250.497 (2)
+  PetaboxLoader3.resolve: 166.351 (2)
+*/

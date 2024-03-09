@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+
+
+<html lang="fi" scs-locale="fi_ALL" path="/">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://transparency.google/?hl=fi","20231206165039","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1701881439");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>Transparency Center – Googlen tuotekäytännöt ja toimintalinjat</title>
+    <meta name="referrer" content="no-referrer"/>
+    <meta name="description" content="Tutustu Transparency Center -keskukseen, jos haluat lisätietoa Googlen tuotteiden ja palvelujen käytännöistä, niihin sisältyvistä osa-alueista sekä niiden kehityksestä ja valvonnasta."/>
+    <meta property="og:description" content="Tutustu Transparency Center -keskukseen, jos haluat lisätietoa Googlen tuotteiden ja palvelujen käytännöistä, niihin sisältyvistä osa-alueista sekä niiden kehityksestä ja valvonnasta.">
+    <meta property="og:title" content="Transparency Center – Googlen tuotekäytännöt ja toimintalinjat">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://web.archive.org/web/20231206165039/https://transparency.google/intl/fi_ALL/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@google">
+    <meta name="twitter:title" content="Transparency Center – Googlen tuotekäytännöt ja toimintalinjat">
+    <meta name="twitter:description" content="Tutustu Transparency Center -keskukseen, jos haluat lisätietoa Googlen tuotteiden ja palvelujen käytännöistä, niihin sisältyvistä osa-alueista sekä niiden kehityksestä ja valvonnasta.">
+    <meta property="google:search-sre-monitor" content="fi_ALL">
+    <meta name="robots" content="max-image-preview:large">
+    <!-- Google Tag Manager -->
+    <script nonce="6_phk3Rcqr8EdpxLeTdZuw">
+     window.dataLayer = window.dataLayer || [];
+       const perf = () => {
+        const duration = performance.getEntriesByType("navigation")[0].duration;
+        if (!duration) setTimeout(perf, 0);
+        else {
+          window.dataLayer.push({
+            'event': 'page_load_time',
+            'page_load_time': duration / 1000,
+            'pagePath': window.location.pathname
+          });
+        };
+      }
+      window.addEventListener('DOMContentLoaded', perf);
+
+    function glueCookieNotificationBarLoaded() {
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js',locale_fallback:(document.childNodes[1].attributes['scs-locale'] || {}).value});
+      var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://web.archive.org/web/20231206165039/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P7V9NXX');
+    }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="preconnect" href="https://web.archive.org/web/20231206165039/https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20231206165039/https://fonts.gstatic.com/" crossorigin>
+    <link rel="stylesheet" href="//web.archive.org/web/20231206165039cs_/https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500|Google+Sans+Display:400,500|Product+Sans:400;lang=en&amp;display=swap" nonce="6_phk3Rcqr8EdpxLeTdZuw">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://web.archive.org/web/20231206165039im_/https://www.gstatic.com/images/branding/googleg/2x/googleg_standard_color_192dp.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://web.archive.org/web/20231206165039im_/https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://web.archive.org/web/20231206165039im_/https://www.gstatic.com/images/branding/product/ico/googleg_standard_16dp.ico">
+    <link rel="shortcut icon" href="https://web.archive.org/web/20231206165039im_/https://www.gstatic.com/images/branding/product/ico/googleg_alldp.ico">
+    <link href="/web/20231206165039cs_/https://transparency.google/static/index.min.css?cache=5d92df5" rel="stylesheet" nonce="6_phk3Rcqr8EdpxLeTdZuw">
+    <link href="https://web.archive.org/web/20231206165039cs_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" rel="stylesheet" nonce="6_phk3Rcqr8EdpxLeTdZuw">
+    <link rel="canonical" href="https://web.archive.org/web/20231206165039/https://transparency.google/intl/fi/">
+
+  </head>
+
+  <body class="glue-body">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://web.archive.org/web/20231206165039if_/https://www.googletagmanager.com/ns.html?id=GTM-P7V9NXX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+<header class="glue-header glue-header--single aria-expanded=" false" data-module_id="nav" data-module_name="glue-header">
+  <a href="#content" class="glue-header__link glue-header__skip-content">
+    Siirry sisältöön
+  </a>
+  <div class="glue-header__bar glue-header__bar--mobile glue-header--rewind-box-shadow">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__hamburger">
+            <button class="glue-header__drawer-toggle-btn" aria-label="Valikko" aria-controls="glue-drawer-1dbbf46" aria-expanded="false" aria-haspopup="true">
+              <svg class="glue-icon glue-icon--24px" role="presentation" aria-hidden="true">
+                <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#menu"></use>
+              </svg>
+            </button>
+          </div>
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="./" title="Google" data-click_name="Transparency Center">
+              <div class="glue-header__logo-container">
+                <svg class="glue-header__logo-svg" role="presentation" aria-hidden="true">
+                  <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#google-color-logo">
+                  </use>
+                </svg>
+              </div>
+              <span class="glue-header__logo--product">
+                Transparency Center
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="glue-header__bar glue-header__bar--desktop glue-header__drawer" id="glue-drawer-1dbbf46" style="touch-action: pan-y; user-select: none;
+-webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); position: static; top: -64px;">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="./" title="Google" data-click_name="Transparency Center">
+              <div class="glue-header__logo-container">
+                <svg class="glue-header__logo-svg" role="presentation" aria-hidden="true">
+                  <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#google-color-logo">
+                  </use>
+                </svg>
+              </div>
+              <span class="glue-header__logo--product">
+                Transparency Center
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="glue-header__container glue-header__container--linkbar" style="touch-action: auto; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+        <nav class="glue-header__link-bar">
+          <ul class="glue-header__list" role="list">
+              <li class="glue-header__item  glue-header__item--active " role="listitem">
+                <a class="glue-header__link" href="./" aria-label="" data-click_name="overview.1">
+                  Yleiskatsaus
+                </a>
+              </li>
+              <li class="glue-header__item " role="listitem">
+                <a class="glue-header__link" href="our-approach/our-policy-process/" aria-label="" data-click_name="our-approach.2">
+                  Lähestymistapamme
+                </a>
+                  <ul class="glue-header__list glue-header__list--nested sub-nav" role="list">
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="our-approach/our-policy-process/" aria-label="Prosessimme" data-click_name="our-process.2.1">
+                          Prosessimme
+                        </a>
+                      </li>
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="our-approach/taking-action/" aria-label="Toimenpiteet" data-click_name="taking-action.2.2">
+                          Toimenpiteet
+                        </a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item " role="listitem">
+                <a class="glue-header__link" href="our-policies/product-terms/" aria-label="" data-click_name="our-policies.3">
+                  Käytäntömme
+                </a>
+                  <ul class="glue-header__list glue-header__list--nested sub-nav" role="list">
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="our-policies/product-terms/" aria-label="Tuotekäytännöt" data-click_name="product-policies.2.1">
+                          Tuotekäytännöt
+                        </a>
+                      </li>
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="our-policies/privacy-policy-terms-of-service/" aria-label="Tietosuoja, ehdot ja tekoäly" data-click_name="privacy-and-terms.2.2">
+                          Tietosuoja, ehdot ja tekoäly
+                        </a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item " role="listitem">
+                <a class="glue-header__link" href="accountability/" aria-label="" data-click_name="accountability.4">
+                  Tilivelvollisuus
+                </a>
+              </li>
+              <li class="glue-header__item " role="listitem">
+                <a class="glue-header__link" href="tools-programs/reporting-and-appeals/" aria-label="" data-click_name="tools-programs.5">
+                  Työkalut ja ohjelmat
+                </a>
+                  <ul class="glue-header__list glue-header__list--nested sub-nav" role="list">
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="tools-programs/reporting-and-appeals/" aria-label="Raportointi ja valitukset" data-click_name="reporting-appeals.2.1">
+                          Raportointi ja valitukset
+                        </a>
+                      </li>
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="tools-programs/partner-programs/" aria-label="Kumppaniohjelmat" data-click_name="partner-programs.2.2">
+                          Kumppaniohjelmat
+                        </a>
+                      </li>
+                      <li class="glue-header__item " role="listitem">
+                        <a class="glue-header__link" href="tools-programs/researchers/" aria-label="Tutkijat" data-click_name="researchers.2.3">
+                          Tutkijat
+                        </a>
+                      </li>
+                  </ul>
+              </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="glue-header__drawer-backdrop"></div>
+</header>
+    <main id="content">
+  
+  <div class="modular-page">
+  
+<section class="_product-policy-main-hero main-hero" data-module_id="product-policy-main-hero" data-module_name="main-hero">
+  <div class="content-hero">
+    <div class="glue-page glue-grid glue-spacer-6-top content-grid-hero">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+          glue-grid__col--span-1-lg"></div>
+      <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+          glue-grid__col--span-5-lg glue-grid__col--span-5-xl headline-content">
+        <p class="glue-headline glue-headline--headline-4 glue-spacer-3-bottom">Transparency Center</p>
+        <h1 class="glue-headline glue-headline--headline-1">Tietoa <span>Googlen tuotteiden käytännöistä</span></h1>
+      </div>
+      <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+          glue-grid__col--span-5-lg glue-grid__col--span-5-xl image-content">
+          <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w1000-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w2000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w1000-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w1000-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w500-rp" class="" alt="Kuva tunnetuista Googlen tuotekuvakkeista pyörimässä Googlen logon ympärillä laajan ekosysteemin merkiksi." loading="eager" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/_9DuUMGIW6C4h4mULDTT8gGvWOpJyV6wSm2dVhJJJIVRaZe7prraRdSbPGvrLNlVmZcCFKN6FFMP3lywP0lPVJAJNuPMMIIbF2DL82fhSh3cO67-HBYk=w500-rp">
+  </picture>
+
+      </div>
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+          glue-grid__col--span-1-lg"></div>
+    </div>
+  </div>
+  <div class="glue-page glue-grid content-links">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-10-lg glue-grid__col--span-10-xl grid-links">
+<a class="glue-card glue-elevation-level-2 quick-links" href="./our-policies/product-terms/" aria-label="Siirry Tuotekäytännöt-sivulle" data-click_name="find-product-quick-link">
+  <div class="glue-card__inner">
+    <picture class="glue-card__asset glue-card__asset--logo">
+      <img alt="" src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/WhMOvxFofRVrSruecm8ofgZBLbCA8F_S7hzKu6DPHFl5u5o3XeRlHP6W4KqlhMFTNHfSlCbu7TqfwolPGFacak7qBXEEexekN-4RRRKQt32FKhqBxlA">
+    </picture>
+    <div class="glue-card__content">
+      <p class="glue-cta">Etsi tuotekäytäntö</p>
+      <p class="glue-body">Hae tuotteen mukaan tai selaa kaikkia</p>
+    </div>
+  </div>
+</a><a class="glue-card glue-elevation-level-2 quick-links" href="./tools-programs/reporting-and-appeals/" aria-label="Siirry Raportointi ja valitukset -sivulle" data-click_name="report-quick-link">
+  <div class="glue-card__inner">
+    <picture class="glue-card__asset glue-card__asset--logo">
+      <img alt="" src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/V4t39vA4qNoM9-zccdFm436LUqQpmjLjj24-4_ZzRP1PVkf3Dbi-QjomEZpNjA0b3Rmfn-quyPfOqIzq-SSbCFyMdP99z9L-kJqUatGdSfMGPZRmbA">
+    </picture>
+    <div class="glue-card__content">
+      <p class="glue-cta">Ilmoita rikkomuksesta</p>
+      <p class="glue-body">Etsi tietoja ja lomakkeita raportointiin</p>
+    </div>
+  </div>
+</a><a class="glue-card glue-elevation-level-2 quick-links" href="./our-approach/our-policy-process/" aria-label="Siirry Prosessimme-sivulle" data-click_name="process-quick-link">
+  <div class="glue-card__inner">
+    <picture class="glue-card__asset glue-card__asset--logo">
+      <img alt="" src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/WqT41ixDjI00uevD9Q0hT-lJHCaAm3nYv646-pF1Dq-4w6PxaMUIQ9bFEpzCrud8JvS_GFGByB833KSPU7BlNzPtvg87NLsxMqgCvwY0jgQE-kcNjA">
+    </picture>
+    <div class="glue-card__content">
+      <p class="glue-cta">Lisätietoa prosessistamme</p>
+      <p class="glue-body">Tutustu Googlen käytäntöjen kehitykseen</p>
+    </div>
+  </div>
+</a><a class="glue-card glue-elevation-level-2 quick-links" href="./accountability/" aria-label="Siirry Avoimuus-sivulle" data-click_name="transparency-quick-link">
+  <div class="glue-card__inner">
+    <picture class="glue-card__asset glue-card__asset--logo">
+      <img alt="" src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/lQ6C39oZ-fd_5X3g-O8mcUUhBglV5j2yyoEWwRuYjaAcve957Z2L3i5xrmxMnMmFJ54THsdoobiVoUSCwwWmXMBYHA-mTNLn9dI0iXi2UzlWoIxjzAA">
+    </picture>
+    <div class="glue-card__content">
+      <p class="glue-cta">Löydä avoimuusraportit</p>
+      <p class="glue-body">Lisätietoa sitoutumisestamme avoimuuteen</p>
+    </div>
+  </div>
+</a>    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg"></div>
+  </div>
+</section>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+<div class="glue-page markdown-blocks glue-color-grey-700 id=our-mission" data-module_id="our-mission" data-module_name="markdown-blocks">
+  <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-2"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-8-lg">
+      <div class="glue-text-center
+">
+        <p class="glue-body--large">Missionamme on tuoda hyödyllinen tieto kaikkien ulottuville, ja se alkaa omien tuotteidemme turvallisuuden varmistamisesta. Transparency Center -keskuksessamme voit tutustua käytäntöihin, joilla suojataan käyttäjiä haitalliselta sisällöltä ja väärinkäytöksiltä. Saat myös lisätietoja näiden käytäntöjen kehittämisestä ja valvonnasta.</p>
+      </div>
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+<div class="glue-page _sm-line-icon dividers" data-module_id="sm-line-icon" data-module_name="dividers">
+  <div class="divider divider-small">
+      <svg class="glue-icon glue-icon--18px divider-icon" role="presentation" aria-hidden="true">
+        <use xlink:href="/web/20231206165039im_/https://transparency.google/static/img/custom-icons.svg?cache=3b8cad4#divider-icon"></use>
+      </svg>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+
+<div class="glue-page _taking-action hero-standard" id="taking-action" data-module_id="taking-action" data-module_name="hero-standard">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md
+        glue-grid__col--span-8-lg glue-grid__col--span-6-xl">
+      <div class="content-hero">
+        <h2 class="hide-content glue-headline glue-headline--headline-2 glue-text-center glue-font-weight-medium">Toimenpiteet turvallisuuden varmistamiseksi kaikkialla verkossa</h2>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm4"></div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+<div class="glue-page _home-highlights cards-with-highlight" data-module_id="home-highlights" data-module_name="cards-with-highlight">
+  <div class="cards-with-highlight-grid">
+      <div class="_deceptive-ads-blocked-update cards-with-highlight-item">
+        <div class="glue-text-center cards-with-highlight-item-stat cards-with-highlight-item-stat-green-700">
+          <div class="highlight glue-spacer-2-bottom">5,2 mrd.</div>
+        </div>
+        <div class="glue-text-center glue-headline glue-headline--headline-5 glue-spacer-2-bottom cards-with-highlight-item-title">haitallista mainosta estetty</div>
+        <p class="glue-text-center cards-with-highlight-item-text">Estimme vuonna 2022 miljardeja haitallisia mainoksia Googlen tuotteista suojellaksemme käyttäjiä huijauksilta.<sup>1</sup></p>
+      </div>
+      <div class="_videos-removed-update cards-with-highlight-item">
+        <div class="glue-text-center cards-with-highlight-item-stat cards-with-highlight-item-stat-blue-700">
+          <div class="highlight glue-spacer-2-bottom">11 milj.</div>
+        </div>
+        <div class="glue-text-center glue-headline glue-headline--headline-5 glue-spacer-2-bottom cards-with-highlight-item-title">YouTube-videota poistettu</div>
+        <p class="glue-text-center cards-with-highlight-item-text">Yli 11 miljoonaa videota poistettiin vuoden 2022 loppupuoliskolla yhteisösääntöjen rikkomusten vuoksi.<sup>2</sup></p>
+      </div>
+      <div class="_url-indexed cards-with-highlight-item">
+        <div class="glue-text-center cards-with-highlight-item-stat cards-with-highlight-item-stat-yellow-900">
+          <div class="highlight glue-spacer-2-bottom">437 000</div>
+        </div>
+        <div class="glue-text-center glue-headline glue-headline--headline-5 glue-spacer-2-bottom cards-with-highlight-item-title">URL-osoitteen uudelleenindeksointia</div>
+        <p class="glue-text-center cards-with-highlight-item-text">Pelkästään vuoden 2022 jälkipuoliskolla poistimme Googlen hakutuloksista yli 437 000 URL-osoitetta, joiden oli ilmoitettu sisältävän lasten seksuaalista hyväksikäyttöä kuvaavaa materiaalia.<sup>3</sup></p>
+      </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+<div class="glue-page _medium-line dividers" data-module_id="medium-line" data-module_name="dividers">
+    <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+      <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md glue-grid__col--span-10-lg">
+  <div class="divider divider-medium">
+  </div>
+      </div>
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+    </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+
+<div class="glue-page _policy-across-google-title hero-standard" data-module_id="policy-across-google-title" data-module_name="hero-standard">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md
+        glue-grid__col--span-8-lg glue-grid__col--span-6-xl">
+      <div class="content-hero">
+        <h2 class="hide-content glue-headline glue-headline--headline-2 glue-text-center glue-font-weight-medium">Googlen eri tuotteiden käytännöt</h2>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+
+<div class="glue-page _digital-ecosystem show-in-desktop image-and-texts aria-check" data-module_id="digital-ecosystem" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Terveen digitaalisen ekosysteemin ylläpito
+        </div>
+        <p class="">Miljardit ihmiset, jotka etsivät laadukkaita, luotettavia tietoja ja luotettavia kokemuksia verkossa, kääntyvät päivittäin Googlen puoleen. Otamme vastuumme vakavasti, jotta voimme taata tuotteidemme ja palvelujemme eheyden ja rakentaa käyttäjien luottamuksen. Olemme laatineet käyttöehtoja, tuotekäytäntöjä, kehittäjäkäytäntöjä ja yhteisön sääntöjä, joiden tarkoitus on pitää käyttäjät turvassa, pyrkiessämme toteuttamaan missiomme.</p>
+      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp" class="" alt="Kolme henkilöä työskentelee yhdessä kannettavalla, ja ympärillä on Googlen ekosysteemiä kuvastavia Googlen tuotelogoja." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="glue-page _digital-ecosystem show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp" class="" alt="Kolme henkilöä työskentelee yhdessä kannettavalla, ja ympärillä on Googlen ekosysteemiä kuvastavia Googlen tuotelogoja." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/aaZKcOYvPYZ9pI1MyVxNCF1Qn1V30nyNdFLxq50uWD4pznyPAVV6MBZ9_MOty_BdssCf38rqsMAUtHC3ZgETjbzTJgoenOkgwEURtkDczAO598RwjPA=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Terveen digitaalisen ekosysteemin ylläpito
+        </div>
+        <p class="">Miljardit ihmiset, jotka etsivät laadukkaita, luotettavia tietoja ja luotettavia kokemuksia verkossa, kääntyvät päivittäin Googlen puoleen. Otamme vastuumme vakavasti, jotta voimme taata tuotteidemme ja palvelujemme eheyden ja rakentaa käyttäjien luottamuksen. Olemme laatineet käyttöehtoja, tuotekäytäntöjä, kehittäjäkäytäntöjä ja yhteisön sääntöjä, joiden tarkoitus on pitää käyttäjät turvassa, pyrkiessämme toteuttamaan missiomme.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+
+<div class="glue-page _trust-and-safety show-in-desktop image-and-texts aria-check" data-module_id="trust-and-safety" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp" class="" alt="Kuvakollaasi, jossa näkyy kaksi miestä työskentelemässä toimistossa, lähikuva ihmisistä tekemässä yhteistyötä kannettavalla ja kuvake, joka esittää tiimejä." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Luottamukseen ja turvallisuuteen keskittyvät tiimit
+        </div>
+        <p class="">Investoimme tutkimukseen ja teknologiaan, jotta voimme selvittää tuotteidemme ja palvelujemme mahdollisia väärinkäyttötapoja ja lieventää mahdollisia riskejä. Tiimimme pyrkivät jatkuvasti luomaan ja ottamaan käyttöön dataan perustuvia ja skaalattavia käytäntöjä ja standardeja, jotka suojelevat käyttäjiämme varmistamalla tuotteidemme ja palvelujemme vastuullisen käytön.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+          glue-order-1-lg glue-order-1-md
+">
+    </div>
+  </div>
+</div>
+
+<div class="glue-page _trust-and-safety show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp" class="" alt="Kuvakollaasi, jossa näkyy kaksi miestä työskentelemässä toimistossa, lähikuva ihmisistä tekemässä yhteistyötä kannettavalla ja kuvake, joka esittää tiimejä." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/Lg8KnB68_JSdWXpbqUiKVJr3NSGvBcJJRJG3yzD98pVTtR0qeBoJDtVXqKfO_c6XCeCk6MWHbEK1B69uFzxx3KIcfdocvyWZlKUFRjSBFuAd_b6LeQ=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Luottamukseen ja turvallisuuteen keskittyvät tiimit
+        </div>
+        <p class="">Investoimme tutkimukseen ja teknologiaan, jotta voimme selvittää tuotteidemme ja palvelujemme mahdollisia väärinkäyttötapoja ja lieventää mahdollisia riskejä. Tiimimme pyrkivät jatkuvasti luomaan ja ottamaan käyttöön dataan perustuvia ja skaalattavia käytäntöjä ja standardeja, jotka suojelevat käyttäjiämme varmistamalla tuotteidemme ja palvelujemme vastuullisen käytön.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+          glue-order-1-lg glue-order-1-md
+">
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+
+<div class="glue-page _preventing-harm hero-standard" id="preventing-harm" data-module_id="preventing-harm" data-module_name="hero-standard">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md
+        glue-grid__col--span-8-lg glue-grid__col--span-6-xl">
+      <div class="content-hero">
+        <h2 class="hide-content glue-headline glue-headline--headline-2 glue-text-center glue-font-weight-medium">Haitallisen sisällön ja väärinkäytösten estäminen kaikissa tuotteissamme</h2>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm4"></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+<section class="glue-page _home-carousel image-and-text-carousels" data-module_id="home-carousel" data-module_name="image-and-text-carousels">
+<div class="glue-carousel glue-carousel--cards product-policy-carousel" data-animation="True" data-cyclical="False" data-peek-out="True" data-navigation="True" data-cards-per-page="1" data-current-slide="1" parent_id="home-carousel">
+    <button class="glue-carousel__button glue-carousel__button--prev" aria-label="Siirry edelliseen diaan" data-parent_id="home-carousel">
+      <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+        <use href="/static/glue-icons.svg?cache=6bdf286#chevron-left"></use>
+      </svg>
+    </button>
+    <button class="glue-carousel__button glue-carousel__button--next" aria-label="Siirry seuraavaan diaan" data-parent_id="home-carousel">
+      <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+        <use href="/static/glue-icons.svg?cache=6bdf286#chevron-right"></use>
+      </svg>
+    </button>
+    <div class="glue-carousel__viewport">
+      <div class="glue-carousel__list">
+              <div class="glue-carousel__item glue-card">
+
+<div class="_clear-rules-image-and-text-update show-in-desktop image-and-texts aria-check" data-module_id="clear-rules-image-and-text-update" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Selkeät säännöt tuotteille
+        </div>
+        <p class="">Käyttäjien suojaamiseksi luomme käytäntöjä, joissa kerrotaan, millainen sisältö ja toiminta ei ole sallittua kussakin Googlen tuotteessa tai palvelussa.</p>
+      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp" class="" alt="Verkkosivu, jolla näkyy vihreä oikein-merkki, ja sen vieressä verkkosivu, jolla on punainen rasti. Nämä viittaavat käytäntöjen noudattamiseen Googlen tuotteissa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="_clear-rules-image-and-text-update show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp" class="" alt="Verkkosivu, jolla näkyy vihreä oikein-merkki, ja sen vieressä verkkosivu, jolla on punainen rasti. Nämä viittaavat käytäntöjen noudattamiseen Googlen tuotteissa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/VkI-Q0rnklykVXCEGICZLVZ4QcduHYnEea3fS-rSq7yGdczqgqdNECdDavifexpD525izqABERLmGf8FoJCFY72D-e6h_A0a1GzHstWnm0oS0Mwa87c=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Selkeät säännöt tuotteille
+        </div>
+        <p class="">Käyttäjien suojaamiseksi luomme käytäntöjä, joissa kerrotaan, millainen sisältö ja toiminta ei ole sallittua kussakin Googlen tuotteessa tai palvelussa.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+
+<div class="_taking-swift-action-image-and-text show-in-desktop image-and-texts aria-check" data-module_id="taking-swift-action-image-and-text" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Toimenpiteet rikkomuksia vastaan
+        </div>
+        <p class="">Teemme joka päivä tuotekäytäntöihimme perustuvia valvontatoimia, kun seuraamme nousevia uhkia ja puutumme rikkomuksiin ajoissa.</p>
+      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp" class="" alt="Rikkomuksesta ilmoittava ikkuna ja roskapostikuvake, jossa on kello. Kuva osoittaa, miten Google seuraa rikkomuksia ja puuttuu niihin ajoissa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="_taking-swift-action-image-and-text show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp" class="" alt="Rikkomuksesta ilmoittava ikkuna ja roskapostikuvake, jossa on kello. Kuva osoittaa, miten Google seuraa rikkomuksia ja puuttuu niihin ajoissa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/cGAfwD7ijUEsmtkQshdIigEEzMGzWVAX2foYjxtRBae1SkFaXxYOWIlB3DxVupT74NpDQO50ZBNoQhKwE8dgMtwb4xAawlVNyEQP8eEzFZUa9tG6t1w=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Toimenpiteet rikkomuksia vastaan
+        </div>
+        <p class="">Teemme joka päivä tuotekäytäntöihimme perustuvia valvontatoimia, kun seuraamme nousevia uhkia ja puutumme rikkomuksiin ajoissa.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+
+<div class="_building-things-image-and-text-update show-in-desktop image-and-texts aria-check" data-module_id="building-things-image-and-text-update" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Ohjeita sisällöntuottajille ja kehittäjille
+        </div>
+        <p class="">Kehittäessämme käytäntöjämme teemme läheistä yhteistyötä asiantuntijoiden sekä kehittäjien ja sisällöntuottajien kanssa maailmanlaajuisesti. Nämä ovat tahoja, jotka käyttävät esimerkiksi Google Playta ja YouTubea tavoittaakseen yleisöjä ja kehittääkseen liiketoimintaansa.</p>
+      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp" class="" alt="Katsaus kulisseihin, missä kehittäjä työstää verkkosivua. Kuvasta näkyy, miten Google ohjaa kehittäjiä tuotteiden ja palveluiden luomisessa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="_building-things-image-and-text-update show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp" class="" alt="Katsaus kulisseihin, missä kehittäjä työstää verkkosivua. Kuvasta näkyy, miten Google ohjaa kehittäjiä tuotteiden ja palveluiden luomisessa." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/dQ0wl_yNpruQGyAtLneexaJ_LpqlGvb6aXH_xi9Z_8KpWq2xssksHOIwgzNqHUoB0LSxA9TpyH5nBPejhsebHWSWeMznoPK0LlwkVtu0wuECPI2A3fkK=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Ohjeita sisällöntuottajille ja kehittäjille
+        </div>
+        <p class="">Kehittäessämme käytäntöjämme teemme läheistä yhteistyötä asiantuntijoiden sekä kehittäjien ja sisällöntuottajien kanssa maailmanlaajuisesti. Nämä ovat tahoja, jotka käyttävät esimerkiksi Google Playta ja YouTubea tavoittaakseen yleisöjä ja kehittääkseen liiketoimintaansa.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+
+<div class="_establishing-trust-image-and-text-update show-in-desktop image-and-texts aria-check" data-module_id="establishing-trust-image-and-text-update" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Avoimuus parantaa luottamusta
+        </div>
+        <p class="">Julkaisemme säännöllisesti tietoja viranomaisilta saaduista sisällön poistopyynnöistä sekä toimenpiteistä, joilla suojelemme käyttäjiä ja alustoja käytäntöjen ja paikallisten lakien vastaiselta sisällöltä. Meille on tärkeää kertoa työstämme avoimesti.</p>
+      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp" class="" alt="" loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="_establishing-trust-image-and-text-update show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp" class="" alt="" loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/91vS73xNkiq0gFQhJPHYpBqBJm-h1_6ABr8faTpDPX8YzagSJ23k4dNIyetMFzK7Dewx-fagSdPnTDREOGrAoOBV5rpAreWLUNxg-kQ2Z2mtop_xejI=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-4-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Avoimuus parantaa luottamusta
+        </div>
+        <p class="">Julkaisemme säännöllisesti tietoja viranomaisilta saaduista sisällön poistopyynnöistä sekä toimenpiteistä, joilla suojelemme käyttäjiä ja alustoja käytäntöjen ja paikallisten lakien vastaiselta sisällöltä. Meille on tärkeää kertoa työstämme avoimesti.</p>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>      </div>
+
+      </div>
+    </div>
+    <div class="glue-carousel__navigation" aria-label="Valitse sivu" data-glue-carousel-navigation-label="Selected tab $glue_carousel_page_number$">
+    </div>
+  </div></section>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+<div class="_addressing-the-range-background-container background-containers background-containers-grey-50" data-module_id="addressing-the-range-background-container" data-module_name="background-containers">
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+
+<div class="glue-page _addressing-the-range-hero hero-standard" data-module_id="addressing-the-range-hero" data-module_name="hero-standard">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md
+        glue-grid__col--span-8-lg glue-grid__col--span-6-xl">
+      <div class="content-hero">
+        <h3 class="hide-content glue-headline glue-headline--headline-3 glue-text-center glue-font-weight-medium">Käytäntöjen osa-alueiden valvonta</h3>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+
+<section class="glue-page simple-cards
+" data-module_id="addressing-the-range-simple-cards" data-module_name="simple-cards">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-10-lg">
+      <div class="card-grid gap-2">
+
+<a class="glue-card" data-click_name="product-policies-simple-card" href="./our-policies/product-terms/" aria-label="">
+  <div class="glue-card__inner">
+    <div class="glue-card__content">
+      <p class="glue-headline glue-headline--headline-5" data-click_name="product-policies-simple-card">Tuotekäytännöt</p>
+<p class="glue-card__description" data-click_name="product-policies-simple-card">Lisätietoa siitä, miten Google määrittää tuotekohtaisesti ehdot, säännöt ja suositukset käyttäjille, kehittäjille ja sisällöntuottajille.</p>    </div>
+      <div class="glue-card__cta">
+        <span class="glue-button glue-button--low-emphasis glue-text-left">
+          Tutustu tuotekäytäntöihin
+        </span>
+      </div>
+
+  </div>
+</a>
+<a class="glue-card" data-click_name="privacy-terms-of-service-simple-card" href="./our-policies/privacy-policy-terms-of-service/" aria-label="">
+  <div class="glue-card__inner">
+    <div class="glue-card__content">
+      <p class="glue-headline glue-headline--headline-5" data-click_name="privacy-terms-of-service-simple-card">Tietosuoja, ehdot ja tekoäly</p>
+<p class="glue-card__description" data-click_name="privacy-terms-of-service-simple-card">Lisätietoa siitä, miten Google varmistaa tietojesi tietosuojan ja asettaa selkeät odotukset käyttöehdoillaan.</p>    </div>
+      <div class="glue-card__cta">
+        <span class="glue-button glue-button--low-emphasis glue-text-left">
+          Tutustu tietosuojaan, ehtoihin ja tekoälyyn
+        </span>
+      </div>
+
+  </div>
+</a>      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+  </div>
+</section>
+
+  
+  
+
+<div class="spacer-module spacer-sm6"></div></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+
+<div class="glue-page _commitment-to-transparency-image-and-text-update show-in-desktop image-and-texts aria-check" data-module_id="commitment-to-transparency-image-and-text-update" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp" class="" alt="" loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Sitoumus avoimuuteen
+        </div>
+        <p class="glue-has-bottom-margin">Lue lisää siitä, miten julkaisemme säännöllisesti tietoja viranomaisilta saaduista sisällön poistopyynnöistä sekä toimenpiteistä, joilla suojelemme käyttäjiä ja alustoja käytäntöjen ja paikallisten lakien vastaiselta sisällöltä. Katso myös, miten sisältösuositukset toimivat Googlen tuotteissa ja palveluissa.</p>
+<div class="call-to-actions glue-text-left
+    mobile-left">
+    <a href="accountability/" aria-label="Siirry Avoimuus-sivulle" class="glue-button glue-button--medium-emphasis glue-button--
+" data-click_name="explore-transparency-cta">
+    Tutustu Avoimuuteen
+  </a>
+
+</div>      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+          glue-order-1-lg glue-order-1-md
+">
+    </div>
+  </div>
+</div>
+
+<div class="glue-page _commitment-to-transparency-image-and-text-update show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp" class="" alt="" loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/nylYK-O22r9BB8PEd8FRCbdEoJir_KUP1NXPXBzNFGzLUsJXGXe_TYYrQOqcLMTuBlcLEaiw8Jze3j0_ceUQrhl7LotZoYJeAGcDm1YcY-DhnmRCXlft=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Sitoumus avoimuuteen
+        </div>
+        <p class="glue-has-bottom-margin">Lue lisää siitä, miten julkaisemme säännöllisesti tietoja viranomaisilta saaduista sisällön poistopyynnöistä sekä toimenpiteistä, joilla suojelemme käyttäjiä ja alustoja käytäntöjen ja paikallisten lakien vastaiselta sisällöltä. Katso myös, miten sisältösuositukset toimivat Googlen tuotteissa ja palveluissa.</p>
+<div class="call-to-actions glue-text-left
+    mobile-left">
+    <a href="accountability/" aria-label="Siirry Avoimuus-sivulle" class="glue-button glue-button--medium-emphasis glue-button--
+" data-click_name="explore-transparency-cta">
+    Tutustu Avoimuuteen
+  </a>
+
+</div>      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+          glue-order-1-lg glue-order-1-md
+">
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+
+<div class="glue-page _tools-reporting-appeals-image-and-text show-in-desktop image-and-texts aria-check" data-module_id="tools-reporting-appeals-image-and-text" data-module_name="image-and-texts">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Työkaluja raportointiin ja valituksiin
+        </div>
+        <p class="glue-has-bottom-margin">Löydä hyödyllisiä ilmoitus- ja valitustyökaluja, joilla voi ilmoittaa sisällöstä ja vastata valvontatoimiin. Voit myös lukea lisää kumppanuusohjelmistamme, joilla keskitytään haitallisen sisällön torjuntaan kaikkialla verkossa.</p>
+<div class="call-to-actions glue-text-left
+    mobile-left">
+    <a href="tools-programs/reporting-and-appeals/" aria-label="Siirry Työkalut ja ohjelmat -sivulle" class="glue-button glue-button--medium-emphasis glue-button--
+" data-click_name="explore-tools-&amp;-programs-cta">
+    Tutustu työkaluihin ja ohjelmiin
+  </a>
+
+</div>      </div>
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp" class="" alt="Kuvakollaasissa naisen kädet kannettavalla, rikkomuksesta ilmoittamisen kuvake sekä valituspainike." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>
+
+<div class="glue-page _tools-reporting-appeals-image-and-text show-in-mobile image-and-texts aria-check">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg">
+    </div>
+
+<div class="glue-grid__col glue-grid__col--align-middle glue-grid__col--span-4-sm
+    glue-grid__col--span-12-md glue-grid__col--span-5-lg glue-text-center media-col">
+      <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w1000-rp 2x" media="(min-width: 1280px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w339-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w678-rp 2x" media="(min-width: 1024px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w500-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w1000-rp 2x" media="(min-width: 600px)">
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w800-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp" class="" alt="Kuvakollaasissa naisen kädet kannettavalla, rikkomuksesta ilmoittamisen kuvake sekä valituspainike." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/TP7fZpav3nt54oQ3N4y_k5aZriejs1pUEJ4EOLZxl08iD46ekcIUmGG74FA6qkVL6RIKpIPuIkbUMFMiT9OIldM3ZH2pZNWYfUaHbZkQrnpKXatjX44=w400-rp">
+  </picture>
+
+</div>    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-5-lg text-col">
+      <div class="content-text">
+        <div class="glue-headline glue-headline--headline-4">
+          Työkaluja raportointiin ja valituksiin
+        </div>
+        <p class="glue-has-bottom-margin">Löydä hyödyllisiä ilmoitus- ja valitustyökaluja, joilla voi ilmoittaa sisällöstä ja vastata valvontatoimiin. Voit myös lukea lisää kumppanuusohjelmistamme, joilla keskitytään haitallisen sisällön torjuntaan kaikkialla verkossa.</p>
+<div class="call-to-actions glue-text-left
+    mobile-left">
+    <a href="tools-programs/reporting-and-appeals/" aria-label="Siirry Työkalut ja ohjelmat -sivulle" class="glue-button glue-button--medium-emphasis glue-button--
+" data-click_name="explore-tools-&amp;-programs-cta">
+    Tutustu työkaluihin ja ohjelmiin
+  </a>
+
+</div>      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md
+        glue-grid__col--span-1-lg
+">
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+<div class="glue-page _medium-line dividers" data-module_id="medium-line" data-module_name="dividers">
+    <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+      <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md glue-grid__col--span-10-lg">
+  <div class="divider divider-medium">
+  </div>
+      </div>
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+    </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+
+<div class="glue-page _our-leaders-title hero-standard" data-module_id="our-leaders-title" data-module_name="hero-standard">
+  <div class="glue-grid">
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md
+        glue-grid__col--span-8-lg glue-grid__col--span-6-xl">
+      <div class="content-hero">
+        <h2 class="hide-content glue-headline glue-headline--headline-2 glue-text-center glue-font-weight-medium">Johtajamme esittäytyvät</h2>
+      </div>
+    </div>
+    <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md
+        glue-grid__col--span-2-lg glue-grid__col--span-3-xl hide-content"></div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  
+<section class="_leaders-quote-carousel quote-card-carousel" data-module_id="leaders-quote-carousel" data-module_name="quote-card-carousel">
+<div class="glue-carousel glue-carousel--cards product-policy-carousel" data-animation="True" data-cyclical="False" data-peek-out="True" data-navigation="True" data-cards-per-page="1" data-current-slide="2" parent_id="leaders-quote-carousel">
+    <button class="glue-carousel__button glue-carousel__button--prev" aria-label="Siirry edelliseen diaan" data-parent_id="leaders-quote-carousel">
+      <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+        <use href="/static/glue-icons.svg?cache=6bdf286#chevron-left"></use>
+      </svg>
+    </button>
+    <button class="glue-carousel__button glue-carousel__button--next" aria-label="Siirry seuraavaan diaan" data-parent_id="leaders-quote-carousel">
+      <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+        <use href="/static/glue-icons.svg?cache=6bdf286#chevron-right"></use>
+      </svg>
+    </button>
+    <div class="glue-carousel__viewport">
+      <div class="glue-carousel__list">
+              <div class="glue-carousel__item glue-card">
+<div class="glue-card__content glue-text-center glue-spacer-5-top
+    glue-spacer-5-bottom quote-card rounded-image " data-module_id="danielle-romain-quote-card" data-module_name="quote-card">
+    <picture class="glue-spacer-3-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/DJP1LL7ukJdgB9sVQ-HliR3fMG7Bf8C1n1gwpkIr9IrDysEfBwNJ8QhOw7eFti-2anvEDuGY4ADdkuuddQWuQkGdVqIQWO1qWgF33hwoYsl7KP8Cxg=w72-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/DJP1LL7ukJdgB9sVQ-HliR3fMG7Bf8C1n1gwpkIr9IrDysEfBwNJ8QhOw7eFti-2anvEDuGY4ADdkuuddQWuQkGdVqIQWO1qWgF33hwoYsl7KP8Cxg=w144-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/DJP1LL7ukJdgB9sVQ-HliR3fMG7Bf8C1n1gwpkIr9IrDysEfBwNJ8QhOw7eFti-2anvEDuGY4ADdkuuddQWuQkGdVqIQWO1qWgF33hwoYsl7KP8Cxg=w72-rp" class="" alt="Kuva Danielle Romainista, joka hymyilee kameralle." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/DJP1LL7ukJdgB9sVQ-HliR3fMG7Bf8C1n1gwpkIr9IrDysEfBwNJ8QhOw7eFti-2anvEDuGY4ADdkuuddQWuQkGdVqIQWO1qWgF33hwoYsl7KP8Cxg=w72-rp">
+  </picture>
+
+  <p class="glue-headline glue-headline--headline-5">Google uskoo vahvasti tiedon avoimeen saatavuuteen. Samaan aikaan olemme vahvasti sitoutuneet suojelemaan ihmisiä verkossa. Käytäntömme auttavat suojelemaan sekä ihmisiä että heidän henkilötietojaan.</p>
+  <p class="glue-eyebrow">Danielle Romain, kuluttajaluottamuksen apulaisjohtaja, Google</p>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+<div class="glue-card__content glue-text-center glue-spacer-5-top
+    glue-spacer-5-bottom quote-card rounded-image " data-module_id="laurie-richardson-quote-card" data-module_name="quote-card">
+    <picture class="glue-spacer-3-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/fKJweDW0hz67bydJ071hIzBW6LlgocJ5AmJSmSDWrIDJtPqZsMYoWD2SlMeHHWM07DOfkNEjbzYHYa5zmIGQwSqVcYO80UPxzl3XlIgxA3mdXhtslGk=w72-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/fKJweDW0hz67bydJ071hIzBW6LlgocJ5AmJSmSDWrIDJtPqZsMYoWD2SlMeHHWM07DOfkNEjbzYHYa5zmIGQwSqVcYO80UPxzl3XlIgxA3mdXhtslGk=w144-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/fKJweDW0hz67bydJ071hIzBW6LlgocJ5AmJSmSDWrIDJtPqZsMYoWD2SlMeHHWM07DOfkNEjbzYHYa5zmIGQwSqVcYO80UPxzl3XlIgxA3mdXhtslGk=w72-rp" class="" alt="Kuvassa Laurie Richardson, jolla on yllään valkoinen kauluspaita ja musta neule." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/fKJweDW0hz67bydJ071hIzBW6LlgocJ5AmJSmSDWrIDJtPqZsMYoWD2SlMeHHWM07DOfkNEjbzYHYa5zmIGQwSqVcYO80UPxzl3XlIgxA3mdXhtslGk=w72-rp">
+  </picture>
+
+  <p class="glue-headline glue-headline--headline-5">Joka päivä ihmiset kääntyvät Googlen puoleen halutessaan luotettavaa tietoa ja luotettavia kokemuksia verkossa. Siksi meillä on vahvat käytännöt, valvomme niiden täytäntöönpanoa ja teemme yhteistyötä alan kumppanien, hallitusten ja kansalaisyhteiskunnan kanssa, jotta voimme suojella käyttäjiä alustoillamme ja rakentaa turvallisempaa internetiä.</p>
+  <p class="glue-eyebrow">LAURIE RICHARDSON, LUOTTAMUKSEN JA TURVALLISUUDEN APULAISJOHTAJA, GOOGLE</p>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+<div class="glue-card__content glue-text-center glue-spacer-5-top
+    glue-spacer-5-bottom quote-card rounded-image " data-module_id="matt-brittin-quote-card" data-module_name="quote-card">
+    <picture class="glue-spacer-3-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/0mTg3uCQtrb2AGJAKFtoV9k4pvCLx4-o_rdR3Dnxw2neGKv5fhGDvxZn_2q3HY57HVS_RmhPWfc9b_zyPPERm6Kqqx3yA-Rq82d3z29LwV4JXEG_bWs=w72-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/0mTg3uCQtrb2AGJAKFtoV9k4pvCLx4-o_rdR3Dnxw2neGKv5fhGDvxZn_2q3HY57HVS_RmhPWfc9b_zyPPERm6Kqqx3yA-Rq82d3z29LwV4JXEG_bWs=w144-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/0mTg3uCQtrb2AGJAKFtoV9k4pvCLx4-o_rdR3Dnxw2neGKv5fhGDvxZn_2q3HY57HVS_RmhPWfc9b_zyPPERm6Kqqx3yA-Rq82d3z29LwV4JXEG_bWs=w72-rp" class="" alt="Kuvassa Matt Brittin yllään sininen puku ja sininen paita." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/0mTg3uCQtrb2AGJAKFtoV9k4pvCLx4-o_rdR3Dnxw2neGKv5fhGDvxZn_2q3HY57HVS_RmhPWfc9b_zyPPERm6Kqqx3yA-Rq82d3z29LwV4JXEG_bWs=w72-rp">
+  </picture>
+
+  <p class="glue-headline glue-headline--headline-5">Nykymaailmassa kuka tahansa voi julkaista sisältöä ja julkaisu voi levitä sosiaalisilla alustoilla miljoonille käyttäjille. Tällöin väärä tieto aiheuttaa jatkuvasti ongelmia. Googlen tavoitteena on tarjota sinulle haluamasi tiedot, tarvitsemasi vastaukset ja ansaitsemasi tarkkuus.</p>
+  <p class="glue-eyebrow">MATT BRITTIN, GOOGLE EMEA:N PÄÄJOHTAJA</p>
+</div>      </div>
+      <div class="glue-carousel__item glue-card">
+<div class="glue-card__content glue-text-center glue-spacer-5-top
+    glue-spacer-5-bottom quote-card rounded-image " data-module_id="david-graff-quote-card" data-module_name="quote-card">
+    <picture class="glue-spacer-3-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/oY_KHHaisSwhDEKB8bQjrz9t1u6iKjk7GDu_cGKZgV_EHsZHM89Fuauj-ke8IyGUBspEUM7LuzF4bwY2Z0gzmT1zl_mx4nOYZ5c8JLsUaVzELEaTBJw=w72-rp, https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/oY_KHHaisSwhDEKB8bQjrz9t1u6iKjk7GDu_cGKZgV_EHsZHM89Fuauj-ke8IyGUBspEUM7LuzF4bwY2Z0gzmT1zl_mx4nOYZ5c8JLsUaVzELEaTBJw=w144-rp 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20231206165039im_/https://lh3.googleusercontent.com/oY_KHHaisSwhDEKB8bQjrz9t1u6iKjk7GDu_cGKZgV_EHsZHM89Fuauj-ke8IyGUBspEUM7LuzF4bwY2Z0gzmT1zl_mx4nOYZ5c8JLsUaVzELEaTBJw=w72-rp" class="" alt="Kuva David Graffista, joka hymyilee kameralle yllään sininen paita ja musta puku." loading="lazy" data-src="https://web.archive.org/web/20231206165039/https://lh3.googleusercontent.com/oY_KHHaisSwhDEKB8bQjrz9t1u6iKjk7GDu_cGKZgV_EHsZHM89Fuauj-ke8IyGUBspEUM7LuzF4bwY2Z0gzmT1zl_mx4nOYZ5c8JLsUaVzELEaTBJw=w72-rp">
+  </picture>
+
+  <p class="glue-headline glue-headline--headline-5">Pyrimme tuomaan tiedon paremmin kaikkien ulottuville ihmisten ja yhteiskunnan parhaaksi sekä varmistamaan kaikkien tuotteidemme vastuullisen käytön tietoon perustuvilla ja skaalautuvilla käytännöillä ja standardeilla.</p>
+  <p class="glue-eyebrow">DAVID GRAFF, GLOBAALIEN KÄYTÄNTÖJEN JA STANDARDIEN VARAJOHTAJA</p>
+</div>      </div>
+
+      </div>
+    </div>
+    <div class="glue-carousel__navigation" aria-label="Valitse sivu" data-glue-carousel-navigation-label="Selected tab $glue_carousel_page_number$">
+    </div>
+  </div></section>  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+<div class="glue-page _medium-line dividers" data-module_id="medium-line" data-module_name="dividers">
+    <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+      <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md glue-grid__col--span-10-lg">
+  <div class="divider divider-medium">
+  </div>
+      </div>
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+    </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm4"></div>  
+<div class="glue-page markdown-blocks glue-color-grey-700 id=footnotes-overview" data-module_id="footnotes-overview" data-module_name="markdown-blocks">
+  <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-1"></div>
+    <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md
+        glue-grid__col--span-10-lg">
+      <div class="glue-text-left
+">
+        <p class="glue-body"><span class="glue-visually-hidden">Alaviitteet</span>
+<div><sup>1</sup> <a href="https://web.archive.org/web/20231206165039/https://blog.google/products/ads-commerce/our-2022-ads-safety-report/" target="_blank">Google Ads Safety Report</a>, maaliskuu 2023</div>
+<div><sup>2</sup> <a href="https://web.archive.org/web/20231206165039/https://blog.google/products/ads-commerce/ads-safety-report-2021/?utm_source=gads_twitter&amp;utm_medium=social&amp;utm_campaign=adssafetyreport2021_5042022" target="_blank">YouTuben yhteisön sääntöjen valvonta – Avoimuusraportti</a>, syyskuu 2022</div>
+<div><sup>3</sup> <a href="https://web.archive.org/web/20231206165039/https://transparencyreport.google.com/child-sexual-abuse-material/reporting?hl=en" target="_blank">Lasten seksuaalista hyväksikäyttöä kuvaavan materiaalin estäminen – Avoimuusraportti</a>, joulukuu 2022</div></p>
+      </div>
+    </div>
+  </div>
+</div>  
+  
+
+<div class="spacer-module spacer-sm5"></div>  </div>
+    </main>
+
+<footer class="glue-footer" data-module_id="footer" data-module_name="glue-footer">
+  <section class="glue-footer__upper">
+    <section class="glue-social">
+      <div class="glue-social__group">
+        <h3 class="glue-social__title glue-social__title--inline">
+          Seuraa meitä
+        </h3>
+        <ul class="glue-social__list" role="list">
+            <li class="glue-social__item">
+              <a class="glue-social__link" href="https://web.archive.org/web/20231206165039/https://www.youtube.com/googleprivacy" title="YouTube" data-click_name="youtube-footer-link.1">
+                <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--24px glue-icon--social">
+                  <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#video-youtube"></use>
+                </svg>
+              </a>
+            </li>
+        </ul>
+      </div>
+    </section>
+  </section>
+  <nav class="glue-footer__site-links">
+    <div class="glue-footer__site-links-grid glue-footer__site-links-grid--3-col">
+        <div class="glue-footer__site-links-column">
+          <h3 class="glue-footer__site-links-header">
+            <span class="glue-footer__site-links-header-button" id="column-1-toggle">
+              <span class="glue-footer__site-links-header-text">
+                Avoimuutta tukevat materiaalit
+              </span>
+              <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--footer glue-expansion-panel__header-arrow">
+                <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#expand-more"></use>
+              </svg>
+            </span>
+          </h3>
+          <div class="glue-footer__site-links-list" id="column-1-content">
+            <ul class="glue-no-bullet" role="list">
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://adstransparency.google.com/" data-click_name="ads-transparency-center.1">
+                    Ads Transparency Center
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://transparencyreport.google.com/" data-click_name="transparency-report.2">
+                    Avoimuusraportti
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </div>
+        <div class="glue-footer__site-links-column">
+          <h3 class="glue-footer__site-links-header">
+            <span class="glue-footer__site-links-header-button" id="column-2-toggle">
+              <span class="glue-footer__site-links-header-text">
+                Tietoa tuotteistamme
+              </span>
+              <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--footer glue-expansion-panel__header-arrow">
+                <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#expand-more"></use>
+              </svg>
+            </span>
+          </h3>
+          <div class="glue-footer__site-links-list" id="column-2-content">
+            <ul class="glue-no-bullet" role="list">
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://www.google.com/search/howsearchworks/" data-click_name="how-search-works.1">
+                    Miten Haku toimii
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://www.youtube.com/howyoutubeworks/" data-click_name="how-youtube-works.2">
+                    Miten YouTube toimii
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://support.google.com/" data-click_name="help-center.3">
+                    Ohjekeskus
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </div>
+        <div class="glue-footer__site-links-column">
+          <h3 class="glue-footer__site-links-header">
+            <span class="glue-footer__site-links-header-button" id="column-3-toggle">
+              <span class="glue-footer__site-links-header-text">
+                Vastuu
+              </span>
+              <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--footer glue-expansion-panel__header-arrow">
+                <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#expand-more"></use>
+              </svg>
+            </span>
+          </h3>
+          <div class="glue-footer__site-links-list" id="column-3-content">
+            <ul class="glue-no-bullet" role="list">
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://publicpolicy.google/" data-click_name="public-policy.1">
+                    Julkinen käytäntö
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://protectingchildren.google/" data-click_name="protecting-children.2">
+                    Lasten suojaaminen
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://safety.google/?utm_source=transparency.google.com&amp;utm_medium=referral&amp;utm_campaign=transparency-footer" data-click_name="safety-center.3">
+                    Turvallisuuskeskus
+                  </a>
+                </li>
+                <li class="glue-footer__site-links-list-item">
+                  <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://ai.google/responsibility/responsible-ai-practices/" data-click_name="responsible-ai.4">
+                    Vastuullinen tekoäly
+                  </a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </nav>
+  <section class="glue-footer__global">
+    <div class="glue-footer__logo">
+      <a href="https://web.archive.org/web/20231206165039/https://www.google.com/" title="Google" data-click_name="Google">
+        <svg role="presentation" aria-hidden="true" class="glue-footer__logo-img">
+          <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#google-solid-logo"></use>
+        </svg>
+      </a>
+    </div>
+    <ul class="glue-footer__global-links glue-no-bullet" role="list">
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://about.google/" aria-label="Tietoa Googlesta" data-click_name="about-google.1">
+            Tietoa Googlesta
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://about.google/products/" aria-label="Google-tuotelinkki" data-click_name="google-products.2">
+            Googlen tuotteet
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://policies.google.com/privacy" aria-label="Tietosuoja" data-click_name="privacy.3">
+            Tietosuoja
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://policies.google.com/terms" aria-label="Ehdot" data-click_name="terms.4">
+            Ehdot
+          </a>
+        </li>
+      <li aria-hidden="true" class="glue-footer__global-links-list-item">
+        <button aria-hidden="true" class="glue-footer__link glue-cookie-notification-bar-control"></button>
+      </li>
+    </ul>
+
+    <ul class="glue-footer__global-links glue-footer__global-links--extra glue-no-bullet" role="list">
+      <li class="glue-footer__global-links-list-item glue-footer__global-links-list-item--extra">
+        <a class="glue-footer__link" href="https://web.archive.org/web/20231206165039/https://support.google.com/" aria-label="Ohjeet" data-click_name="help">
+          <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--24px glue-icon--footer-help">
+            <use xlink:href="/web/20231206165039im_/https://transparency.google/static/glue-icons.svg?cache=6bdf286#help"></use>
+          </svg>
+          Ohjeet
+        </a>
+      </li>
+        <li>
+<div class="language-selector">
+        <a class="language-selector--lang" href="/web/20231206165039/https://transparency.google/intl/sv_fi/">
+          Svenska
+        </a>
+</div>        </li>
+    </ul>
+  </section>
+</footer>
+    <script src="/web/20231206165039js_/https://transparency.google/static/index.min.js?cache=2160b90" nonce="6_phk3Rcqr8EdpxLeTdZuw"></script>
+    <script src="https://web.archive.org/web/20231206165039js_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js" data-glue-cookie-notification-bar-autoload="true" data-glue-cookie-notification-bar-category="2A" data-glue-cookie-notification-bar-site-id="transparency.google" nonce="6_phk3Rcqr8EdpxLeTdZuw">
+    </script>
+  </body>
+</html><!--
+     FILE ARCHIVED ON 16:50:39 Dec 06, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:10:52 Mar 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.071
+  exclusion.robots.policy: 0.06
+  cdx.remote: 0.096
+  esindex: 0.008
+  LoadShardBlock: 343.341 (6)
+  PetaboxLoader3.datanode: 205.519 (7)
+  load_resource: 70.471
+  PetaboxLoader3.resolve: 32.571
+-->

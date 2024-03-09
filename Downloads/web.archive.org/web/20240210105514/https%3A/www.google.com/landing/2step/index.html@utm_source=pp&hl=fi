@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+
+<html lang="fi" scs-locale="fi_ALL" kcs-locale="fi_ALL" path="/authentication/">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://safety.google/authentication/?utm_source=pp&amp;hl=fi","20221212070159","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1670828519");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>Todennus – Googlen turvallisuuskeskus</title>
+    <meta name="referrer" content="no-referrer"/>
+    <meta name="description" content=""/>
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Todennus – Googlen turvallisuuskeskus">
+    <meta property="og:image" content="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/cw-Y1uqHm3JCBXcrG69bYgv_sRKSrhMJ-Wn3QfWG4m9QUkcyK6GKeSisDgfN66Fk6afJPQFmt16rA44fbJpebh5ygQzsxs6eydI2LE9OwHoYF-lNeQ=w1200-l80-sg-rj">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://web.archive.org/web/20221212070159/https://safety.google/authentication/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@google">
+    <meta name="twitter:title" content="Todennus – Googlen turvallisuuskeskus">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/cw-Y1uqHm3JCBXcrG69bYgv_sRKSrhMJ-Wn3QfWG4m9QUkcyK6GKeSisDgfN66Fk6afJPQFmt16rA44fbJpebh5ygQzsxs6eydI2LE9OwHoYF-lNeQ=w1200-l80-sg-rj">
+    <script nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'experiments': '',
+        'originalLocation': window.location.href,
+        'pagePath': window.location.pathname,
+      });
+
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js',locale_fallback:(document.childNodes[1].attributes['scs-locale'] || {}).value});
+      var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://web.archive.org/web/20221212070159/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQZFTC9');
+    </script>
+
+
+<link rel="canonical" href="https://web.archive.org/web/20221212070159/https://safety.google/intl/fi/authentication/">    <link rel="preconnect" href="https://web.archive.org/web/20221212070159/https://www.gstatic.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20221212070159/https://csp.withgoogle.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20221212070159/https://www.googletagmanager.com/">
+    <link rel="preconnect" href="https://web.archive.org/web/20221212070159/https://fonts.gstatic.com/">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://web.archive.org/web/20221212070159im_/https://storage.googleapis.com/operating-anagram-8280/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://web.archive.org/web/20221212070159im_/https://storage.googleapis.com/operating-anagram-8280/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://web.archive.org/web/20221212070159im_/https://storage.googleapis.com/operating-anagram-8280/favicon-16x16.png">
+    <link rel="shortcut icon" href="https://web.archive.org/web/20221212070159im_/https://storage.googleapis.com/operating-anagram-8280/favicon.ico">
+    <link rel="stylesheet" href="//web.archive.org/web/20221212070159cs_/https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Google+Sans:400,500|Product+Sans:400&amp;lang=en&amp;display=swap" nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+    <link href="/web/20221212070159cs_/https://safety.google/static-2020/css/index.min.css?cache=6374cea" rel="stylesheet" nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+    <script src="/web/20221212070159js_/https://safety.google/static-2020/js/detect.min.js?cache=722d5cb" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+<script type="application/ld+json" nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+  {"@context":"https://web.archive.org/web/20221212070159/https://schema.org",
+"@type":"Organization",
+"logo":"https://web.archive.org/web/20221212070159/https://lh3.googleusercontent.com/cw-Y1uqHm3JCBXcrG69bYgv_sRKSrhMJ-Wn3QfWG4m9QUkcyK6GKeSisDgfN66Fk6afJPQFmt16rA44fbJpebh5ygQzsxs6eydI2LE9OwHoYF-lNeQ",
+"url":"https://web.archive.org/web/20221212070159/https://safety.google/authentication/"}
+</script>
+
+
+
+  <script type="application/ld+json" nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+    {"@context":"https://web.archive.org/web/20221212070159/https://schema.org/",
+"@type":"BreadcrumbList",
+"itemListElement":[{"@type":"ListItem",
+"item":"https://web.archive.org/web/20221212070159/https://safety.google/security-privacy/",
+"name":"Tietoturva ja yksityisyys",
+"position":1},
+{"@type":"ListItem",
+"item":"https://web.archive.org/web/20221212070159/https://safety.google/security/built-in-protection/",
+"name":"Sis\u00e4\u00e4nrakennettu tietoturva",
+"position":2},
+{"@type":"ListItem",
+"item":"https://web.archive.org/web/20221212070159/https://safety.google/authentication/",
+"name":"Todennus",
+"position":3}]}
+  </script>
+
+  </head>
+
+  <body class="glue-body">
+    <noscript><iframe src="https://web.archive.org/web/20221212070159if_/https://www.googletagmanager.com/ns.html?id=GTM-KQZFTC9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header class="glue-header glue-header--single
+    glue-header-options='{" drawer": "true", "stepped_nav": "true"}'>
+  <div id="glue-drawer" class="glue-header__bar glue-header__bar--mobile header">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__hamburger glue-header__hamburger--first-tier">
+            <div class="glue-header__hamburger-wrapper">
+              <button type="button" class="glue-header__drawer-toggle-btn" aria-controls="glue-drawer" aria-expanded="false" aria-label="Avaa navigoinnin vetopaneeli">
+                <svg alt="" role="img" class="glue-icon glue-icon--24px">
+                  <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#menu"></use>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="/web/20221212070159/https://safety.google/" title="Google">
+              <div class="glue-header__logo-container">
+                <svg alt="" role="img" aria-hidden="true" class="glue-header__logo-svg">
+                  <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-color-logo"></use>
+                </svg>
+              </div>
+              <p class="glue-header__logo--product">Turvallisuuskeskus</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="glue-header__bar glue-header__bar--desktop glue-header__drawer" role="dialog" tabindex="0">
+    <div class="glue-header__tier">
+      <div class="glue-header__container">
+        <div class="glue-header__lock-up">
+          <div class="glue-header__logo">
+            <a class="glue-header__logo-link" href="/web/20221212070159/https://safety.google/" title="Google" data-id-element="5210158144946176.a.1">
+              <div class="glue-header__logo-container">
+                <svg alt="" role="img" aria-hidden="true" class="glue-header__logo-svg">
+                  <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-color-logo"></use>
+                </svg>
+              </div>
+              <p class="glue-header__logo--product">Turvallisuuskeskus</p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="glue-header__container glue-header__container--flex-auto">
+        <nav class="glue-header__link-bar">
+          <ul id="list-1" class="glue-header__list glue-header__link-bar--arrow">
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20221212070159/https://safety.google/" aria-label="" data-id-element="5210158144946176.a.2.1">Yleistä</a>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20221212070159/https://safety.google/products/" aria-label="" data-id-element="5210158144946176.a.2.2">Tuotteitamme</a>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20221212070159/https://safety.google/security-privacy/" aria-label="" data-id-element="5210158144946176.a.2.3">Tietoturva ja yksityisyys</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/security/built-in-protection/" aria-label="Sisäänrakennettu turvallisuus" data-id-element="5210158144946176.a.3.1">Sisäänrakennettu turvallisuus</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/privacy/privacy-controls/" aria-label="Tietosuojahallinta" data-id-element="5210158144946176.a.3.2">Tietosuojahallinta</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/privacy/data/" aria-label="Datakäytännöt" data-id-element="5210158144946176.a.3.3">Datakäytännöt</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/security/security-tips/" aria-label="Turvallisuusvinkkejä" data-id-element="5210158144946176.a.3.4">Turvallisuusvinkkejä</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/privacy/ads-and-data/" aria-label="Mainokset ja data" data-id-element="5210158144946176.a.3.5">Mainokset ja data</a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20221212070159/https://safety.google/families/" aria-label="" data-id-element="5210158144946176.a.2.4">Perheturvallisuus</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/families/parental-supervision/" aria-label="Lapsilukko" data-id-element="5210158144946176.a.3.1">Lapsilukko</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/families/family-friendly-experiences/" aria-label="Kokemuksia koko perheelle" data-id-element="5210158144946176.a.3.2">Kokemuksia koko perheelle</a>
+                      </li>
+                  </ul>
+              </li>
+              <li class="glue-header__item
+">
+                <a class="glue-header__link" href="/web/20221212070159/https://safety.google/security/security-leadership/" aria-label="" data-id-element="5210158144946176.a.2.5">Johtajuus</a>
+                  <ul id="list-1" class="glue-header__list glue-header__list--nested sub-nav">
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/innovation/" aria-label="Innovaatiot" data-id-element="5210158144946176.a.3.1">Innovaatiot</a>
+                      </li>
+                      <li class="glue-header__item">
+                        <a class="glue-header__link" href="/web/20221212070159/https://safety.google/engineering-center/" aria-label="Engineering Center" data-id-element="5210158144946176.a.3.2">Engineering Center</a>
+                      </li>
+                  </ul>
+              </li>
+          </ul>
+        </nav>
+      </div>
+      <div class="glue-header__container glue-header__container--cta">
+        <div class="glue-header__cta">
+            <a href="https://web.archive.org/web/20221212070159/https://myaccount.google.com/" class="glue-button glue-button--medium-emphasis google-account-button" tabindex="0" data-id-element="5210158144946176.a.4">
+              Google-tili
+            </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="glue-header__drawer-backdrop"></div>
+</header>    <main>
+  
+  
+  <div class="modular-page">
+  
+  
+  
+
+<div class="spacer-module spacer-sm3"></div>  
+  
+<nav class="glue-breadcrumbs module-breadcrumbs glue-page fade-in fade-in-init" id="breadcrumb-authentication">
+  <ol class="glue-breadcrumbs__list list">
+        <li class="glue-breadcrumbs__item" aria-level="1">
+          <a class="glue-breadcrumbs__link" href="/web/20221212070159/https://safety.google/security-privacy/" data-id-element="/authentication/.5280441801900032.a.1">Tietoturva ja yksityisyys</a>
+          <svg alt="" role="img" class="glue-icon glue-icon--breadcrumb" alt>
+            <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#chevron-right"></use>
+          </svg>
+        </li>
+        <li class="glue-breadcrumbs__item" aria-level="2">
+          <a class="glue-breadcrumbs__link" href="/web/20221212070159/https://safety.google/security/built-in-protection/" data-id-element="/authentication/.5280441801900032.a.2">Sisäänrakennettu tietoturva</a>
+          <svg alt="" role="img" class="glue-icon glue-icon--breadcrumb" alt>
+            <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#chevron-right"></use>
+          </svg>
+        </li>
+        <li class="glue-breadcrumbs__item glue-breadcrumbs__item--active" aria-level="3">
+          Todennus
+        </li>
+  </ol>
+</nav>  
+  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+  
+
+<div class="glue-page image-module fade-in fade-in-init _image-module-authentication">
+  <div class="glue-grid">
+    <div aria-hidden="true" class="desktop-view  glue-grid__col glue-grid__col--span-12 image-module-container image-module-container-center">
+            <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/HPysYDUe2PMMggqITAn5_w2w-8nttT4yYb2fjd-9_wmWPfhpX76TtZKSHOU3ptcnfESnEL_etR8vOnlD7YRNtrejRlR6imVF-c1SOvCcsecDZtZ12wE=w96-rp, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/HPysYDUe2PMMggqITAn5_w2w-8nttT4yYb2fjd-9_wmWPfhpX76TtZKSHOU3ptcnfESnEL_etR8vOnlD7YRNtrejRlR6imVF-c1SOvCcsecDZtZ12wE=w192-rp 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/HPysYDUe2PMMggqITAn5_w2w-8nttT4yYb2fjd-9_wmWPfhpX76TtZKSHOU3ptcnfESnEL_etR8vOnlD7YRNtrejRlR6imVF-c1SOvCcsecDZtZ12wE=w96-rp" class="" loading="lazy" alt="Sininen turvakilpi, jossa on terävä kärki ja keskellä Googlen G-logo">
+  </picture>
+
+    </div>
+    <div aria-hidden="true" class="mobile-view  glue-grid__col glue-grid__col--span-12 image-module-container image-module-container-center">
+            <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/u2GsZypkeDuQE0XZ8prbFlvXSeBRteHhfp6LBXGxz2CQFzqpr_-nLvz1AGo0z7GoGojG6wOqZjfcHaQDwXfUDq1ka5Dy2dNTJW0XKKvcNPPlkC-smN8=w64-rp, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/u2GsZypkeDuQE0XZ8prbFlvXSeBRteHhfp6LBXGxz2CQFzqpr_-nLvz1AGo0z7GoGojG6wOqZjfcHaQDwXfUDq1ka5Dy2dNTJW0XKKvcNPPlkC-smN8=w128-rp 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/u2GsZypkeDuQE0XZ8prbFlvXSeBRteHhfp6LBXGxz2CQFzqpr_-nLvz1AGo0z7GoGojG6wOqZjfcHaQDwXfUDq1ka5Dy2dNTJW0XKKvcNPPlkC-smN8=w64-rp" class="" loading="lazy" alt="Sininen turvakilpi, jossa on terävä kärki ja keskellä Googlen G-logo">
+  </picture>
+
+    </div>
+  </div>
+</div>  
+  
+  
+
+<div class="spacer-module spacer-sm4"></div>  
+  
+<section class="glue-page main-hero fade-in fade-in-init">
+  <div class="glue-grid">
+    <div class="grid-item glue-grid__col glue-grid__col--span-2"></div>
+    <div class="grid-item glue-grid__col glue-grid__col--span-8">
+      <h1 class="glue-mod-text-center glue-headline glue-headline--headline-1 hero-text orphan-joiner" aria-label="Turvallisempi tapa kirjautua kaikille verkkotileille"><span>Turvallisempi tapa kirjautua</span> kaikille verkkotileille</h1>
+    </div>
+  </div>
+    <div class="glue-grid glue-mod-spacer-3-top">
+      <div class="glue-grid__col glue-grid__col--span-0-sm glue-grid__col--span-2-md glue-grid__col--span-3-lg"></div>
+      <div class="subcopy glue-headline glue-grid__col--span-4-sm glue-headline--headline-5 glue-mod-text-center
+          glue-grid__col glue-grid__col--span-8-md glue-grid__col--span-6-lg orphan-joiner">
+        <p>Kirjautuminen verkkotilille on ovi henkilökohtaisiin tietoihisi. Se on samalla myös riskitekijä, mikä tekee sen suojaamisesta tärkeää. </p>
+<p>Googleen ja sovelluksiin kirjautumisesta on tehty oletusarvoisesti turvallista. Sisäänrakennettujen työkalujen ja automaattisten suojausten ansiosta sisäänkirjautuminen on turvallista, nopeaa ja helppoa. Saat esimerkiksi ilmoituksen, kun Google-tiliäsi käytetään uudella laitteella.</p>
+      </div>
+    </div>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm7"></div>  
+  
+
+<section class="products-description-double-carousels glue-mod-spacer-5-bottom fade-in fade-in-init glue-page glue-grid _test-module">
+  <div class="glue-grid__col glue-grid__col--span-1 glue-mod-order-1-md"></div>
+  <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-2-md asset-item">
+      <div class="stack-wrapper">
+          <div class="stack-item" aria-hidden="False">
+              <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/_xaUaHeiIm9Qvo_Hq-xvtm__gLkmEHAezmPcflOQ2VCtXrrPLBuo3MdQyrCBChYZ8wKzHQWe3xuPoFYimeQ3QE5eOfOqqJTzUinLL40uYIsdOYXKwQ=w500-l90-sg-rj-c0xffffff-e30, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/_xaUaHeiIm9Qvo_Hq-xvtm__gLkmEHAezmPcflOQ2VCtXrrPLBuo3MdQyrCBChYZ8wKzHQWe3xuPoFYimeQ3QE5eOfOqqJTzUinLL40uYIsdOYXKwQ=w1000-l90-sg-rj-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/_xaUaHeiIm9Qvo_Hq-xvtm__gLkmEHAezmPcflOQ2VCtXrrPLBuo3MdQyrCBChYZ8wKzHQWe3xuPoFYimeQ3QE5eOfOqqJTzUinLL40uYIsdOYXKwQ=w500-l90-sg-rj-c0xffffff-e30" class="" loading="lazy" alt="">
+  </picture>
+
+          </div>
+          <div class="stack-item" aria-hidden="True">
+              <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/qbiIFA_hTuDP-SEM6m26xUG2QZMsVzgI-vvF41ugWqfsJQyP4yVwf1GO5bnTpwa-a1xj3_M9hY0Lcgk0hSSgFaRT17ksfruVFlSIVr2FfMMPzNoEZg=w500-l90-sg-rj-c0xffffff-e30, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/qbiIFA_hTuDP-SEM6m26xUG2QZMsVzgI-vvF41ugWqfsJQyP4yVwf1GO5bnTpwa-a1xj3_M9hY0Lcgk0hSSgFaRT17ksfruVFlSIVr2FfMMPzNoEZg=w1000-l90-sg-rj-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/qbiIFA_hTuDP-SEM6m26xUG2QZMsVzgI-vvF41ugWqfsJQyP4yVwf1GO5bnTpwa-a1xj3_M9hY0Lcgk0hSSgFaRT17ksfruVFlSIVr2FfMMPzNoEZg=w500-l90-sg-rj-c0xffffff-e30" class="" loading="lazy" alt="">
+  </picture>
+
+          </div>
+          <div class="stack-item" aria-hidden="True">
+              <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/ppbjzu4ug24DXoYfIwQErvSl067oL_S6iDwglqN1lIqcKvv96X8QONZOWbmnE72zhAcHmjIAoxKfT3RflIotM0eHzgVQDRPQS65_vrkXL19z5jq65C2_=w500-l90-sg-rj-c0xffffff-e30, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/ppbjzu4ug24DXoYfIwQErvSl067oL_S6iDwglqN1lIqcKvv96X8QONZOWbmnE72zhAcHmjIAoxKfT3RflIotM0eHzgVQDRPQS65_vrkXL19z5jq65C2_=w1000-l90-sg-rj-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/ppbjzu4ug24DXoYfIwQErvSl067oL_S6iDwglqN1lIqcKvv96X8QONZOWbmnE72zhAcHmjIAoxKfT3RflIotM0eHzgVQDRPQS65_vrkXL19z5jq65C2_=w500-l90-sg-rj-c0xffffff-e30" class="" loading="lazy" alt="">
+  </picture>
+
+          </div>
+          <div class="stack-item" aria-hidden="True">
+              <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/oSCWalxB4x4BdisHeR9M0Fiuo4BczoJevL0dI4klUU1urK9nzDbuyh1PgR3HCci_xvHsSxAfDOI9uDB4z2Mn1YYM68fE6gVGao0iYsZqAjKe3iXuBoY=w500-l90-sg-rj-c0xffffff-e30, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/oSCWalxB4x4BdisHeR9M0Fiuo4BczoJevL0dI4klUU1urK9nzDbuyh1PgR3HCci_xvHsSxAfDOI9uDB4z2Mn1YYM68fE6gVGao0iYsZqAjKe3iXuBoY=w1000-l90-sg-rj-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/oSCWalxB4x4BdisHeR9M0Fiuo4BczoJevL0dI4klUU1urK9nzDbuyh1PgR3HCci_xvHsSxAfDOI9uDB4z2Mn1YYM68fE6gVGao0iYsZqAjKe3iXuBoY=w500-l90-sg-rj-c0xffffff-e30" class="" loading="lazy" alt="">
+  </picture>
+
+          </div>
+      </div>
+  </div>
+  <div class="glue-grid__col glue-grid__col--spacingfix glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-3-md">
+      <div class="eyebrow mobile-left outside-carousel">
+        
+        SALASANOJEN YLLÄPITO
+      </div>
+
+
+<div class="glue-carousel safety-carousel until-load" data-glue-pagination="section-gallery-pagination" cyclical="False" center="False" item-count="4" start-on-item="0" group="False">
+    <div class="glue-carousel__wrap">
+      <ul class="glue-carousel__list ">
+                <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Vahvan salasanan avulla voit huolehtia turvallisuudestasi</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Vahvan ja ainutlaatuisen salasanan valinta on tärkeä osa verkkotilien henkilökohtaisten tietojen turvaamista. Suurin osa ihmisistä kertoo kuitenkin käyttävänsä samaa, heikkoa salasanaa useilla eri sivustoilla, jolloin tilit ovat haavoittuvampia.</p></div>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Googlen salasanojen ylläpito auttaa vahvojen salasanojen luomisessa</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Chromeen ja Androidiin sisäänrakennettu Googlen salasanojen ylläpito luo, tallentaa turvallisesti ja täyttää salasanat kaikille verkkotileille.</p></div>
+            <a class="glue-button glue-button--internal glue-button--low-emphasis glue-button--icon-right" href="https://web.archive.org/web/20221212070159/https://passwords.google.com/" aria-label="Ylläpidä tallennettuja salasanoja" data-id-element="/authentication/.4811270278348800.a.1.2">
+              Ylläpidä tallennettuja salasanoja
+              <svg alt="" role="img" class="glue-icon">
+                <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#open-in-new"></use>
+              </svg>
+            </a>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Automaattiset salasanavaroitukset auttavat pitämään salasanasi turvassa</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Uudet tietosuojaloukkaukset vaarantavat joka päivä miljoonia käyttäjätunnuksia ja salasanoja. Google seuraa salasanojen vaarantumista, joten jos huomaamme, että jokin tallentamasi salasana on vaarantunut tietosuojaloukkauksen yhteydessä, saat asiasta ilmoituksen automaattisesti.</p></div>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Päivitä salasanasi Google Assistantilla</h4>
+                <span class="pill">TULOSSA PIAN</span>
+            </div>
+          <div class="description mobile-left glue-body"><p>Kun salasana on vaarantunut, nopeudella on väliä. Chrome on julkaisemassa uutta pikakorjaus-ominaisuutta: Se voi ilmoittaa vaarantuneista salasanoista ja Google Assistantin avulla muuttaa ne puolestasi yhdellä napautuksella.</p></div>
+        </li>
+
+      </ul>
+    </div>
+    <div class="pagination-container">
+      <div class="glue-carousel__paginate glue-pagination-previous">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-previous data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Previous">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+          </div>
+        </button>
+      </div>
+
+      <div class="glue-carousel__paginate glue-pagination-next">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-next data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Next">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--right">
+                </div>
+          </div>
+        </button>
+      </div>
+    </div>
+      <div class="glue-carousel__navigation">
+        <ul class="glue-pagination-page-list" data-glue-pagination-page-list data-glue-pagination="section-gallery-pagination" role="tablist">
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="1">
+                0
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="2">
+                1
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="3">
+                2
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="4">
+                3
+              </button>
+            </li>
+        </ul>
+      </div>
+  </div>
+  </div>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+
+<section class="products-description-carousels glue-mod-spacer-5-bottom fade-in fade-in-init glue-page glue-grid _authentication-2-step-verification">
+  <div class="glue-grid__col glue-grid__col--span-1 glue-mod-order-1-md"></div>
+  <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-3-md asset-item">
+      <video disableremoteplayback autoplay muted loop playsinline>
+        <source src="https://web.archive.org/web/20221212070159im_/https://kstatic.googleusercontent.com/files/3835d759680ccbed374719436b402aafe6948153b402793339cc84d24dc78b3c8eb73fabfb37640fc385f18dbaade3aa9b08fd6916d3ccfe55aca4bcf6036ebb" alt="" type="video/mp4" aria-label="">
+      </video>
+  </div>
+  <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-2-md">
+      <div class="eyebrow mobile-left outside-carousel">
+        
+        Kaksivaiheinen vahvistus
+      </div>
+
+
+
+<div class="glue-carousel safety-carousel until-load" data-glue-pagination="section-gallery-pagination" cyclical="False" center="False" item-count="3" start-on-item="0" group="False">
+    <div class="glue-carousel__wrap">
+      <ul class="glue-carousel__list ">
+                <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Kaksivaiheinen vahvistus tarjoaa kirjautumiseen toisen suojaustason</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Salasanojen vaarantuminen on luultua yleisempää. Yksi parhaista tavoista suojata tili on ottaa käyttöön ylimääräinen vahvistustapa. Kaksivaiheinen vahvistus auttaa estämään tilisi luvattoman käytön edellyttämällä, että salasanan lisäämisen jälkeen käytetään toista vahvistustapaa.</p></div>
+            <a class="glue-button glue-button--internal glue-button--low-emphasis glue-button--icon-right" href="https://web.archive.org/web/20221212070159/https://myaccount.google.com/security" aria-label="Ota kaksivaiheinen vahvistus käyttöön" data-id-element="/authentication/.6482950503530496.a.1.1">
+              Ota kaksivaiheinen vahvistus käyttöön
+              <svg alt="" role="img" class="glue-icon">
+                <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#open-in-new"></use>
+              </svg>
+            </a>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Puhelinperusteisen todennuksen käyttö on helppoa ja turvallista</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Puhelimen tai muun konkreettisen todennusmenetelmän käyttö verkkotileille kirjautumisen yhteydessä on todistetusti paljon turvallisempaa kuin salasana, joka vaarantuu helposti. Tästä syystä teemme kaiken mahdollisen vaihtoehtoisten todennusmuotojen kehittämiseksi. Google-kehotteella tilisi todennetaan yhdellä napautuksella.</p></div>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Tilin suojaus on saumattomampaa kuin koskaan</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Laitteisiin rakentamamme edistynyt tietoturvateknologia, esim. Androidin suojausavaimet ja iOS:n Google Smart Lock ‑sovellus, tekee todennuksesta saumatonta ja jopa salasanan käyttöä turvallisempaa. Alamme pian rekisteröidä kaksivaiheiseen vahvistukseen automaattisesti sellaisia käyttäjiä, joiden tilitä löytyy palauttamisen puhelinnumero tai sähköpostiosoite. Tarkista tilisi <a href="https://web.archive.org/web/20221212070159/https://myaccount.google.com/security-checkup?utm_medium=safetycenter&amp;utm_source=google&amp;utm_campaign=safetycenteralwayson">tietosuojatarkistuksella</a>.</p></div>
+        </li>
+
+      </ul>
+    </div>
+    <div class="pagination-container">
+      <div class="glue-carousel__paginate glue-pagination-previous">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-previous data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Previous">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+          </div>
+        </button>
+      </div>
+
+      <div class="glue-carousel__paginate glue-pagination-next">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-next data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Next">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--right">
+                </div>
+          </div>
+        </button>
+      </div>
+    </div>
+      <div class="glue-carousel__navigation">
+        <ul class="glue-pagination-page-list" data-glue-pagination-page-list data-glue-pagination="section-gallery-pagination" role="tablist">
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="1">
+                0
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="2">
+                1
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="3">
+                2
+              </button>
+            </li>
+        </ul>
+      </div>
+  </div>
+  </div>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm6"></div>  
+  
+
+<section class="products-description-carousels glue-mod-spacer-5-bottom fade-in fade-in-init glue-page glue-grid _authentication-sing-in-with-google">
+  <div class="glue-grid__col glue-grid__col--span-1 glue-mod-order-1-md"></div>
+  <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-2-md asset-item">
+        <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/A48OWpU0UNba540r13cqjvhgZuQ_lMjE6J35HPzwPAQNUEoUqCOKuiq5mra4vgPytdUqQvoZDRGdzs5euLw5go2I-_Fqh1KISUNs1bAott6ZcTNLwos=w500-l90-sg-rj-c0xffffff-e30, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/A48OWpU0UNba540r13cqjvhgZuQ_lMjE6J35HPzwPAQNUEoUqCOKuiq5mra4vgPytdUqQvoZDRGdzs5euLw5go2I-_Fqh1KISUNs1bAott6ZcTNLwos=w1000-l90-sg-rj-c0xffffff-e30 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/A48OWpU0UNba540r13cqjvhgZuQ_lMjE6J35HPzwPAQNUEoUqCOKuiq5mra4vgPytdUqQvoZDRGdzs5euLw5go2I-_Fqh1KISUNs1bAott6ZcTNLwos=w500-l90-sg-rj-c0xffffff-e30" class="" loading="lazy" alt="">
+  </picture>
+
+  </div>
+  <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm glue-grid__col--align-middle
+      glue-mod-order-3-md">
+      <div class="eyebrow mobile-left outside-carousel">
+        
+        KIRJAUDU SISÄÄN GOOGLE-TILILLÄ
+      </div>
+
+
+
+<div class="glue-carousel safety-carousel until-load" data-glue-pagination="section-gallery-pagination" cyclical="False" center="False" item-count="3" start-on-item="0" group="False">
+    <div class="glue-carousel__wrap">
+      <ul class="glue-carousel__list ">
+                <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Turvallisempi tapa kirjautua tuttuihin sovelluksiin ja palveluihin</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Sinun ei pitäisi joutua uhraamaan verkkotilien turvallisuutta helppokäyttöisyyden takia. Google-tilin avulla voit kirjautua turvallisesti ja helposti tuhansille sivustoille ja palveluihin verkossa samalla, kun löydät läpinäkyvät tietosuoja-asetukset samasta paikasta.</p></div>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Kirjaudu missä tahansa sisään turvallisesti yhdellä napautuksella</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Googlen alan johtavat suojausominaisuudet auttavat pitämään muiden tiliesi henkilökohtaiset tiedot turvassa äärimmäisen helposti. Kirjaudu Google-tilillä ‑ominaisuus todentaa sinut erikseen jokaisessa palvelussa. Jos siis sivustolla tai palvelussa, jota käytät, tapahtuu tietosuojaloukkaus, henkilökohtaiset tietosi muilla tileillä pysyvät turvassa hakkereilta.</p></div>
+        </li>
+        <li class="card glue-carousel__item">
+            <div class="title-wrap">
+              <h4 class="title mobile-left glue-headline glue-headline--headline-4 orphan-joiner">Enemmän päätösvaltaa tileistä ja yhteyksistä</h4>
+            </div>
+          <div class="description mobile-left glue-body"><p>Voit tarkistaa ja valita, kuinka käytät Kirjaudu Google-tilillä ‑ominaisuutta, Google-tilisi kautta. Sen avulla voit ylläpitää tai peruuttaa pääsyoikeuksia mille tahansa yhdistetylle tilille yhdestä paikasta, jolloin päätösvalta pysyy sinulla.</p></div>
+            <a class="glue-button glue-button--internal glue-button--low-emphasis glue-button--icon-right" href="https://web.archive.org/web/20221212070159/https://myaccount.google.com/permissions" aria-label="Laita Kirjaudu Google-tilillä ‑ominaisuus päälle" data-id-element="/authentication/.5810563105685504.a.1.3">
+              Laita Kirjaudu Google-tilillä ‑ominaisuus päälle
+              <svg alt="" role="img" class="glue-icon">
+                <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#open-in-new"></use>
+              </svg>
+            </a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="pagination-container">
+      <div class="glue-carousel__paginate glue-pagination-previous">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-previous data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Previous">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+          </div>
+        </button>
+      </div>
+
+      <div class="glue-carousel__paginate glue-pagination-next">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-next data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Next">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--right">
+                </div>
+          </div>
+        </button>
+      </div>
+    </div>
+      <div class="glue-carousel__navigation">
+        <ul class="glue-pagination-page-list" data-glue-pagination-page-list data-glue-pagination="section-gallery-pagination" role="tablist">
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="1">
+                0
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="2">
+                1
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="3">
+                2
+              </button>
+            </li>
+        </ul>
+      </div>
+  </div>
+  </div>
+</section>  
+  
+  
+
+<div class="spacer-module spacer-sm8"></div>  
+  
+<style>
+  ._authentication-container {
+    background: linear-gradient(207deg, #F8F9FA 37.58%, #F8F9FA 56.8%);
+  }
+</style>
+<div class="_authentication-container background-containers">
+  
+
+<div class="spacer-module spacer-sm8"></div><div class="glue-grid glue-page">
+  <div class="grid-item glue-grid__col glue-grid__col--span-3 glue-grid__col--span-2-md"></div>
+  <div class="grid-item glue-grid__col glue-grid__col--span-6 glue-grid__col--span-8-md">
+    <section class="section-hero glue-rel fade-in fade-in-init _-authentication-bg-hero">
+      <span id="authentication-bg-hero" class="anchor"></span>
+      <div class="text-color-blue glue-mod-text-center mobile-alignment-center
+          glue-headline glue-headline--headline-4 font-weight-500 hero-text orphan-joiner" aria-label="Tee Google-tilistäsi turvallisempi" role="heading" aria-level="4">Tee Google-tilistäsi turvallisempi</div>
+    </section>
+  </div>
+</div>  
+
+<div class="spacer-module spacer-sm2"></div><div class="glue-page fade-in fade-in-init markdown-blocks" id="authentication-bg-description">
+  <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-3"></div>
+    <div class="glue-grid__col glue-grid__col--span-6">
+      <div class="module-markdown-block _module-markdown-block-6 glue-mod-text-center">
+        <p class="glue-body glue-grey-700 orphan-joiner mobile-alignment-center" aria-label="Suojaa Google-tiliäsi tietoturvatarkistuksella. Tämä työkalu antaa sinulle yksilöllisiä suosituksia ja toimintaohjeita, joiden avulla voit parantaa Google-tilisi turvallisuutta kohta kohdalta.">Suojaa Google-tiliäsi tietoturvatarkistuksella. Tämä työkalu antaa sinulle yksilöllisiä suosituksia ja toimintaohjeita, joiden avulla voit parantaa Google-tilisi turvallisuutta kohta kohdalta.</p>
+      </div>
+    </div>
+  </div>
+</div>  
+
+<div class="spacer-module spacer-sm2"></div><section class="call-to-actions glue-page glue-mod-text-center">
+  <a class="glue-button glue-button--medium-emphasis glue-button--icon-right" href="https://web.archive.org/web/20221212070159/https://myaccount.google.com/security-checkup?utm_medium=safetycenter&amp;utm_source=google&amp;utm_campaign=safetycenteralwayson" aria-label="Tee tarkistus" data-id-element="/authentication/.6086348626460672.a">
+    Tee tarkistus
+      <svg alt="" role="img" class="glue-icon">
+        <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#open-in-new"></use>
+      </svg>
+  </a>
+</section>  
+
+<div class="spacer-module spacer-sm8"></div></div>  
+  
+<section class="card-galleries cards-4">
+    <picture class="logo glue-mod-spacer-2-bottom">
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/eULcXXmyAjot5k424OPnSiyXJ6R3X_c_usobguhH6C0pD2SRUj39QEay4X9LlTYT8Xkm_kUNn4oWkWkz9TfZ63ef1uioUI74K5Yj1L3eQPa8h9va5g_a=w182-l90-sg-c0xffffff, https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/eULcXXmyAjot5k424OPnSiyXJ6R3X_c_usobguhH6C0pD2SRUj39QEay4X9LlTYT8Xkm_kUNn4oWkWkz9TfZ63ef1uioUI74K5Yj1L3eQPa8h9va5g_a=w364-l90-sg-c0xffffff 2x" loading="lazy">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="https://web.archive.org/web/20221212070159im_/https://lh3.googleusercontent.com/eULcXXmyAjot5k424OPnSiyXJ6R3X_c_usobguhH6C0pD2SRUj39QEay4X9LlTYT8Xkm_kUNn4oWkWkz9TfZ63ef1uioUI74K5Yj1L3eQPa8h9va5g_a=w182-l90-sg-c0xffffff" class="" loading="lazy" alt="Sininen turvakilpi, jossa on terävä kärki ja keskellä Googlen G-logo">
+  </picture>
+
+  <div class="glue-mod-text-center glue-headline glue-headline--headline-3 main-title" aria-label="Lue lisää siitä, miten suojelemme sinua verkossa.">Lue lisää siitä, miten<br/> suojelemme sinua verkossa.</div>
+  <div class="desktop glue-mod-spacer-5-top glue-mod-spacer-8-bottom">
+      <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/privacy-controls/" aria-label="Lue lisää tietosuojahallinnasta" data-id-element="/authentication/.4980330063462400.a.1.1">
+        <div class="title glue-mod-spacer-1-bottom">Tietosuojahallinta</div>
+        <div class="description">Valitse sinulle sopivat tietosuoja-asetukset.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/data/" aria-label="Lue lisää datakäytännöistä" data-id-element="/authentication/.4980330063462400.a.1.2">
+        <div class="title glue-mod-spacer-1-bottom">Datakäytännöt</div>
+        <div class="description">Lue lisää siitä, miten huolehdimme tietosuojastasi vastuullisilla datakäytännöillä.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/security/security-tips/" aria-label="Lue lisää turvallisuusvinkkejä" data-id-element="/authentication/.4980330063462400.a.1.3">
+        <div class="title glue-mod-spacer-1-bottom">Turvallisuusvinkkejä</div>
+        <div class="description">Katso vinkkejä ja parhaita käytäntöjä verkon turvalliseen käyttöön.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+      <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/ads-and-data/" aria-label="Lue lisää mainoksista ja datasta" data-id-element="/authentication/.4980330063462400.a.1.4">
+        <div class="title glue-mod-spacer-1-bottom">Mainokset ja data</div>
+        <div class="description">Lue lisää alustoillamme näkyvistä mainoksista.</div>
+        <svg alt="" role="img" aria-hidden="true" class="icon glue-icon glue-icon--arrow-forward">
+          <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+        </svg>
+      </a>
+  </div>
+  <div class="mobile glue-mod-spacer-6-bottom glue-mod-spacer-6-top">
+<div class="glue-carousel safety-carousel until-load" data-glue-pagination="section-gallery-pagination" cyclical="False" center="False" item-count="4" start-on-item="0" group="False">
+    <div class="glue-carousel__wrap">
+      <ul class="glue-carousel__list  full-item ">
+                <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/privacy-controls/" aria-label="Lue lisää tietosuojahallinnasta" data-id-element="/authentication/.4980330063462400.a.2.1">
+            <div class="title glue-mod-spacer-1-bottom">Tietosuojahallinta</div>
+            <div class="description">Valitse sinulle sopivat tietosuoja-asetukset.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/data/" aria-label="Lue lisää datakäytännöistä" data-id-element="/authentication/.4980330063462400.a.2.2">
+            <div class="title glue-mod-spacer-1-bottom">Datakäytännöt</div>
+            <div class="description">Lue lisää siitä, miten huolehdimme tietosuojastasi vastuullisilla datakäytännöillä.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/security/security-tips/" aria-label="Lue lisää turvallisuusvinkkejä" data-id-element="/authentication/.4980330063462400.a.2.3">
+            <div class="title glue-mod-spacer-1-bottom">Turvallisuusvinkkejä</div>
+            <div class="description">Katso vinkkejä ja parhaita käytäntöjä verkon turvalliseen käyttöön.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="glue-carousel__item item">
+          <a class="card glue-mod-box-shadow-2" href="/web/20221212070159/https://safety.google/privacy/ads-and-data/" aria-label="Lue lisää mainoksista ja datasta" data-id-element="/authentication/.4980330063462400.a.2.4">
+            <div class="title glue-mod-spacer-1-bottom">Mainokset ja data</div>
+            <div class="description">Lue lisää alustoillamme näkyvistä mainoksista.</div>
+            <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--arrow-forward">
+              <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#arrow-forward"></use>
+            </svg>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="pagination-container">
+      <div class="glue-carousel__paginate glue-pagination-previous">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-previous data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Previous">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+          </div>
+        </button>
+      </div>
+
+      <div class="glue-carousel__paginate glue-pagination-next">
+        <button type="button" class="glue-pagination__button" data-glue-pagination-next data-glue-pagination="section-gallery-pagination" data-glue-pagination-update-model="false" title="Next">
+          <div class="glue-carousel__paginate-wrap">
+            <div class="glue-carousel__arrow glue-carousel__arrow--right">
+                </div>
+          </div>
+        </button>
+      </div>
+    </div>
+      <div class="glue-carousel__navigation">
+        <ul class="glue-pagination-page-list" data-glue-pagination-page-list data-glue-pagination="section-gallery-pagination" role="tablist">
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="1">
+                0
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="2">
+                1
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="3">
+                2
+              </button>
+            </li>
+            <li class="glue-pagination__button-container
+                glue-pagination__page-list-button-container">
+              <button type="button" class="glue-pagination__button
+                      glue-pagination__page-list-button" role="tab" data-glue-pagination-page="4">
+                3
+              </button>
+            </li>
+        </ul>
+      </div>
+  </div>  </div>
+</section>  
+  
+<style>
+  ._legal-disclaimer {
+    background: linear-gradient(207deg, #f8f9fa 37.58%, #f8f9fa 56.8%);
+  }
+</style>
+<div class="_legal-disclaimer background-containers">
+  
+
+<div class="spacer-module spacer-sm2"></div><div class="glue-page markdown-blocks2 " id="iop-endcap-footer-disclaimer">
+  <div class="glue-grid">
+      <div class="glue-grid__col glue-grid__col--span-0"></div>
+    <div class="glue-grid__col glue-grid__col--span-12">
+      <div class="glue-mod-text-left">
+        <p><span class="glue-body glue-grey-700" style="font-size: 12px; line-height: 22px; letter-spacing: 0.2px">Kaikki tuotteet ja ominaisuudet eivät välttämättä ole saatavilla kaikkialla.</span></p>
+      </div>
+    </div>
+  </div>
+</div></div>  </div>
+    </main>
+
+<footer class="glue-footer">
+  <section class="glue-footer__global">
+    <div class="glue-footer__logo">
+      <a href="https://web.archive.org/web/20221212070159/https://www.google.com/" title="Google" class="" data-id-element="5588789090320384.a.1">
+        <svg alt="" role="img" aria-hidden="true" class="glue-footer__logo-img">
+          <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#google-solid-logo"></use>
+        </svg>
+      </a>
+    </div>
+
+    <ul class="glue-footer__global-links glue-no-bullet">
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://about.google/" data-id-element="5588789090320384.a.2.1">
+            Tietoja Googlesta
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://about.google/products/" data-id-element="5588789090320384.a.2.2">
+            Googlen tuotteet
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://policies.google.com/privacy" data-id-element="5588789090320384.a.2.3">
+            Tietosuojakäytäntö
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://policies.google.com/terms" data-id-element="5588789090320384.a.2.4">
+            Ehdot
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://security.googleblog.com/" data-id-element="5588789090320384.a.2.5">
+            Tietoturvauutiset
+          </a>
+        </li>
+        <li class="glue-footer__global-links-list-item">
+          <a class="glue-footer__link" href="/web/20221212070159/https://safety.google/principles/" data-id-element="5588789090320384.a.2.6">
+            Periaatteet
+          </a>
+        </li>
+    </ul>
+    <ul class="glue-footer__global-links glue-footer__global-links--extra
+        glue-no-bullet">
+      <li class="glue-footer__global-links-list-item
+          glue-footer__global-links-list-item--extra">
+        <a class="glue-footer__link" href="https://web.archive.org/web/20221212070159/https://support.google.com/?hl=en" aria-label="Ohje" data-id-element="5588789090320384.a.3">
+          <svg alt="" role="img" aria-hidden="true" class="glue-icon glue-icon--24px
+              glue-icon--footer-help">
+            <use xlink:href="/web/20221212070159im_/https://safety.google/static-2020/img/glue-icons.svg?cache=de92586#help"></use>
+          </svg>
+          Ohje
+        </a>
+      </li>
+    </ul>
+  </section>
+</footer>    <script src="//web.archive.org/web/20221212070159js_/https://www.gstatic.com/external_hosted/intersectionobserver_polyfill/intersection-observer.min.js" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+    <script src="https://web.archive.org/web/20221212070159js_/https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+    <script src="//web.archive.org/web/20221212070159js_/https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+    <script src="https://web.archive.org/web/20221212070159js_/https://www.gstatic.com/external_hosted/lottie/lottie.js" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+
+      <script data-autoload-cookie-consent-bar="true" data-autoload-cookie-consent-bar-intl-code="fi" src="https://web.archive.org/web/20221212070159js_/https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js" nonce="-m9Q1cm8kwVgU7sMxR7hyA">
+      </script>
+
+    <script src="/web/20221212070159js_/https://safety.google/static-2020/js/index.min.js?cache=57cf04a" nonce="-m9Q1cm8kwVgU7sMxR7hyA"></script>
+  </body>
+</html><!--
+     FILE ARCHIVED ON 07:01:59 Dec 12, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:35:00 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.064
+  cdx.remote: 0.11
+  esindex: 0.012
+  LoadShardBlock: 107.813 (6)
+  PetaboxLoader3.datanode: 111.098 (8)
+  load_resource: 740.859
+  PetaboxLoader3.resolve: 659.556
+  loaddict: 66.158
+-->

@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://home.google.com/welcome/","20231225191243","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1703531563");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>Smart home automation from Google | Google Home</title>
+    <meta charset="utf-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="title" content="Smart home automation from Google | Google Home">
+    <meta property="og:title" content="A home that knows how to help.">
+    <meta name="twitter:title" content="A home that knows how to help.">
+    <meta name="description" content="From smart lights to smart locks, Google Home unites devices and services from Google and your favorite brands to build a personalized smart home to help with your tasks.">
+    <meta property="og:description" content="Google Home unites your devices and services from Nest, plus those from your favorite brands. So you can build a personalized smart home that helps with any household task.">
+    <meta name="twitter:description" content="Google Home unites your devices and services from Nest, plus those from your favorite brands. So you can build a personalized smart home that helps with any household task.">
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:url" content="https://web.archive.org/web/20231225191243/https://home.google.com/welcome/">
+    <meta property="twitter:url" content="https://home.google.com/welcome/">
+    <meta property="og:image" content="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/tGA6Fwk8NeAz7U_Y-QE2jDoYCAyB4EUtgn6MkHTpjIF63HXtB8XH3Jg5kM87SijvvWcR8qp75qXCGJyx5SwSyNevCQopTRrXBFrJQBtt2nWSdkE6SUQ=w1200-l80-sg-rj">
+    <meta name="twitter:image" content="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/tGA6Fwk8NeAz7U_Y-QE2jDoYCAyB4EUtgn6MkHTpjIF63HXtB8XH3Jg5kM87SijvvWcR8qp75qXCGJyx5SwSyNevCQopTRrXBFrJQBtt2nWSdkE6SUQ=w1200-l80-sg-rj">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:card" content="summary">
+    <link rel="canonical" href="https://web.archive.org/web/20231225191243/https://home.google.com/welcome/">
+    <link rel="icon" href="/web/20231225191243im_/https://home.google.com/static/icons/favicon.ico?cache=2d8c4c1" type="image/x-icon">
+    <link rel="preconnect" href="https://web.archive.org/web/20231225191243/https://fonts.googleapis.com/" crossorigin/>
+    <link rel="preconnect" href="https://web.archive.org/web/20231225191243/https://fonts.gstatic.com/" crossorigin/>
+    <link rel="preload" href="https://web.archive.org/web/20231225191243/https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500|Google+Sans+Display:400|Product+Sans:400&amp;lang=en&amp;display=swap" as="style" nonce="mp-m9_qv0bNONTTxCpJV0w">
+    <link rel="stylesheet" href="https://web.archive.org/web/20231225191243cs_/https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500,700,400i,500i,700i|Google+Sans:400,500|Google+Sans+Display:400|Product+Sans:400&amp;lang=en&amp;display=swap" nonce="mp-m9_qv0bNONTTxCpJV0w">
+    <link rel="stylesheet" href="/web/20231225191243cs_/https://home.google.com/static/compiled/index.min.css?cache=906cec0" nonce="mp-m9_qv0bNONTTxCpJV0w">
+    <link href="https://web.archive.org/web/20231225191243cs_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" rel="stylesheet" nonce="mp-m9_qv0bNONTTxCpJV0w">
+    <script nonce="mp-m9_qv0bNONTTxCpJV0w">
+        function glueCookieNotificationBarLoaded() {
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://web.archive.org/web/20231225191243/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-M42X8BW');
+        }
+      </script>
+  </head>
+  <body class="glue-body glue-font-smoothing bracket-body body--ALL_ALL">
+    <noscript>
+      <iframe src="https://web.archive.org/web/20231225191243if_/https://www.googletagmanager.com/ns.html?id=GTM-M42X8BW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script src="https://web.archive.org/web/20231225191243js_/https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js" data-component="cookieBanner" data-glue-cookie-notification-bar-category="2B" data-glue-cookie-notification-bar-site-id="home.google.com" data-autoload-cookie-consent-bar="true" data-glue-cookie-notification-bar-language="en" nonce="mp-m9_qv0bNONTTxCpJV0w">
+</script>
+    <header data-component="header" class="glue-header glue-header--single" glue-header-options="{&quot;drawer&quot;: &quot;true&quot;, &quot;hideOnScroll&quot;: &quot;true&quot;, &quot;steppedNav&quot;: &quot;false&quot;}">
+      <div id="glue-drawer" class="glue-header__bar glue-header__bar--desktop
+      glue-header__drawer">
+        <div class="glue-header__tier">
+          <div class="glue-header__container">
+            <div class="glue-header__lock-up">
+              <a href="#page" class="glue-header__skip-content">
+                <p class="glue-header__skip-content-text">Jump to Content</p>
+              </a>
+              <div class="glue-header__logo">
+                <a class="glue-header__logo-link" href="/web/20231225191243/https://home.google.com/welcome/" title="Google Home" aria-label="Google Logo" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                &quot;module_name&quot;: &quot;welcome logo&quot;,
+                &quot;click_text&quot;: &quot;welcome logo&quot;,
+                &quot;link_url&quot;: &quot;https://home.google.com/welcome/&quot;}">
+                  <div class="glue-header__logo-container">
+                    <svg role="img" aria-hidden="true" class="glue-header__logo-svg" alt="Google Logo">
+                      <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#logo"></use>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="glue-header__container glue-header__nav glue-header__container--flex-auto">
+            <nav class="glue-header__link-bar">
+              <ul id="list-1" class="glue-header__list">
+                <li class="glue-header__item
+                     glue-header__item--active" data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                    &quot;module_name&quot;: &quot;main nav&quot;,
+                    &quot;click_text&quot;: &quot;Welcome&quot;,
+                    &quot;link_url&quot;: &quot;/welcome/&quot;}">
+                  <a class="glue-header__link" tabindex="0" href="/web/20231225191243/https://home.google.com/welcome/">
+                    Welcome</a>
+                </li>
+                <li class="glue-header__item
+                    " data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                    &quot;module_name&quot;: &quot;main nav&quot;,
+                    &quot;click_text&quot;: &quot;The latest&quot;,
+                    &quot;link_url&quot;: &quot;/the-latest/&quot;}">
+                  <a class="glue-header__link" tabindex="0" href="/web/20231225191243/https://home.google.com/the-latest/">
+                    The latest</a>
+                </li>
+                <li class="glue-header__item
+                    " data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                    &quot;module_name&quot;: &quot;main nav&quot;,
+                    &quot;click_text&quot;: &quot;What is Google Home&quot;,
+                    &quot;link_url&quot;: &quot;/what-is-google-home/&quot;}">
+                  <a class="glue-header__link" tabindex="0" href="/web/20231225191243/https://home.google.com/what-is-google-home/">
+                    What is Google Home</a>
+                </li>
+                <li class="glue-header__item
+                    " data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                    &quot;module_name&quot;: &quot;main nav&quot;,
+                    &quot;click_text&quot;: &quot;Get inspired&quot;,
+                    &quot;link_url&quot;: &quot;/get-inspired/&quot;}">
+                  <a class="glue-header__link" tabindex="0" href="/web/20231225191243/https://home.google.com/get-inspired/">
+                    Get inspired</a>
+                </li>
+                <li class="glue-header__item
+                    " data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                    &quot;module_name&quot;: &quot;main nav&quot;,
+                    &quot;click_text&quot;: &quot;Explore devices&quot;,
+                    &quot;link_url&quot;: &quot;/explore-devices/&quot;}">
+                  <a class="glue-header__link" tabindex="0" href="/web/20231225191243/https://home.google.com/explore-devices/">
+                    Explore devices</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="glue-header__container glue-header__container--cta">
+            <div class="glue-header__cta">
+              <button aria-hidden="false" aria-label="Go to Google Home. " data-target="/login" data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;header_cta_click&quot;,
+        &quot;link_type&quot;: &quot;internal&quot;,
+        &quot;link_url&quot;: &quot;https://home.google.com/login&quot;,
+        &quot;click_text&quot;: &quot;Go to Google Home&quot;}" class="rhea__button glue-button rhea__button glue-button--high-emphasis
+        glue-button--icon is-desktop" tabindex="0">Go to Google Home</button>
+              <button aria-hidden="false" aria-label="Get the Google Home app. " data-target="/get-app/" data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;header_cta_click&quot;,
+        &quot;link_type&quot;: &quot;internal&quot;,
+        &quot;link_url&quot;: &quot;https://home.google.com/get-app/&quot;,
+        &quot;click_text&quot;: &quot;Get the Google Home app&quot;}" class="rhea__button glue-button rhea__button glue-button--high-emphasis
+        glue-button--icon is-tablet" tabindex="0">Get the Google Home app</button>
+              <button aria-hidden="false" aria-label="Go to Google Home. " data-target="/login" data-auto-analytics="false" data-analytics="{&quot;event&quot;: &quot;header_cta_click&quot;,
+        &quot;link_type&quot;: &quot;internal&quot;,
+        &quot;link_url&quot;: &quot;https://home.google.com/login&quot;,
+        &quot;click_text&quot;: &quot;Go to Google Home&quot;}" class="rhea__button glue-button rhea__button glue-button--medium-emphasis
+        glue-button--icon is-tablet" tabindex="0">Go to Google Home</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="glue-header__bar glue-header__bar--mobile">
+        <div class="glue-header__tier">
+          <div class="glue-header__container">
+            <div class="glue-header__lock-up">
+              <div class="glue-header__hamburger glue-header__hamburger--first-tier">
+                <div class="glue-header__hamburger-wrapper">
+                  <button type="button" class="glue-header__drawer-toggle-btn" aria-controls="glue-drawer" aria-expanded="false" aria-label="Open Navigation" data-analytics="{&quot;event&quot;: &quot;mobile_nav_open&quot;,
+                  &quot;module_name&quot;: &quot;mobile nav&quot;,
+                  &quot;link_url&quot;: &quot;#&quot;}">
+                    <svg role="img" class="glue-icon glue-icon--24px" alt="Menu">
+                      <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/glue-icons.svg?cache=cc5b33f#menu"></use>
+                    </svg>
+                  </button>
+                </div>
+              </div>
+              <div class="glue-header__logo">
+                <a class="glue-header__logo-link" href="/web/20231225191243/https://home.google.com/welcome/" title="Google Home" aria-label="Google Logo" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+                &quot;module_name&quot;: &quot;welcome logo&quot;,
+                &quot;click_text&quot;: &quot;welcome logo&quot;,
+                &quot;link_url&quot;: &quot;https://home.google.com/welcome/&quot;}">
+                  <div class="glue-header__logo-container">
+                    <svg role="img" aria-hidden="true" class="glue-header__logo-svg" alt="Google Logo">
+                      <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#logo">
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="glue-header__drawer-backdrop"></div>
+    </header>
+    <main id="page" class="main page page--welcome" tabindex="-1">
+      <section class="hero-component       hero-component--ALL_ALL" data-component="hero" data-header="A home that" data-module-name="Hero Module">
+        <div class="hero-component__content glue-grid">
+          <div class="glue-grid__col glue-grid__col--span-3 glue-grid__col--span-5-md glue-grid__col--span-3-sm hero-component__logo
+            animates-in">
+            <picture class="home-logo" aria-label="Google Home logo" role="presentation" aria-hidden="true">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w7680-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w3840-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w2880-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w2048-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1600-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w720-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w7680-v1-e360 2x">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w3840-v1-e360 2x">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w2880-v1-e360 2x">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w2048-v1-e360 2x">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w1600-v1-e360 2x">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo=w720-v1-e360 2x">
+              <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/czDi_vzMvLsev6rF1dBLJ7qk1hb5FijaAkG8hdgKjQ2SEbEbBsw0dI7_c4mYDoAZm0okpNGKvNmt99OYFx7a9XPzBnjSPKT6eZwko-K_ASJSJgjSxAo" alt="Google Home logo" draggable="false" height="50.0" width="294.0">
+            </picture>
+          </div>
+          <div class="glue-grid__col glue-grid__col--span-9 glue-grid__col--span-7-md glue-grid__col--span-1-sm"></div>
+          <div class="glue-grid__col glue-grid__col--span-7 glue-grid__col--span-4-sm hero-component__title hc-header animates-in" aria-label="A home that takes care of tasks. A home that lights your way. A home that knows how to help." role="heading" aria-level="1">
+            <h1 class="hc-header__static-title" aria-hidden="true">
+              A home that
+            </h1>
+            <div class="hc-header__dynamic-title">
+              <h1 class="hc-header__dynamic-title-item " aria-hidden="true">
+                takes care of tasks.
+              </h1>
+              <h1 class="hc-header__dynamic-title-item hc-header__dynamic-title-item--hidden" aria-hidden="true">
+                lights your way.
+              </h1>
+              <h1 class="hc-header__dynamic-title-item hc-header__dynamic-title-item--hidden" aria-hidden="true">
+                knows how to help.
+              </h1>
+            </div>
+          </div>
+          <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm hero-component__top-image" role="presentation" aria-hidden="true">
+            <picture class="top-image" aria-label="A little girl standing on a couch to help a smiling woman put her hair up with a barrette." role="presentation" aria-hidden="true">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w7680-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w3840-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w2880-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w2048-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1600-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w720-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w7680-v1-e360 2x">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w3840-v1-e360 2x">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w2880-v1-e360 2x">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w2048-v1-e360 2x">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w1600-v1-e360 2x">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4=w720-v1-e360 2x">
+              <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/sUQjdAREftk06P1Jg_utcCHjMk_PlgAon7hQ1H54LXi3dHIHUsg4GoTtNZ4jPJuptlaPZ0J3a4TZ9pbWoh-fKcIf0GkYw78_1QlWq0KMXP8gPGBywa4" alt="A little girl standing on a couch to help a smiling woman put her hair up with a barrette." draggable="false" height="343.0" width="302.0">
+            </picture>
+          </div>
+          <div class="glue-grid__col glue-grid__col--span-5 glue-grid__col--span-4-sm hero-component__bottom-image" role="presentation" aria-hidden="true">
+            <picture class="bottom-image" aria-label="People talking in the kitchen" role="presentation" aria-hidden="true">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w7680-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w3840-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w2880-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w2048-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1600-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w720-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w7680-v1-e360 2x">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w3840-v1-e360 2x">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w2880-v1-e360 2x">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w2048-v1-e360 2x">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w1600-v1-e360 2x">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_=w720-v1-e360 2x">
+              <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/HnP4rkMQjWjdAi2diNh_pgHBj7WrBf5qLX6aeMSrDaK0TSya7lNF6WN7diJhyg62Q68uGJIWEUswd9_MREhtdSMVfUervOMymOYO1iDcUh4c5f7sMeh_" alt="People talking in the kitchen" draggable="false" height="343.0" width="302.0">
+            </picture>
+          </div>
+          <div class="glue-grid__col glue-grid__col--span-5-xl glue-grid__col--span-4-lg glue-grid__col--span-6-md glue-grid__col--span-4-sm hero-component__description">
+            <p>From smart lights to smart locks, Google Home unites devices and services from Google and your favorite brands to build a personalized smart home to help with your tasks.</p>
+          </div>
+        </div>
+        <div class="hero-component__scroll-container">
+          <div class="scroll-trigger"></div>
+          <div class="scroll-trigger"></div>
+        </div>
+      </section>
+      <section data-component="cardCarousel" class="card-carousel glue-grid 
+    card-carousel--is-regular
+     card-carousel--no-desc" aria-label="Informative Carousel" data-header="Discover the latest from Google Home." data-module-name="Card Carousel Module">
+        <h2 class="card-carousel__title glue-grid__col--span-12 glue-grid__col--span-4-sm animates-in">
+          Discover the latest from Google Home.
+        </h2>
+        <div class="glue-carousel glue-grid__col--span-12 glue-grid__col--span-4-sm" data-is-variant="False">
+          <button class="glue-carousel__button glue-carousel__button--prev" aria-label="Previous Slide" data-auto-analytics="false" data-analytics="{
+          &quot;event&quot;: &quot;carousel_scroll_click&quot;,
+          &quot;module_name&quot;: &quot;Card Carousel Module&quot;,
+          &quot;section_header&quot;: &quot;Discover the latest from Google Home.&quot;,
+          &quot;toggle_type_direction&quot;: &quot;arrow-left&quot;}">
+            <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+              <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/glue-icons.svg?cache=cc5b33f#chevron-left"></use>
+            </svg>
+          </button>
+          <div class="glue-carousel__viewport">
+            <div class="glue-carousel__list">
+              <div class="glue-carousel__item animates-in" id="carousel-item-1" tabindex="-1">
+                <div class="glue-card glue-card--border">
+                  <div class="glue-card__inner glue-card__inner--overflow" style="background-color:#edf0ff">
+                    <section class="card-carousel__card-content">
+                      <h3 class="card-carousel__card-title" aria-label="Item # of #" style="color:#202124">
+                        Your smart home just got even smarter. Explore the latest updates.
+                      </h3>
+                      <p class="card-carousel__card-text" style="color:#202124">
+                        Your smart home just got even smarter. Explore the latest updates.
+                      </p>
+                      <a aria-hidden="false" aria-label="Learn more about the newest features available for Google Home." role="link" class="rhea__cta
+         glue-button glue-button--medium-emphasis
+        " href="/web/20231225191243/https://home.google.com/the-latest/" data-analytics="{&quot;module_name&quot;: &quot;Card Carousel Module&quot;,
+          &quot;event&quot;: &quot;carousel_cta_click&quot;,
+          &quot;link_url&quot;: &quot;https://home.google.com/the-latest/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Learn more&quot;,
+          &quot;section_header&quot;: &quot;Discover the latest from Google Home.&quot;,
+          &quot;position&quot;: &quot;1&quot;}" tabindex="-1">
+                        <span class="rhea__cta__label">
+                          Learn more
+                        </span>
+                      </a>
+                    </section>
+                    <picture class="card-carousel__card-picture" aria-label="The Google Home app displays camera views on a mobile device." role="presentation" aria-hidden="true">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w7680-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w3840-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w2880-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w2048-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1600-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w720-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w7680-v1-e360 2x">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w3840-v1-e360 2x">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w2880-v1-e360 2x">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w2048-v1-e360 2x">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w1600-v1-e360 2x">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc=w720-v1-e360 2x">
+                      <img class="card-carousel__card-img" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/VLJJhvjKXaHfE54sqSP6lUOaVQl5nhc0CDyDCV1Ifx2DCnd68_Kulcci2xnBsFBcLf73BDvWvWvp8ybWLDVY-nXc3juAjCFPnKXIzCyWDt_rReBxI2Tc" alt="The Google Home app displays camera views on a mobile device." draggable="false" height="651.0" width="437.0">
+                    </picture>
+                  </div>
+                </div>
+              </div>
+              <div class="glue-carousel__item animates-in" id="carousel-item-2" tabindex="-1">
+                <div class="glue-card glue-card--border">
+                  <div class="glue-card__inner glue-card__inner--blue glue-card__inner--overflow full-image" style="background-color:#fef7e0">
+                    <section class="card-carousel__card-content">
+                      <h3 class="card-carousel__card-title" aria-label="Item # of #" style="color:#202124">
+                        Learn how Matter simplifies your smart home.
+                      </h3>
+                      <p class="card-carousel__card-text" style="color:#202124">
+                        Learn how Matter simplifies your smart home.
+                      </p>
+                      <a aria-hidden="false" aria-label="Learn more about Matter for Google Home." role="link" class="rhea__cta
+         glue-button glue-button--medium-emphasis
+        " href="/web/20231225191243/https://home.google.com/get-inspired/matter-and-thread/" data-analytics="{&quot;module_name&quot;: &quot;Card Carousel Module&quot;,
+          &quot;event&quot;: &quot;carousel_cta_click&quot;,
+          &quot;link_url&quot;: &quot;https://home.google.com/get-inspired/matter-and-thread/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Learn more&quot;,
+          &quot;section_header&quot;: &quot;Discover the latest from Google Home.&quot;,
+          &quot;position&quot;: &quot;2&quot;}" tabindex="-1">
+                        <span class="rhea__cta__label">
+                          Learn more
+                        </span>
+                      </a>
+                    </section>
+                    <picture class="card-carousel__card-picture" aria-label="Smart devices are displayed with the Matter logo." role="presentation" aria-hidden="true">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w7680-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w3840-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w2880-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w2048-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1600-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w720-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w7680-v1-e360 2x">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w3840-v1-e360 2x">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w2880-v1-e360 2x">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w2048-v1-e360 2x">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w1600-v1-e360 2x">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM=w720-v1-e360 2x">
+                      <img class="card-carousel__card-img" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/D1g_8joH_jMYEC8PakeN5ZueCWm9Z6Bm-Cw91bwMfbKxPzCuzw4cpBVtioxaESkPjY36717A2pToxli7xhEq1vAg4prxpxXAsseH8QyDS6kS4TYuXCM" alt="Smart devices are displayed with the Matter logo." draggable="false" height="251.0" width="203.0">
+                    </picture>
+                  </div>
+                </div>
+              </div>
+              <div class="glue-carousel__item animates-in" id="carousel-item-3" tabindex="-1">
+                <div class="glue-card glue-card--border">
+                  <div class="glue-card__inner glue-card__inner--overflow full-image" style="background-color:#e1f6de">
+                    <section class="card-carousel__card-content">
+                      <h3 class="card-carousel__card-title" aria-label="Item # of #">
+                        Join the Public Preview to try new Google Home app features early.
+                      </h3>
+                      <p class="card-carousel__card-text">
+                        Join the Public Preview to try new Google Home app features early.
+                      </p>
+                      <a aria-hidden="false" aria-label="Find out how to try new Google Home app features early." role="link" class="rhea__cta
+         glue-button glue-button--medium-emphasis
+        " href="/web/20231225191243/https://home.google.com/the-latest/#try-new-features-and-updates" data-analytics="{&quot;module_name&quot;: &quot;Card Carousel Module&quot;,
+          &quot;event&quot;: &quot;carousel_cta_click&quot;,
+          &quot;link_url&quot;: &quot;https://home.google.com/the-latest/#try-new-features-and-updates&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Learn more&quot;,
+          &quot;section_header&quot;: &quot;Discover the latest from Google Home.&quot;,
+          &quot;position&quot;: &quot;3&quot;}" tabindex="-1">
+                        <span class="rhea__cta__label">
+                          Learn more
+                        </span>
+                      </a>
+                    </section>
+                    <picture class="card-carousel__card-picture" aria-label="A person stands in a kitchen looking down at a smartphone." role="presentation" aria-hidden="true">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w7680-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w3840-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w2880-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w2048-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1600-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w720-v1-rw-e360 2x" type="image/webp">
+                      <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w7680-v1-e360 2x">
+                      <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w3840-v1-e360 2x">
+                      <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w2880-v1-e360 2x">
+                      <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w2048-v1-e360 2x">
+                      <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w1600-v1-e360 2x">
+                      <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc=w720-v1-e360 2x">
+                      <img class="card-carousel__card-img" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/h6XdYPk96sRen241u13Kg6eYKx7DpeKO5s9JwCq55Ac4xS1BW_KXAbIi5MaIgKT-UPc6RB5gDGUSuqMLWu0BcXU2ZevepeF_WyCMt6AAHHFku5adtyc" alt="A person stands in a kitchen looking down at a smartphone." draggable="false" height="251.0" width="203.0">
+                    </picture>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button class="glue-carousel__button glue-carousel__button--next" aria-label="Next Slide" data-auto-analytics="false" data-analytics="{
+        &quot;event&quot;: &quot;carousel_scroll_click&quot;,
+        &quot;module_name&quot;: &quot;Card Carousel Module&quot;,
+        &quot;section_header&quot;: &quot;Discover the latest from Google Home.&quot;,
+        &quot;toggle_type_direction&quot;: &quot;arrow-right&quot;}">
+            <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+              <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/glue-icons.svg?cache=cc5b33f#chevron-right"></use>
+            </svg>
+          </button>
+          <ul class="glue-carousel__navigation animates-in" aria-label="Choose slide to display"></ul>
+          <div aria-atomic="true" role="alert" aria-live="polite" class="card-carousel__live-region card-carousel__invisible"></div>
+        </div>
+      </section>
+      <section class="glue-grid works-with-google" aria-label="Product categories" data-header="Helpful devices for your entire home." data-module-name="Works with Google Module">
+        <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-2-md glue-grid__col--span-2-lg"></div>
+        <div class="works-with-google__header glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-8-md glue-grid__col--span-8-lg
+        glue-grid__col--span-10-md glue-grid__col--span-10-lg rhea-grid__col--start-1-md">
+          <div class="animates-in works-with-google__badges">
+            <picture class="top-logo" aria-label="Works with Google Home badge" role="presentation" aria-hidden="true">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w7680-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w3840-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w2880-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w2048-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1600-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w720-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w7680-v1-e360 2x">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w3840-v1-e360 2x">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w2880-v1-e360 2x">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w2048-v1-e360 2x">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w1600-v1-e360 2x">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs=w720-v1-e360 2x">
+              <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/YRew0nnxt6BN4F2rP6-SC9VlJj1V8TUEKF4Qim_eYkmX2OK7dRzH8lZvWwZ5LphSD5mBisLVMykRzjcAdzkogXidfT5uTRwHTKpFsUuXhCh1GdvYWNs" alt="Works with Google Home badge" draggable="false" height="96.0" width="314.0">
+            </picture>
+            <picture class="top-logo" aria-label="Matter badge" role="presentation" aria-hidden="true">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w7680-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w3840-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w2880-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w2048-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1600-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w720-v1-rw-e360 2x" type="image/webp">
+              <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w7680-v1-e360 2x">
+              <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w3840-v1-e360 2x">
+              <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w2880-v1-e360 2x">
+              <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w2048-v1-e360 2x">
+              <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w1600-v1-e360 2x">
+              <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114=w720-v1-e360 2x">
+              <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/v9iBNh_IAiXhg75AOJiwFZSjWdO9xJNS6V5271MpH-0jlE6MSLjTQDU7oOskX3vwkwZImLzYHxmRiXG4y_z81cDMq9z-TGmdKOOEB0-LB7LfMvEs114" alt="Matter badge" draggable="false" height="48.0" width="157.0">
+            </picture>
+          </div>
+          <h2 class="title animates-in">Helpful devices for your entire home.</h2>
+          <p class="description animates-in">With Google Home, your Google and Matter devices work together reliably to help around your home. Just look for smart devices with a Works with Google Home or Matter badge.</p>
+          <div class="animates-in">
+            <a aria-hidden="false" aria-label="Links to the explore devices page" role="link" class="rhea__cta
+         glue-button glue-button--high-emphasis
+        " href="/web/20231225191243/https://home.google.com/explore-devices/" data-analytics="{&quot;module_name&quot;: &quot;Works with Google Module&quot;,
+          &quot;event&quot;: &quot;works_with_google_cta_click&quot;,
+          &quot;link_url&quot;: &quot;https://home.google.com/explore-devices/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Shop devices&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;position&quot;: &quot;&quot;}" tabindex="0">
+              <span class="rhea__cta__label">
+                Shop devices
+              </span>
+            </a>
+          </div>
+        </div>
+        <div class="glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-2-md glue-grid__col--span-2-lg"></div>
+        <div class="works-with-google__category-list glue-grid__col glue-grid__col--span-4-sm glue-grid__col--span-12-md">
+          <div class="category-list__wrapper">
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/featured-devices/" aria-label="Featured devices" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Featured devices&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/featured-devices/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Featured devices&quot;}">
+                <div class="icon icon--grey icon--devices">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#devices"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Featured devices<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/lighting-and-plugs/" aria-label="Lighting and Plugs" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Lighting and Plugs&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/lighting-and-plugs/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Lighting and Plugs&quot;}">
+                <div class="icon icon--grey icon--lighting">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#lighting"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Lighting and Plugs<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/climate-and-energy/" aria-label="Climate and Energy" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Climate and Energy&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/climate-and-energy/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Climate and Energy&quot;}">
+                <div class="icon icon--grey icon--energy">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#energy"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Climate and Energy<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/security-and-awareness/" aria-label="Security and Awareness" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Security and Awareness&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/security-and-awareness/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Security and Awareness&quot;}">
+                <div class="icon icon--grey icon--security">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#security"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Security and Awareness<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/entertainment/" aria-label="Entertainment" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Entertainment&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/entertainment/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Entertainment&quot;}">
+                <div class="icon icon--grey icon--entertainment">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#entertainment"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Entertainment<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="text-icon-link category-list-item animates-in category-list-item--en_us">
+              <a class="text-icon-link__link" href="/web/20231225191243/https://home.google.com/explore-devices/appliances-and-more/" aria-label="Appliances and More" data-analytics="{&quot;module_name&quot;: &quot;Product categories&quot;,
+          &quot;event&quot;: &quot;product_categories_click&quot;,
+          &quot;section_header&quot;: &quot;Helpful devices for your entire home.&quot;,
+          &quot;item_list_name&quot;: &quot;Appliances and More&quot;,
+          &quot;link_url&quot;: &quot;/explore-devices/appliances-and-more/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Appliances and More&quot;}">
+                <div class="icon icon--grey icon--appliances">
+                  <svg role="presentation" aria-hidden="true" class="glue-icon glue-icon--32px">
+                    <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/google-icons.svg?cache=b6b6da1#appliances"></use>
+                  </svg>
+                </div>
+                <span class="text-icon-link__cta">
+                  Appliances and More<svg class="chevron-right glue-icon glue-icon--{{ icon_link.label }}" viewbox="0 0 24 24">
+                    <path d="M7.59 18.59L9 20l8-8-8-8-1.41 1.41L14.17 12"></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="crosslink-banner rhea-grid crosslink-banner--yellow" data-header="Build your smart home, your way." data-module-name="Crosslink Module">
+        <div class="crosslink-banner__decorative-image rhea-grid__col--start-1-xl rhea-grid__col--span-6-xl">
+          <picture class="" aria-label="A person stands in a kitchen looking down at a smart device on the counter." role="presentation" aria-hidden="true">
+            <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w3840-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w7680-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1920-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w3840-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1440-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w2880-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1024-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w2048-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w800-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1600-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w360-v1-rw-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w720-v1-rw-e360 2x" type="image/webp">
+            <source media="(min-width: 3840px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w3840-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w7680-v1-e360 2x">
+            <source media="(min-width: 1920px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1920-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w3840-v1-e360 2x">
+            <source media="(min-width: 1440px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1440-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w2880-v1-e360 2x">
+            <source media="(min-width: 1024px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1024-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w2048-v1-e360 2x">
+            <source media="(min-width: 800px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w800-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w1600-v1-e360 2x">
+            <source media="(min-width: 360px)" srcset="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w360-v1-e360 1x, https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk=w720-v1-e360 2x">
+            <img class="" src="https://web.archive.org/web/20231225191243im_/https://lh3.googleusercontent.com/C8jO-Ay3cfT4N0i2oFY3zwMa62An23X6p1WDh03nTJFMiIEo_jq_CaDa5TBws58_4AgNtTNMkRp5YocB1od6EB0k9T1aep-7Meu9xNFLoe5-7f-zdRk" alt="A person stands in a kitchen looking down at a smart device on the counter." draggable="false" height="440.0" width="409.0">
+          </picture>
+        </div>
+        <div class="crosslink-banner__content rhea-grid__col--start-1-sm rhea-grid__col--span-4-sm rhea-grid__col--start-2-md rhea-grid__col--span-10-md rhea-grid__col--start-8-xl rhea-grid__col--span-5-xl will-load ">
+          <h2 class="crosslink-banner__title  crosslink-banner__title--yellow animates-in"> Build your smart home, your way.</h2>
+          <p class="crosslink-banner__text animates-in"> From light bulbs and plugs to thermostats, cameras, and locks, find a Works with Google Home or Matter device from your favorite smart home brands.</p>
+          <div class="animates-in">
+            <a aria-hidden="false" aria-label="Explore devices" role="link" class="rhea__cta
+         glue-button glue-button--high-emphasis
+        " href="/web/20231225191243/https://home.google.com/explore-devices/" data-analytics="{&quot;module_name&quot;: &quot;Crosslink Banner&quot;,
+          &quot;event&quot;: &quot;crosslink_banner_cta_click&quot;,
+          &quot;link_url&quot;: &quot;https://home.google.com/explore-devices/&quot;,
+          &quot;link_type&quot;: &quot;internal&quot;,
+          &quot;click_text&quot;: &quot;Explore devices&quot;,
+          &quot;section_header&quot;: &quot;Build your smart home, your way.&quot;,
+          &quot;position&quot;: &quot;&quot;}" tabindex="0">
+              <span class="rhea__cta__label">
+                Explore devices
+              </span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="glue-footer glue-mod-spacer-3-top" data-component="footer" role="contentinfo" aria-label="Footer section">
+      <section class="glue-footer__global">
+        <div class="glue-footer__logo">
+          <a href="https://web.archive.org/web/20231225191243/https://www.google.com/" title="Google" target="_blank" data-analytics="{&quot;module_name&quot;: &quot;footer&quot;,
+          &quot;event&quot;: &quot;nav_click&quot;,
+          &quot;click_text&quot;: &quot;Google Logo&quot;,
+          &quot;link_url&quot;: &quot;https://www.google.com&quot;}">
+            <svg role="img" aria-hidden="true" class="glue-footer__logo-img" alt="Google website">
+              <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/glue-icons.svg?cache=cc5b33f#google-solid-logo"></use>
+            </svg>
+          </a>
+        </div>
+        <ul class="glue-footer__global-links glue-no-bullet">
+          <li class="glue-footer__global-links-list-item">
+            <a aria-label="Go to website About Google" class="external-link
+            glue-footer__link" href="https://web.archive.org/web/20231225191243/https://about.google/" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+            &quot;module_name&quot;: &quot;footer&quot;,
+            &quot;click_text&quot;: &quot;About Google&quot;,
+            &quot;link_url&quot;: &quot;https://about.google/&quot;}" target="_blank">
+              About Google
+            </a>
+          </li>
+          <li class="glue-footer__global-links-list-item">
+            <a aria-label="Go to website Google Store" class="external-link
+            glue-footer__link" href="https://web.archive.org/web/20231225191243/https://store.google.com/us/?hl=en-US&amp;regionRedirect=true" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+            &quot;module_name&quot;: &quot;footer&quot;,
+            &quot;click_text&quot;: &quot;Google Store&quot;,
+            &quot;link_url&quot;: &quot;https://store.google.com/us/?hl=en-US&amp;regionRedirect=true&quot;}" target="_blank">
+              Google Store
+            </a>
+          </li>
+          <li class="glue-footer__global-links-list-item">
+            <a aria-label="Go to website Privacy" class="external-link
+            glue-footer__link" href="https://web.archive.org/web/20231225191243/https://policies.google.com/privacy" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+            &quot;module_name&quot;: &quot;footer&quot;,
+            &quot;click_text&quot;: &quot;Privacy&quot;,
+            &quot;link_url&quot;: &quot;https://policies.google.com/privacy&quot;}" target="_blank">
+              Privacy
+            </a>
+          </li>
+          <li class="glue-footer__global-links-list-item">
+            <a aria-label="Go to website Terms" class="external-link
+            glue-footer__link" href="https://web.archive.org/web/20231225191243/https://policies.google.com/terms" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+            &quot;module_name&quot;: &quot;footer&quot;,
+            &quot;click_text&quot;: &quot;Terms&quot;,
+            &quot;link_url&quot;: &quot;https://policies.google.com/terms&quot;}" target="_blank">
+              Terms
+            </a>
+          </li>
+        </ul>
+        <ul class="glue-footer__global-links glue-footer__global-links--extra
+        glue-no-bullet">
+          <li class="glue-footer__global-links-list-item
+          glue-footer__global-links-list-item--extra">
+            <a aria-label="Go to website Help" class="external-link
+            glue-footer__link" href="https://web.archive.org/web/20231225191243/https://support.google.com/" data-analytics="{&quot;event&quot;: &quot;nav_click&quot;,
+            &quot;module_name&quot;: &quot;footer&quot;,
+            &quot;click_text&quot;: &quot;Help&quot;,
+            &quot;link_url&quot;: &quot;https://support.google.com/&quot;}" target="_blank">
+              <svg role="img" aria-hidden="true" class="glue-icon
+              glue-icon--24px glue-icon--footer" alt="Help">
+                <use xlink:href="/web/20231225191243im_/https://home.google.com/static/icons/glue-icons.svg?cache=cc5b33f#help"></use>
+              </svg>
+              Help
+            </a>
+          </li>
+          <li class="glue-footer__global-links-list-item
+          glue-footer__global-links-list-item--extra lang-selector">
+            <select name="lang-selector" id="lang-selector" aria-label="Pick Language" class="glue-form__dropdown glue-footer__lang-dropdown">
+              <option value="/intl/de_de/welcome/">Deutschland – Deutsch</option>
+              <option value="/intl/en_au/welcome/">Australia – English</option>
+              <option value="/intl/en_ca/welcome/">Canada – English</option>
+              <option value="/intl/en_uk/welcome/">United Kingdom – English</option>
+              <option value="/welcome/" selected>United States – English</option>
+              <option value="/intl/es_es/welcome/">España – Español</option>
+              <option value="/intl/fr_ca/welcome/">Canada – Français</option>
+              <option value="/intl/fr_fr/welcome/">France – Français</option>
+              <option value="/intl/it_it/welcome/">Italia – Italiano</option>
+              <option value="/intl/ja_jp/welcome/">日本 – 日本語</option>
+              <option value="/intl/nl_nl/welcome/">Nederland – Nederlands</option>
+            </select>
+          </li>
+        </ul>
+      </section>
+    </footer>
+    <script src="https://web.archive.org/web/20231225191243js_/https://www.gstatic.com/external_hosted/intersectionobserver_polyfill/intersection-observer.min.js" nonce="mp-m9_qv0bNONTTxCpJV0w"></script>
+    <script src="https://web.archive.org/web/20231225191243js_/https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js" nonce="mp-m9_qv0bNONTTxCpJV0w"></script>
+    <script src="/web/20231225191243js_/https://home.google.com/static/compiled/index.min.js?cache=52c3234" nonce="mp-m9_qv0bNONTTxCpJV0w"></script>
+  </body>
+</html><!--
+     FILE ARCHIVED ON 19:12:43 Dec 25, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:18:54 Mar 07, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.129
+  exclusion.robots.policy: 0.108
+  cdx.remote: 0.169
+  esindex: 0.017
+  LoadShardBlock: 358.617 (6)
+  PetaboxLoader3.datanode: 195.2 (7)
+  load_resource: 151.497
+  PetaboxLoader3.resolve: 51.419
+-->
